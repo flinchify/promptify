@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react'
+import { useState, useCallback, useRef, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
 const questions = [
@@ -85,10 +85,18 @@ export default function Hero() {
     }, 1500)
   }, [selected, submitted, currentQ, completedCount, totalQuestions])
 
+  const videoRef = useRef<HTMLVideoElement>(null)
+
+  useEffect(() => {
+    // Force play on SPA navigation (autoPlay only fires on initial page load)
+    videoRef.current?.play().catch(() => {})
+  }, [])
+
   return (
     <section className="relative min-h-screen flex items-center overflow-hidden">
       {/* Background Video */}
       <video
+        ref={videoRef}
         autoPlay
         muted
         loop
