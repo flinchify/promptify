@@ -6,7 +6,10 @@ import Home from './pages/Home'
 import Features from './pages/Features'
 import Pricing from './pages/Pricing'
 import Blog from './pages/Blog'
+import BlogPost from './pages/BlogPost'
 import About from './pages/About'
+import Login from './pages/Login'
+import Signup from './pages/Signup'
 
 export default function App() {
   useScrollReveal()
@@ -20,7 +23,10 @@ export default function App() {
           <Route path="/features" element={<Features />} />
           <Route path="/pricing" element={<Pricing />} />
           <Route path="/blog" element={<Blog />} />
+          <Route path="/blog/:slug" element={<BlogPost />} />
           <Route path="/about" element={<About />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<Signup />} />
         </Routes>
       </main>
       <Footer />

@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom'
 
 const plans = [
   {
@@ -14,6 +15,7 @@ const plans = [
       'Email support',
     ],
     cta: 'Get Started',
+    ctaLink: '/signup',
     highlighted: false,
   },
   {
@@ -32,6 +34,7 @@ const plans = [
       'Priority support',
     ],
     cta: 'Start Free Trial',
+    ctaLink: '/signup',
     highlighted: true,
   },
   {
@@ -51,6 +54,7 @@ const plans = [
       'On-premise option',
     ],
     cta: 'Contact Sales',
+    ctaLink: 'https://agentmail.to/enterprise',
     highlighted: false,
   },
 ]
@@ -99,6 +103,7 @@ export default function Pricing() {
               ? `$${plan.annual}`
               : `$${plan.monthly}`
             const period = plan.priceLabel ? '' : annual ? '/mo billed annually' : '/month'
+            const isExternal = plan.ctaLink.startsWith('http')
 
             return (
               <div
@@ -141,15 +146,27 @@ export default function Pricing() {
                   ))}
                 </ul>
 
-                <button
-                  className={`mt-8 w-full py-2.5 rounded-lg text-sm font-medium transition-all ${
-                    plan.highlighted
-                      ? 'glow-btn'
-                      : 'ghost-btn'
-                  }`}
-                >
-                  {plan.cta}
-                </button>
+                {isExternal ? (
+                  <a
+                    href={plan.ctaLink}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={`mt-8 w-full py-2.5 rounded-lg text-sm font-medium transition-all text-center inline-block ${
+                      plan.highlighted ? 'glow-btn' : 'ghost-btn'
+                    }`}
+                  >
+                    {plan.cta}
+                  </a>
+                ) : (
+                  <Link
+                    to={plan.ctaLink}
+                    className={`mt-8 w-full py-2.5 rounded-lg text-sm font-medium transition-all text-center inline-block ${
+                      plan.highlighted ? 'glow-btn' : 'ghost-btn'
+                    }`}
+                  >
+                    {plan.cta}
+                  </Link>
+                )}
               </div>
             )
           })}

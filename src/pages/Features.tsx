@@ -1,3 +1,73 @@
+import { Link } from 'react-router-dom'
+
+const categories = [
+  {
+    label: 'Assessment',
+    features: [
+      {
+        icon: '🧠',
+        title: 'Adaptive Testing Engine',
+        desc: 'AI-powered difficulty adjustment that finds your exact skill level in half the time.',
+      },
+      {
+        icon: '📊',
+        title: 'Skill Radar Charts',
+        desc: 'Multi-dimensional proficiency visualization across AI competency areas.',
+      },
+      {
+        icon: '⚡',
+        title: 'Real-time Scoring',
+        desc: 'Instant results with detailed breakdowns, percentiles, and improvement suggestions.',
+      },
+      {
+        icon: '🛠️',
+        title: 'Assessment Builder',
+        desc: 'Drag-and-drop editor with AI-assisted question generation and 10K+ question bank.',
+      },
+    ],
+  },
+  {
+    label: 'Analytics',
+    features: [
+      {
+        icon: '👥',
+        title: 'Team Dashboards',
+        desc: 'Organization-wide analytics, department comparisons, and training ROI tracking.',
+      },
+      {
+        icon: '🏅',
+        title: 'Digital Certifications',
+        desc: 'Verifiable badges with unique URLs, LinkedIn integration, and custom branding.',
+      },
+    ],
+  },
+  {
+    label: 'Security',
+    features: [
+      {
+        icon: '🔒',
+        title: 'Anti-Cheat & Proctoring',
+        desc: 'Browser lockdown, copy-paste detection, and optional AI-powered proctoring.',
+      },
+    ],
+  },
+  {
+    label: 'Integration',
+    features: [
+      {
+        icon: '🔗',
+        title: 'API & Webhooks',
+        desc: 'RESTful API, real-time webhooks, and SDKs in Python, TypeScript, and Go.',
+      },
+      {
+        icon: '🎓',
+        title: 'LMS Integrations',
+        desc: 'Native integrations with Canvas, Moodle, Blackboard, and custom LTI support.',
+      },
+    ],
+  },
+]
+
 export default function Features() {
   return (
     <div className="min-h-screen pt-24 pb-16">
@@ -14,50 +84,44 @@ export default function Features() {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 mt-16">
-          {[
-            {
-              title: 'Adaptive Testing Engine',
-              desc: 'AI-powered difficulty adjustment that finds your exact skill level in half the time.',
-            },
-            {
-              title: 'Skill Radar Charts',
-              desc: 'Multi-dimensional proficiency visualization across AI competency areas.',
-            },
-            {
-              title: 'Real-time Scoring',
-              desc: 'Instant results with detailed breakdowns, percentiles, and improvement suggestions.',
-            },
-            {
-              title: 'Assessment Builder',
-              desc: 'Drag-and-drop editor with AI-assisted question generation and 10K+ question bank.',
-            },
-            {
-              title: 'Team Dashboards',
-              desc: 'Organization-wide analytics, department comparisons, and training ROI tracking.',
-            },
-            {
-              title: 'Digital Certifications',
-              desc: 'Verifiable badges with unique URLs, LinkedIn integration, and custom branding.',
-            },
-            {
-              title: 'API & Webhooks',
-              desc: 'RESTful API, real-time webhooks, and SDKs in Python, TypeScript, and Go.',
-            },
-            {
-              title: 'LMS Integrations',
-              desc: 'Native integrations with Canvas, Moodle, Blackboard, and custom LTI support.',
-            },
-            {
-              title: 'Anti-Cheat & Proctoring',
-              desc: 'Browser lockdown, copy-paste detection, and optional AI-powered proctoring.',
-            },
-          ].map((f) => (
-            <div key={f.title} className="glass-strong p-6 rounded-2xl">
-              <h3 className="text-base font-semibold mb-2">{f.title}</h3>
-              <p className="text-sm text-white/40 leading-relaxed">{f.desc}</p>
+        {categories.map((cat) => (
+          <div key={cat.label} className="mt-16">
+            <h2 className="text-xs font-medium uppercase tracking-wider text-orange-400/60 mb-6">
+              {cat.label}
+            </h2>
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {cat.features.map((f) => (
+                <div key={f.title} className="glass-strong p-6 rounded-2xl">
+                  <span className="text-2xl mb-3 block">{f.icon}</span>
+                  <h3 className="text-base font-semibold mb-2">{f.title}</h3>
+                  <p className="text-sm text-white/40 leading-relaxed">{f.desc}</p>
+                </div>
+              ))}
             </div>
-          ))}
+          </div>
+        ))}
+
+        {/* CTA */}
+        <div className="mt-24 text-center">
+          <div className="glass-strong rounded-2xl p-10 max-w-2xl mx-auto">
+            <h2 className="text-2xl font-bold text-white mb-3">Ready to get started?</h2>
+            <p className="text-sm text-white/40 mb-6">
+              Start measuring AI proficiency across your team today. Free to get started, no credit card required.
+            </p>
+            <div className="flex flex-wrap justify-center gap-4">
+              <Link to="/signup" className="glow-btn px-8 py-3 text-sm font-medium inline-block">
+                Start Free Trial
+              </Link>
+              <a
+                href="https://agentmail.to/enterprise"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="ghost-btn px-8 py-3 text-sm font-medium inline-block"
+              >
+                Contact Sales
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </div>

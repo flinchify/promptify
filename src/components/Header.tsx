@@ -63,12 +63,26 @@ export default function Header() {
 
         {/* Desktop Actions — right side */}
         <div className="hidden md:flex items-center gap-3">
-          <button className="text-[13px] text-white/60 hover:text-white transition-colors px-4 py-2">
+          <a
+            href="https://agentmail.to/enterprise"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[13px] text-white/60 hover:text-white transition-colors px-4 py-2"
+          >
             Book a Demo
-          </button>
-          <button className="text-[13px] font-medium text-white border border-white/20 hover:border-orange-400/60 hover:text-orange-400 rounded-full px-5 py-2 transition-all duration-200">
+          </a>
+          <Link
+            to="/login"
+            className="text-[13px] text-white/60 hover:text-white transition-colors px-4 py-2"
+          >
+            Sign In
+          </Link>
+          <Link
+            to="/signup"
+            className="text-[13px] font-medium text-white border border-white/20 hover:border-orange-400/60 hover:text-orange-400 rounded-full px-5 py-2 transition-all duration-200"
+          >
             Get Started
-          </button>
+          </Link>
         </div>
 
         {/* Mobile Toggle */}
@@ -109,12 +123,23 @@ export default function Header() {
               </Link>
             ))}
             <div className="pt-4 border-t border-white/[0.06] space-y-3">
-              <button className="block text-sm text-white/60 hover:text-white">
+              <a
+                href="https://agentmail.to/enterprise"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block text-sm text-white/60 hover:text-white"
+              >
                 Book a Demo
-              </button>
-              <button className="text-sm font-medium text-white border border-white/20 rounded-full w-full py-2.5">
+              </a>
+              <Link to="/login" className="block text-sm text-white/60 hover:text-white">
+                Sign In
+              </Link>
+              <Link
+                to="/signup"
+                className="text-sm font-medium text-white border border-white/20 rounded-full w-full py-2.5 block text-center"
+              >
                 Get Started
-              </button>
+              </Link>
             </div>
           </div>
         </div>

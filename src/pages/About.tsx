@@ -1,52 +1,3 @@
-import { useState, useEffect, useRef } from 'react'
-
-function CountUpStat({ value, label }: { value: string; label: string }) {
-  const ref = useRef<HTMLDivElement>(null)
-  const [display, setDisplay] = useState(value)
-  const hasAnimated = useRef(false)
-
-  useEffect(() => {
-    const el = ref.current
-    if (!el) return
-
-    const numericMatch = value.match(/^([\d.]+)(.*)$/)
-    if (!numericMatch) return
-
-    const target = parseFloat(numericMatch[1])
-    const suffix = numericMatch[2]
-    const isFloat = value.includes('.')
-
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting && !hasAnimated.current) {
-          hasAnimated.current = true
-          setDisplay('0' + suffix)
-          const start = performance.now()
-          const duration = 2000
-          const step = (now: number) => {
-            const progress = Math.min((now - start) / duration, 1)
-            const eased = 1 - Math.pow(1 - progress, 3)
-            const current = eased * target
-            setDisplay((isFloat ? current.toFixed(1) : Math.round(current).toLocaleString()) + suffix)
-            if (progress < 1) requestAnimationFrame(step)
-          }
-          requestAnimationFrame(step)
-        }
-      },
-      { threshold: 0.3 }
-    )
-    observer.observe(el)
-    return () => observer.disconnect()
-  }, [value])
-
-  return (
-    <div ref={ref} className="reveal">
-      <p className="text-3xl font-bold gradient-text">{display}</p>
-      <p className="text-sm text-white/30 mt-1">{label}</p>
-    </div>
-  )
-}
-
 export default function About() {
   return (
     <div className="min-h-screen pt-24 pb-16">
@@ -75,8 +26,8 @@ export default function About() {
               text: 'We combine psychometric science with modern AI to build assessments that are adaptive, fair, and genuinely useful. No trivia questions — only real-world skill validation.',
             },
             {
-              title: 'Our Team',
-              text: "We're a team of assessment scientists, AI engineers, and product builders from companies like Google, Anthropic, and Duolingo. Based in San Francisco.",
+              title: 'Why We Built This',
+              text: "InpromptiFy was started in Australia by a young entrepreneur who saw firsthand how quickly AI was reshaping the workforce — and how few tools existed to measure whether people were actually keeping up. We're building what the industry needs.",
             },
           ].map((card, i) => (
             <div
@@ -87,13 +38,6 @@ export default function About() {
               <p className="text-sm text-gray-400 leading-relaxed">{card.text}</p>
             </div>
           ))}
-        </div>
-
-        <div className="mt-24 grid md:grid-cols-4 gap-8 text-center">
-          <CountUpStat value="150K+" label="Assessments" />
-          <CountUpStat value="40+" label="Countries" />
-          <CountUpStat value="500+" label="Organizations" />
-          <CountUpStat value="99.9%" label="Uptime" />
         </div>
       </div>
     </div>

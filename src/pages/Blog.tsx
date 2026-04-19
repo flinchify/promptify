@@ -1,7 +1,9 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom'
 
 const posts = [
   {
+    slug: 'why-ai-proficiency-assessments-matter',
     title: 'Why AI Proficiency Assessments Matter in 2026',
     excerpt:
       'As AI tools become integral to every role, organizations need reliable ways to measure and validate AI skills across their workforce.',
@@ -10,6 +12,7 @@ const posts = [
     category: 'Engineering',
   },
   {
+    slug: 'adaptive-testing-how-it-works',
     title: 'Introducing Adaptive Testing: How It Works',
     excerpt:
       'A deep dive into the AI engine behind our adaptive assessments and why it produces more accurate results in less time.',
@@ -18,20 +21,13 @@ const posts = [
     category: 'Product',
   },
   {
+    slug: 'building-certification-program',
     title: 'Building a Certification Program with InpromptiFy',
     excerpt:
       'Step-by-step guide to creating, deploying, and managing verifiable AI certification programs for your organization.',
     date: 'Apr 5, 2026',
     tag: 'Guide',
     category: 'Guides',
-  },
-  {
-    title: 'The State of AI Skills: 2026 Report',
-    excerpt:
-      'Key findings from analyzing 150,000+ assessments across 40 countries. Where are the biggest skill gaps?',
-    date: 'Mar 28, 2026',
-    tag: 'Research',
-    category: 'Engineering',
   },
 ]
 
@@ -76,10 +72,10 @@ export default function Blog() {
 
         <div className="grid md:grid-cols-2 gap-4 mt-8">
           {filtered.map((post) => (
-            <a
-              key={post.title}
-              href="#"
-              className="glass-strong p-6 rounded-2xl group cursor-pointer hover:border-orange-500/20 hover:shadow-lg hover:shadow-orange-500/5 hover:-translate-y-1 transition-all duration-300"
+            <Link
+              key={post.slug}
+              to={`/blog/${post.slug}`}
+              className="glass-strong p-6 rounded-2xl group cursor-pointer hover:border-orange-500/20 hover:shadow-lg hover:shadow-orange-500/5 hover:-translate-y-1 transition-all duration-300 block"
             >
               <div className="flex items-center gap-3 mb-4">
                 <span className="text-[11px] px-2.5 py-1 rounded-md bg-orange-500/10 text-orange-400 font-mono">
@@ -93,7 +89,10 @@ export default function Blog() {
               <p className="text-sm text-gray-400 mt-2 leading-relaxed">
                 {post.excerpt}
               </p>
-            </a>
+              <span className="inline-block mt-4 text-xs text-orange-400/60 group-hover:text-orange-400 transition-colors">
+                Read more &rarr;
+              </span>
+            </Link>
           ))}
         </div>
       </div>

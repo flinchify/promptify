@@ -4,26 +4,15 @@ const footerLinks = {
   Product: [
     { label: 'Features', href: '/features' },
     { label: 'Pricing', href: '/pricing' },
-    { label: 'API Reference', href: '#' },
-    { label: 'Integrations', href: '#' },
-    { label: 'Changelog', href: '#' },
+    { label: 'Blog', href: '/blog' },
   ],
   Company: [
     { label: 'About', href: '/about' },
-    { label: 'Blog', href: '/blog' },
-    { label: 'Careers', href: '#' },
-    { label: 'Contact', href: '#' },
+    { label: 'Contact', href: 'https://agentmail.to/enterprise', external: true },
   ],
-  Resources: [
-    { label: 'Documentation', href: '#' },
-    { label: 'Guides', href: '#' },
-    { label: 'Community', href: '#' },
-    { label: 'Support', href: '#' },
-  ],
-  Legal: [
-    { label: 'Privacy', href: '#' },
-    { label: 'Terms', href: '#' },
-    { label: 'Security', href: '#' },
+  Account: [
+    { label: 'Sign In', href: '/login' },
+    { label: 'Sign Up', href: '/signup' },
   ],
 }
 
@@ -31,7 +20,7 @@ export default function Footer() {
   return (
     <footer className="border-t border-white/[0.06]">
       <div className="max-w-7xl mx-auto px-6 py-16">
-        <div className="grid grid-cols-2 md:grid-cols-5 gap-8">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
             <Link to="/" className="flex items-center mb-4">
@@ -51,12 +40,23 @@ export default function Footer() {
               <ul className="space-y-2.5">
                 {links.map((link) => (
                   <li key={link.label}>
-                    <Link
-                      to={link.href}
-                      className="text-sm text-white/50 hover:text-white transition-colors"
-                    >
-                      {link.label}
-                    </Link>
+                    {'external' in link && link.external ? (
+                      <a
+                        href={link.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-sm text-white/50 hover:text-white transition-colors"
+                      >
+                        {link.label}
+                      </a>
+                    ) : (
+                      <Link
+                        to={link.href}
+                        className="text-sm text-white/50 hover:text-white transition-colors"
+                      >
+                        {link.label}
+                      </Link>
+                    )}
                   </li>
                 ))}
               </ul>
@@ -69,18 +69,6 @@ export default function Footer() {
           <p className="text-xs text-white/30">
             &copy; {new Date().getFullYear()} InpromptiFy. All rights reserved.
           </p>
-          <div className="flex items-center gap-5">
-            {/* Social links */}
-            {['Twitter', 'GitHub', 'Discord'].map((name) => (
-              <a
-                key={name}
-                href="#"
-                className="text-xs text-white/30 hover:text-white/60 transition-colors"
-              >
-                {name}
-              </a>
-            ))}
-          </div>
         </div>
       </div>
     </footer>
