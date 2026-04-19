@@ -1,1 +1,102 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCcKCmNvbnN0IHBvc3RzID0gWwogIHsKICAgIHRpdGxlOiAnV2h5IEFJIFByb2ZpY2llbmN5IEFzc2Vzc21lbnRzIE1hdHRlciBpbiAyMDI2JywKICAgIGV4Y2VycHQ6CiAgICAgICdBcyBBSSB0b29scyBiZWNvbWUgaW50ZWdyYWwgdG8gZXZlcnkgcm9sZSwgb3JnYW5pemF0aW9ucyBuZWVkIHJlbGlhYmxlIHdheXMgdG8gbWVhc3VyZSBhbmQgdmFsaWRhdGUgQUkgc2tpbGxzIGFjcm9zcyB0aGVpciB3b3JrZm9yY2UuJywKICAgIGRhdGU6ICdBcHIgMTUsIDIwMjYnLAogICAgdGFnOiAnSW5kdXN0cnknLAogICAgY2F0ZWdvcnk6ICdFbmdpbmVlcmluZycsCiAgfSwKICB7CiAgICB0aXRsZTogJ0ludHJvZHVjaW5nIEFkYXB0aXZlIFRlc3Rpbmc6IEhvdyBJdCBXb3JrcycsCiAgICBleGNlcnB0OgogICAgICAnQSBkZWVwIGRpdmUgaW50byB0aGUgQUkgZW5naW5lIGJlaGluZCBvdXIgYWRhcHRpdmUgYXNzZXNzbWVudHMgYW5kIHdoeSBpdCBwcm9kdWNlcyBtb3JlIGFjY3VyYXRlIHJlc3VsdHMgaW4gbGVzcyB0aW1lLicsCiAgICBkYXRlOiAnQXByIDEwLCAyMDI2JywKICAgIHRhZzogJ1Byb2R1Y3QnLAogICAgY2F0ZWdvcnk6ICdQcm9kdWN0JywKICB9LAogIHsKICAgIHRpdGxlOiAnQnVpbGRpbmcgYSBDZXJ0aWZpY2F0aW9uIFByb2dyYW0gd2l0aCBJbnByb21wdGlGeScsCiAgICBleGNlcnB0OgogICAgICAnU3RlcC1ieS1zdGVwIGd1aWRlIHRvIGNyZWF0aW5nLCBkZXBsb3lpbmcsIGFuZCBtYW5hZ2luZyB2ZXJpZmlhYmxlIEFJIGNlcnRpZmljYXRpb24gcHJvZ3JhbXMgZm9yIHlvdXIgb3JnYW5pemF0aW9uLicsCiAgICBkYXRlOiAnQXByIDUsIDIwMjYnLAogICAgdGFnOiAnR3VpZGUnLAogICAgY2F0ZWdvcnk6ICdHdWlkZXMnLAogIH0sCiAgewogICAgdGl0bGU6ICdUaGUgU3RhdGUgb2YgQUkgU2tpbGxzOiAyMDI2IFJlcG9ydCcsCiAgICBleGNlcnB0OgogICAgICAnS2V5IGZpbmRpbmdzIGZyb20gYW5hbHl6aW5nIDE1MCwwMDArIGFzc2Vzc21lbnRzIGFjcm9zcyA0MCBjb3VudHJpZXMuIFdoZXJlIGFyZSB0aGUgYmlnZ2VzdCBza2lsbCBnYXBzPycsCiAgICBkYXRlOiAnTWFyIDI4LCAyMDI2JywKICAgIHRhZzogJ1Jlc2VhcmNoJywKICAgIGNhdGVnb3J5OiAnRW5naW5lZXJpbmcnLAogIH0sCl0KCmNvbnN0IGNhdGVnb3JpZXMgPSBbJ0FsbCcsICdFbmdpbmVlcmluZycsICdQcm9kdWN0JywgJ0d1aWRlcyddCgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBCbG9nKCkgewogIGNvbnN0IFthY3RpdmVDYXRlZ29yeSwgc2V0QWN0aXZlQ2F0ZWdvcnldID0gdXNlU3RhdGUoJ0FsbCcpCgogIGNvbnN0IGZpbHRlcmVkID0gYWN0aXZlQ2F0ZWdvcnkgPT09ICdBbGwnCiAgICA/IHBvc3RzCiAgICA6IHBvc3RzLmZpbHRlcigocCkgPT4gcC5jYXRlZ29yeSA9PT0gYWN0aXZlQ2F0ZWdvcnkpCgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibWluLWgtc2NyZWVuIHB0LTI0IHBiLTE2Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTd4bCBteC1hdXRvIHB4LTYiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy14bCI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNlY3Rpb24tbGFiZWwiPlsgQmxvZyBdPC9zcGFuPgogICAgICAgICAgPGgxIGNsYXNzTmFtZT0idGV4dC00eGwgc206dGV4dC01eGwgZm9udC1ib2xkIHRyYWNraW5nLXRpZ2h0IG10LTIgdGV4dC13aGl0ZSI+CiAgICAgICAgICAgIExhdGVzdCB1cGRhdGVzCiAgICAgICAgICA8L2gxPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWxnIHRleHQtZ3JheS00MDAgbXQtNCI+CiAgICAgICAgICAgIEluc2lnaHRzIG9uIEFJIGFzc2Vzc21lbnQsIHByb2ZpY2llbmN5IG1lYXN1cmVtZW50LCBhbmQgd29ya2ZvcmNlIHJlYWRpbmVzcy4KICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgey8qIENhdGVnb3J5IGZpbHRlcnMgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTIgbXQtMTAiPgogICAgICAgICAge2NhdGVnb3JpZXMubWFwKChjYXQpID0+ICgKICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgIGtleT17Y2F0fQogICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldEFjdGl2ZUNhdGVnb3J5KGNhdCl9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcHgtNCBweS0yIHRleHQtc20gcm91bmRlZC1sZyB0cmFuc2l0aW9uLWFsbCAkewogICAgICAgICAgICAgICAgYWN0aXZlQ2F0ZWdvcnkgPT09IGNhdAogICAgICAgICAgICAgICAgICA/ICdiZy1vcmFuZ2UtNTAwLzEwIHRleHQtd2hpdGUgYm9yZGVyIGJvcmRlci1vcmFuZ2UtNTAwLzIwJwogICAgICAgICAgICAgICAgICA6ICd0ZXh0LXdoaXRlLzQwIGhvdmVyOnRleHQtd2hpdGUvNjAgaG92ZXI6Ymctd2hpdGUvWzAuMDNdJwogICAgICAgICAgICAgIH1gfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAge2NhdH0KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgbWQ6Z3JpZC1jb2xzLTIgZ2FwLTQgbXQtOCI+CiAgICAgICAgICB7ZmlsdGVyZWQubWFwKChwb3N0KSA9PiAoCiAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAga2V5PXtwb3N0LnRpdGxlfQogICAgICAgICAgICAgIGhyZWY9IiMiCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJnbGFzcy1zdHJvbmcgcC02IHJvdW5kZWQtMnhsIGdyb3VwIGN1cnNvci1wb2ludGVyIGhvdmVyOmJvcmRlci1vcmFuZ2UtNTAwLzIwIGhvdmVyOnNoYWRvdy1sZyBob3ZlcjpzaGFkb3ctb3JhbmdlLTUwMC81IGhvdmVyOi10cmFuc2xhdGUteS0xIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMCIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBtYi00Ij4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTFweF0gcHgtMi41IHB5LTEgcm91bmRlZC1tZCBiZy1vcmFuZ2UtNTAwLzEwIHRleHQtb3JhbmdlLTQwMCBmb250LW1vbm8iPgogICAgICAgICAgICAgICAgICB7cG9zdC50YWd9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgdGV4dC13aGl0ZS8zMCI+e3Bvc3QuZGF0ZX08L3NwYW4+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LXNlbWlib2xkIHRleHQtd2hpdGUgZ3JvdXAtaG92ZXI6dGV4dC1vcmFuZ2UtMzAwIHRyYW5zaXRpb24tY29sb3JzIj4KICAgICAgICAgICAgICAgIHtwb3N0LnRpdGxlfQogICAgICAgICAgICAgIDwvaDI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtZ3JheS00MDAgbXQtMiBsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAgICAgICAge3Bvc3QuZXhjZXJwdH0KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvYT4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICkKfQo="}
+import { useState } from 'react'
+
+const posts = [
+  {
+    title: 'Why AI Proficiency Assessments Matter in 2026',
+    excerpt:
+      'As AI tools become integral to every role, organizations need reliable ways to measure and validate AI skills across their workforce.',
+    date: 'Apr 15, 2026',
+    tag: 'Industry',
+    category: 'Engineering',
+  },
+  {
+    title: 'Introducing Adaptive Testing: How It Works',
+    excerpt:
+      'A deep dive into the AI engine behind our adaptive assessments and why it produces more accurate results in less time.',
+    date: 'Apr 10, 2026',
+    tag: 'Product',
+    category: 'Product',
+  },
+  {
+    title: 'Building a Certification Program with InpromptiFy',
+    excerpt:
+      'Step-by-step guide to creating, deploying, and managing verifiable AI certification programs for your organization.',
+    date: 'Apr 5, 2026',
+    tag: 'Guide',
+    category: 'Guides',
+  },
+  {
+    title: 'The State of AI Skills: 2026 Report',
+    excerpt:
+      'Key findings from analyzing 150,000+ assessments across 40 countries. Where are the biggest skill gaps?',
+    date: 'Mar 28, 2026',
+    tag: 'Research',
+    category: 'Engineering',
+  },
+]
+
+const categories = ['All', 'Engineering', 'Product', 'Guides']
+
+export default function Blog() {
+  const [activeCategory, setActiveCategory] = useState('All')
+
+  const filtered = activeCategory === 'All'
+    ? posts
+    : posts.filter((p) => p.category === activeCategory)
+
+  return (
+    <div className="min-h-screen pt-24 pb-16">
+      <div className="max-w-7xl mx-auto px-6">
+        <div className="max-w-xl">
+          <span className="section-label">[ Blog ]</span>
+          <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mt-2 text-white">
+            Latest updates
+          </h1>
+          <p className="text-lg text-gray-400 mt-4">
+            Insights on AI assessment, proficiency measurement, and workforce readiness.
+          </p>
+        </div>
+
+        {/* Category filters */}
+        <div className="flex gap-2 mt-10">
+          {categories.map((cat) => (
+            <button
+              key={cat}
+              onClick={() => setActiveCategory(cat)}
+              className={`px-4 py-2 text-sm rounded-lg transition-all ${
+                activeCategory === cat
+                  ? 'bg-orange-500/10 text-white border border-orange-500/20'
+                  : 'text-white/40 hover:text-white/60 hover:bg-white/[0.03]'
+              }`}
+            >
+              {cat}
+            </button>
+          ))}
+        </div>
+
+        <div className="grid md:grid-cols-2 gap-4 mt-8">
+          {filtered.map((post) => (
+            <a
+              key={post.title}
+              href="#"
+              className="glass-strong p-6 rounded-2xl group cursor-pointer hover:border-orange-500/20 hover:shadow-lg hover:shadow-orange-500/5 hover:-translate-y-1 transition-all duration-300"
+            >
+              <div className="flex items-center gap-3 mb-4">
+                <span className="text-[11px] px-2.5 py-1 rounded-md bg-orange-500/10 text-orange-400 font-mono">
+                  {post.tag}
+                </span>
+                <span className="text-xs text-white/30">{post.date}</span>
+              </div>
+              <h2 className="text-lg font-semibold text-white group-hover:text-orange-300 transition-colors">
+                {post.title}
+              </h2>
+              <p className="text-sm text-gray-400 mt-2 leading-relaxed">
+                {post.excerpt}
+              </p>
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  )
+}

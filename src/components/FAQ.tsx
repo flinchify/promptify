@@ -1,1 +1,92 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCcKCmNvbnN0IGZhcXMgPSBbCiAgewogICAgcTogJ1doYXQgaXMgSW5wcm9tcHRpRnk/JywKICAgIGE6ICdJbnByb21wdGlGeSBpcyBhbiBBSS1wb3dlcmVkIHByb2ZpY2llbmN5IGFzc2Vzc21lbnQgcGxhdGZvcm0gdGhhdCBtZWFzdXJlcywgdmFsaWRhdGVzLCBhbmQgY2VydGlmaWVzIEFJIHNraWxscy4gSXQgdXNlcyBhZGFwdGl2ZSB0ZXN0aW5nLCByZWFsLXRpbWUgc2NvcmluZywgYW5kIGNvbXByZWhlbnNpdmUgc2tpbGwgbWFwcGluZyB0byBwcm92aWRlIGFjY3VyYXRlIGFzc2Vzc21lbnRzIGZvciBpbmRpdmlkdWFscyBhbmQgb3JnYW5pemF0aW9ucy4nLAogIH0sCiAgewogICAgcTogJ0hvdyBkb2VzIGFkYXB0aXZlIHRlc3Rpbmcgd29yaz8nLAogICAgYTogJ091ciBBSSBlbmdpbmUgYW5hbHl6ZXMgeW91ciByZXNwb25zZXMgaW4gcmVhbC10aW1lIGFuZCBhZGp1c3RzIHRoZSBkaWZmaWN1bHR5IG9mIHN1YnNlcXVlbnQgcXVlc3Rpb25zLiBJZiB5b3UgYW5zd2VyIGNvcnJlY3RseSwgcXVlc3Rpb25zIGdldCBoYXJkZXIuIElmIHlvdSBzdHJ1Z2dsZSwgdGhleSBnZXQgZWFzaWVyLiBUaGlzIHplcm9zIGluIG9uIHlvdXIgZXhhY3QgcHJvZmljaWVuY3kgbGV2ZWwgbXVjaCBmYXN0ZXIgdGhhbiB0cmFkaXRpb25hbCBmaXhlZC1kaWZmaWN1bHR5IHRlc3RzLicsCiAgfSwKICB7CiAgICBxOiAnV2hhdCBBSSBza2lsbHMgYW5kIHRvb2xzIGNhbiBiZSBhc3Nlc3NlZD8nLAogICAgYTogJ0lucHJvbXB0aUZ5IGNvdmVycyBhIHdpZGUgcmFuZ2Ugb2YgQUkgdG9waWNzIGluY2x1ZGluZyBwcm9tcHQgZW5naW5lZXJpbmcsIG1vZGVsIGZpbmUtdHVuaW5nLCBSQUcgYXJjaGl0ZWN0dXJlcywgQUkgYWdlbnRzLCBldmFsdWF0aW9uIG1ldGhvZG9sb2dpZXMsIEFJIHNhZmV0eSwgYW5kIHNwZWNpZmljIHRvb2xzIGxpa2UgQ2hhdEdQVCwgQ2xhdWRlLCBNaWRqb3VybmV5LCBhbmQgbW9yZS4gWW91IGNhbiBhbHNvIGNyZWF0ZSBjdXN0b20gYXNzZXNzbWVudHMgZm9yIGFueSB0b3BpYy4nLAogIH0sCiAgewogICAgcTogJ0hvdyBsb25nIGRvZXMgYW4gYXNzZXNzbWVudCB0YWtlPycsCiAgICBhOiAnTW9zdCBhc3Nlc3NtZW50cyB0YWtlIDE1LTMwIG1pbnV0ZXMgdGhhbmtzIHRvIGFkYXB0aXZlIHRlc3RpbmcsIHdoaWNoIGVsaW1pbmF0ZXMgcXVlc3Rpb25zIHRoYXQgYXJlIHRvbyBlYXN5IG9yIHRvbyBoYXJkIGZvciB5b3UuIFRyYWRpdGlvbmFsIGFzc2Vzc21lbnRzIGNvdmVyaW5nIHRoZSBzYW1lIG1hdGVyaWFsIHdvdWxkIHR5cGljYWxseSB0YWtlIDYwLTkwIG1pbnV0ZXMuJywKICB9LAogIHsKICAgIHE6ICdDYW4gSSBpbnRlZ3JhdGUgSW5wcm9tcHRpRnkgd2l0aCBteSBleGlzdGluZyB0b29scz8nLAogICAgYTogJ1llcy4gV2Ugb2ZmZXIgYSBSRVNUIEFQSSwgd2ViaG9va3MsIGFuZCBuYXRpdmUgaW50ZWdyYXRpb25zIHdpdGggcG9wdWxhciBIUiBwbGF0Zm9ybXMsIExNUyBzeXN0ZW1zLCBhbmQgQVRTIHRvb2xzLiBPdXIgZGV2ZWxvcGVyIGRvY3VtZW50YXRpb24gY292ZXJzIGV2ZXJ5dGhpbmcgeW91IG5lZWQgdG8gZ2V0IHN0YXJ0ZWQuJywKICB9LAogIHsKICAgIHE6ICdBcmUgdGhlIGNlcnRpZmljYXRpb25zIHZlcmlmaWFibGU/JywKICAgIGE6ICdBYnNvbHV0ZWx5LiBFYWNoIGNlcnRpZmljYXRlIGluY2x1ZGVzIGEgdW5pcXVlIHZlcmlmaWNhdGlvbiBVUkwgdGhhdCBhbnlvbmUgY2FuIHVzZSB0byBjb25maXJtIGF1dGhlbnRpY2l0eS4gQ2VydGlmaWNhdGVzIGFsc28gaW50ZWdyYXRlIHdpdGggTGlua2VkSW4gYW5kIGNhbiBiZSBhZGRlZCB0byBkaWdpdGFsIHBvcnRmb2xpb3MuJywKICB9LAogIHsKICAgIHE6ICdJcyB0aGVyZSBhIGZyZWUgdGllcj8nLAogICAgYTogJ1llcy4gWW91IGNhbiBjcmVhdGUgYW4gYWNjb3VudCBhbmQgdGFrZSBhc3Nlc3NtZW50cyBmb3IgZnJlZSB3aXRoIG91ciBTdGFydGVyIHBsYW4uIFBhaWQgcGxhbnMgdW5sb2NrIGN1c3RvbSBhc3Nlc3NtZW50cywgdGVhbSBhbmFseXRpY3MsIGNlcnRpZmljYXRpb25zLCBBUEkgYWNjZXNzLCBhbmQgcHJpb3JpdHkgc3VwcG9ydC4nLAogIH0sCl0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEZBUSgpIHsKICBjb25zdCBbb3BlbkluZGV4LCBzZXRPcGVuSW5kZXhdID0gdXNlU3RhdGU8bnVtYmVyIHwgbnVsbD4obnVsbCkKCiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0icmVsYXRpdmUgcHktMjQgc2VjdGlvbi1mcmFtZSI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy0zeGwgbXgtYXV0byBweC02Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmV2ZWFsIHRleHQtY2VudGVyIG1iLTE0Ij4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ic2VjdGlvbi1sYWJlbCI+WyBGQVEgXTwvc3Bhbj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtM3hsIHNtOnRleHQtNHhsIGZvbnQtYm9sZCB0cmFja2luZy10aWdodCBtdC0yIj4KICAgICAgICAgICAgRnJlcXVlbnRseSBhc2tlZCBxdWVzdGlvbnMuCiAgICAgICAgICA8L2gyPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmV2ZWFsIHN0YWdnZXItMSBzcGFjZS15LTIiPgogICAgICAgICAge2ZhcXMubWFwKChmYXEsIGkpID0+ICgKICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIGtleT17aX0KICAgICAgICAgICAgICBjbGFzc05hbWU9ImJvcmRlciBib3JkZXItd2hpdGUvWzAuMDZdIHJvdW5kZWQteGwgb3ZlcmZsb3ctaGlkZGVuIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0T3BlbkluZGV4KG9wZW5JbmRleCA9PT0gaSA/IG51bGwgOiBpKX0KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBweC02IHB5LTQgdGV4dC1sZWZ0IGhvdmVyOmJnLXdoaXRlL1swLjAyXSB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gZm9udC1tZWRpdW0gdGV4dC13aGl0ZS84MCI+CiAgICAgICAgICAgICAgICAgIHtmYXEucX0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzdmcKICAgICAgICAgICAgICAgICAgd2lkdGg9IjE2IgogICAgICAgICAgICAgICAgICBoZWlnaHQ9IjE2IgogICAgICAgICAgICAgICAgICB2aWV3Qm94PSIwIDAgMTYgMTYiCiAgICAgICAgICAgICAgICAgIGZpbGw9Im5vbmUiCiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YGZsZXgtc2hyaW5rLTAgbWwtNCB0ZXh0LXdoaXRlLzMwIHRyYW5zaXRpb24tdHJhbnNmb3JtIGR1cmF0aW9uLTMwMCAkewogICAgICAgICAgICAgICAgICAgIG9wZW5JbmRleCA9PT0gaSA/ICdyb3RhdGUtNDUnIDogJycKICAgICAgICAgICAgICAgICAgfWB9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIDxwYXRoCiAgICAgICAgICAgICAgICAgICAgZD0iTTggM3YxME0zIDhoMTAiCiAgICAgICAgICAgICAgICAgICAgc3Ryb2tlPSJjdXJyZW50Q29sb3IiCiAgICAgICAgICAgICAgICAgICAgc3Ryb2tlV2lkdGg9IjEuNSIKICAgICAgICAgICAgICAgICAgICBzdHJva2VMaW5lY2FwPSJyb3VuZCIKICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YGFjY29yZGlvbi1jb250ZW50ICR7b3BlbkluZGV4ID09PSBpID8gJ29wZW4nIDogJyd9YH0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InB4LTYgcGItNCB0ZXh0LXNtIHRleHQtd2hpdGUvNDAgbGVhZGluZy1yZWxheGVkIj4KICAgICAgICAgICAgICAgICAgICB7ZmFxLmF9CiAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApCn0K"}
+import { useState } from 'react'
+
+const faqs = [
+  {
+    q: 'What is InpromptiFy?',
+    a: 'InpromptiFy is an AI-powered proficiency assessment platform that measures, validates, and certifies AI skills. It uses adaptive testing, real-time scoring, and comprehensive skill mapping to provide accurate assessments for individuals and organizations.',
+  },
+  {
+    q: 'How does adaptive testing work?',
+    a: 'Our AI engine analyzes your responses in real-time and adjusts the difficulty of subsequent questions. If you answer correctly, questions get harder. If you struggle, they get easier. This zeros in on your exact proficiency level much faster than traditional fixed-difficulty tests.',
+  },
+  {
+    q: 'What AI skills and tools can be assessed?',
+    a: 'InpromptiFy covers a wide range of AI topics including prompt engineering, model fine-tuning, RAG architectures, AI agents, evaluation methodologies, AI safety, and specific tools like ChatGPT, Claude, Midjourney, and more. You can also create custom assessments for any topic.',
+  },
+  {
+    q: 'How long does an assessment take?',
+    a: 'Most assessments take 15-30 minutes thanks to adaptive testing, which eliminates questions that are too easy or too hard for you. Traditional assessments covering the same material would typically take 60-90 minutes.',
+  },
+  {
+    q: 'Can I integrate InpromptiFy with my existing tools?',
+    a: 'Yes. We offer a REST API, webhooks, and native integrations with popular HR platforms, LMS systems, and ATS tools. Our developer documentation covers everything you need to get started.',
+  },
+  {
+    q: 'Are the certifications verifiable?',
+    a: 'Absolutely. Each certificate includes a unique verification URL that anyone can use to confirm authenticity. Certificates also integrate with LinkedIn and can be added to digital portfolios.',
+  },
+  {
+    q: 'Is there a free tier?',
+    a: 'Yes. You can create an account and take assessments for free with our Starter plan. Paid plans unlock custom assessments, team analytics, certifications, API access, and priority support.',
+  },
+]
+
+export default function FAQ() {
+  const [openIndex, setOpenIndex] = useState<number | null>(null)
+
+  return (
+    <section className="relative py-24 section-frame">
+      <div className="max-w-3xl mx-auto px-6">
+        <div className="reveal text-center mb-14">
+          <span className="section-label">[ FAQ ]</span>
+          <h2 className="text-3xl sm:text-4xl font-bold tracking-tight mt-2">
+            Frequently asked questions.
+          </h2>
+        </div>
+
+        <div className="reveal stagger-1 space-y-2">
+          {faqs.map((faq, i) => (
+            <div
+              key={i}
+              className="border border-white/[0.06] rounded-xl overflow-hidden"
+            >
+              <button
+                onClick={() => setOpenIndex(openIndex === i ? null : i)}
+                className="w-full flex items-center justify-between px-6 py-4 text-left hover:bg-white/[0.02] transition-colors"
+              >
+                <span className="text-sm font-medium text-white/80">
+                  {faq.q}
+                </span>
+                <svg
+                  width="16"
+                  height="16"
+                  viewBox="0 0 16 16"
+                  fill="none"
+                  className={`flex-shrink-0 ml-4 text-white/30 transition-transform duration-300 ${
+                    openIndex === i ? 'rotate-45' : ''
+                  }`}
+                >
+                  <path
+                    d="M8 3v10M3 8h10"
+                    stroke="currentColor"
+                    strokeWidth="1.5"
+                    strokeLinecap="round"
+                  />
+                </svg>
+              </button>
+              <div
+                className={`accordion-content ${openIndex === i ? 'open' : ''}`}
+              >
+                <div>
+                  <p className="px-6 pb-4 text-sm text-white/40 leading-relaxed">
+                    {faq.a}
+                  </p>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}

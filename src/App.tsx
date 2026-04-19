@@ -1,1 +1,29 @@
-{"data":"aW1wb3J0IHsgUm91dGVzLCBSb3V0ZSB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCmltcG9ydCB7IHVzZVNjcm9sbFJldmVhbCB9IGZyb20gJy4vaG9va3MvdXNlU2Nyb2xsUmV2ZWFsJwppbXBvcnQgSGVhZGVyIGZyb20gJy4vY29tcG9uZW50cy9IZWFkZXInCmltcG9ydCBGb290ZXIgZnJvbSAnLi9jb21wb25lbnRzL0Zvb3RlcicKaW1wb3J0IEhvbWUgZnJvbSAnLi9wYWdlcy9Ib21lJwppbXBvcnQgRmVhdHVyZXMgZnJvbSAnLi9wYWdlcy9GZWF0dXJlcycKaW1wb3J0IFByaWNpbmcgZnJvbSAnLi9wYWdlcy9QcmljaW5nJwppbXBvcnQgQmxvZyBmcm9tICcuL3BhZ2VzL0Jsb2cnCmltcG9ydCBBYm91dCBmcm9tICcuL3BhZ2VzL0Fib3V0JwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQXBwKCkgewogIHVzZVNjcm9sbFJldmVhbCgpCgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibWluLWgtc2NyZWVuIGJnLVsjMGEwYTBmXSB0ZXh0LXdoaXRlIGZvbnQtc2FucyBhbnRpYWxpYXNlZCI+CiAgICAgIDxIZWFkZXIgLz4KICAgICAgPG1haW4+CiAgICAgICAgPFJvdXRlcz4KICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvIiBlbGVtZW50PXs8SG9tZSAvPn0gLz4KICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvZmVhdHVyZXMiIGVsZW1lbnQ9ezxGZWF0dXJlcyAvPn0gLz4KICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcHJpY2luZyIgZWxlbWVudD17PFByaWNpbmcgLz59IC8+CiAgICAgICAgICA8Um91dGUgcGF0aD0iL2Jsb2ciIGVsZW1lbnQ9ezxCbG9nIC8+fSAvPgogICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hYm91dCIgZWxlbWVudD17PEFib3V0IC8+fSAvPgogICAgICAgIDwvUm91dGVzPgogICAgICA8L21haW4+CiAgICAgIDxGb290ZXIgLz4KICAgIDwvZGl2PgogICkKfQo="}
+import { Routes, Route } from 'react-router-dom'
+import { useScrollReveal } from './hooks/useScrollReveal'
+import Header from './components/Header'
+import Footer from './components/Footer'
+import Home from './pages/Home'
+import Features from './pages/Features'
+import Pricing from './pages/Pricing'
+import Blog from './pages/Blog'
+import About from './pages/About'
+
+export default function App() {
+  useScrollReveal()
+
+  return (
+    <div className="min-h-screen bg-[#0a0a0f] text-white font-sans antialiased">
+      <Header />
+      <main>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/features" element={<Features />} />
+          <Route path="/pricing" element={<Pricing />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/about" element={<About />} />
+        </Routes>
+      </main>
+      <Footer />
+    </div>
+  )
+}

@@ -1,1 +1,79 @@
-{"data":"Y29uc3QgdGVzdGltb25pYWxzID0gWwogIHsKICAgIHF1b3RlOgogICAgICAnSW5wcm9tcHRpRnkgY29tcGxldGVseSB0cmFuc2Zvcm1lZCBvdXIgaGlyaW5nIHByb2Nlc3MuIFdlIHdlbnQgZnJvbSBndWVzc2luZyBhYm91dCBBSSBza2lsbHMgdG8gaGF2aW5nIHF1YW50aWZpYWJsZSwgY29tcGFyYWJsZSBkYXRhIG9uIGV2ZXJ5IGNhbmRpZGF0ZS4nLAogICAgbmFtZTogJ1JhY2hlbCBUb3JyZXMnLAogICAgdGl0bGU6ICdWUCBvZiBFbmdpbmVlcmluZycsCiAgICBjb21wYW55OiAnTmV4dXMgQUknLAogICAgaW5pdGlhbHM6ICdSVCcsCiAgICBncmFkaWVudDogJ2Zyb20tb3JhbmdlLTUwMCB0by1hbWJlci01MDAnLAogIH0sCiAgewogICAgcXVvdGU6CiAgICAgICdUaGUgYWRhcHRpdmUgdGVzdGluZyBpcyBnZW51aW5lbHkgaW1wcmVzc2l2ZS4gSXQgZmluZHMgdGhlIGV4YWN0IGJvdW5kYXJ5IG9mIHdoYXQgc29tZW9uZSBrbm93cyBhbmQgZ2l2ZXMgdXMgYSBwcmVjaXNlIHNraWxsIG1hcC4gTm90aGluZyBlbHNlIGNvbWVzIGNsb3NlLicsCiAgICBuYW1lOiAnRGF2aWQgS2ltJywKICAgIHRpdGxlOiAnQ1RPJywKICAgIGNvbXBhbnk6ICdTeW50aHdhdmUgTGFicycsCiAgICBpbml0aWFsczogJ0RLJywKICAgIGdyYWRpZW50OiAnZnJvbS1hbWJlci01MDAgdG8teWVsbG93LTUwMCcsCiAgfSwKICB7CiAgICBxdW90ZToKICAgICAgJ1dlIHJvbGxlZCBvdXQgSW5wcm9tcHRpRnkgYWNyb3NzIDIsMDAwIGVtcGxveWVlcyBpbiB0aHJlZSB3ZWVrcy4gVGhlIHRlYW0gYW5hbHl0aWNzIGRhc2hib2FyZCBnYXZlIG91ciBMJkQgdGVhbSBleGFjdGx5IHRoZSBpbnNpZ2h0cyB0aGV5IG5lZWRlZCB0byBwcmlvcml0aXplIHRyYWluaW5nLicsCiAgICBuYW1lOiAnUHJpeWEgTWVodGEnLAogICAgdGl0bGU6ICdDaGllZiBQZW9wbGUgT2ZmaWNlcicsCiAgICBjb21wYW55OiAnU2NhbGVQb2ludCcsCiAgICBpbml0aWFsczogJ1BNJywKICAgIGdyYWRpZW50OiAnZnJvbS1vcmFuZ2UtNjAwIHRvLW9yYW5nZS00MDAnLAogIH0sCiAgewogICAgcXVvdGU6CiAgICAgICdPdXIgY2VydGlmaWNhdGlvbiBwcm9ncmFtIHdlbnQgZnJvbSBhIG1hbnVhbCBuaWdodG1hcmUgdG8gYSBmdWxseSBhdXRvbWF0ZWQgcGlwZWxpbmUuIFRoZSB2ZXJpZmlhYmxlIGRpZ2l0YWwgYmFkZ2VzIGhhdmUgYmVlbiBhIGh1Z2UgaGl0IHdpdGggb3VyIGNvbW11bml0eS4nLAogICAgbmFtZTogJ01hcmN1cyBKb2huc29uJywKICAgIHRpdGxlOiAnRGlyZWN0b3Igb2YgRWR1Y2F0aW9uJywKICAgIGNvbXBhbnk6ICdBSSBBY2FkZW15JywKICAgIGluaXRpYWxzOiAnTUonLAogICAgZ3JhZGllbnQ6ICdmcm9tLW9yYW5nZS01MDAgdG8tcmVkLTUwMCcsCiAgfSwKXQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gVGVzdGltb25pYWxzKCkgewogIHJldHVybiAoCiAgICA8c2VjdGlvbiBjbGFzc05hbWU9InJlbGF0aXZlIHB5LTI0IHNlY3Rpb24tZnJhbWUiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctN3hsIG14LWF1dG8gcHgtNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InJldmVhbCB0ZXh0LWNlbnRlciBtYi0xNCI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNlY3Rpb24tbGFiZWwiPlsgVGVzdGltb25pYWxzIF08L3NwYW4+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBzbTp0ZXh0LTR4bCBmb250LWJvbGQgdHJhY2tpbmctdGlnaHQgbXQtMiB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgVHJ1c3RlZCBieSB0ZWFtcyB3b3JsZHdpZGUKICAgICAgICAgIDwvaDI+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIG1kOmdyaWQtY29scy0yIGdhcC00Ij4KICAgICAgICAgIHt0ZXN0aW1vbmlhbHMubWFwKCh0LCBpKSA9PiAoCiAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICBrZXk9e3QubmFtZX0KICAgICAgICAgICAgICBjbGFzc05hbWU9e2ByZXZlYWwgc3RhZ2dlci0ke2kgKyAxfSBnbGFzcy1zdHJvbmcgcC02IHJvdW5kZWQtMnhsYH0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LWdyYXktMzAwIGxlYWRpbmctcmVsYXhlZCBtYi02Ij4KICAgICAgICAgICAgICAgICZsZHF1bzt7dC5xdW90ZX0mcmRxdW87CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyI+CiAgICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YHctMTAgaC0xMCByb3VuZGVkLWZ1bGwgYmctZ3JhZGllbnQtdG8tYnIgJHt0LmdyYWRpZW50fSBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciB0ZXh0LXhzIGZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZWB9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIHt0LmluaXRpYWxzfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gZm9udC1tZWRpdW0gdGV4dC13aGl0ZS84MCI+e3QubmFtZX08L3A+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LXdoaXRlLzMwIj4KICAgICAgICAgICAgICAgICAgICB7dC50aXRsZX0sIHt0LmNvbXBhbnl9CiAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApCn0K"}
+const testimonials = [
+  {
+    quote:
+      'InpromptiFy completely transformed our hiring process. We went from guessing about AI skills to having quantifiable, comparable data on every candidate.',
+    name: 'Rachel Torres',
+    title: 'VP of Engineering',
+    company: 'Nexus AI',
+    initials: 'RT',
+    gradient: 'from-orange-500 to-amber-500',
+  },
+  {
+    quote:
+      'The adaptive testing is genuinely impressive. It finds the exact boundary of what someone knows and gives us a precise skill map. Nothing else comes close.',
+    name: 'David Kim',
+    title: 'CTO',
+    company: 'Synthwave Labs',
+    initials: 'DK',
+    gradient: 'from-amber-500 to-yellow-500',
+  },
+  {
+    quote:
+      'We rolled out InpromptiFy across 2,000 employees in three weeks. The team analytics dashboard gave our L&D team exactly the insights they needed to prioritize training.',
+    name: 'Priya Mehta',
+    title: 'Chief People Officer',
+    company: 'ScalePoint',
+    initials: 'PM',
+    gradient: 'from-orange-600 to-orange-400',
+  },
+  {
+    quote:
+      'Our certification program went from a manual nightmare to a fully automated pipeline. The verifiable digital badges have been a huge hit with our community.',
+    name: 'Marcus Johnson',
+    title: 'Director of Education',
+    company: 'AI Academy',
+    initials: 'MJ',
+    gradient: 'from-orange-500 to-red-500',
+  },
+]
+
+export default function Testimonials() {
+  return (
+    <section className="relative py-24 section-frame">
+      <div className="max-w-7xl mx-auto px-6">
+        <div className="reveal text-center mb-14">
+          <span className="section-label">[ Testimonials ]</span>
+          <h2 className="text-3xl sm:text-4xl font-bold tracking-tight mt-2 text-white">
+            Trusted by teams worldwide
+          </h2>
+        </div>
+
+        <div className="grid md:grid-cols-2 gap-4">
+          {testimonials.map((t, i) => (
+            <div
+              key={t.name}
+              className={`reveal stagger-${i + 1} glass-strong p-6 rounded-2xl`}
+            >
+              <p className="text-sm text-gray-300 leading-relaxed mb-6">
+                &ldquo;{t.quote}&rdquo;
+              </p>
+              <div className="flex items-center gap-3">
+                <div
+                  className={`w-10 h-10 rounded-full bg-gradient-to-br ${t.gradient} flex items-center justify-center text-xs font-semibold text-white`}
+                >
+                  {t.initials}
+                </div>
+                <div>
+                  <p className="text-sm font-medium text-white/80">{t.name}</p>
+                  <p className="text-xs text-white/30">
+                    {t.title}, {t.company}
+                  </p>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}

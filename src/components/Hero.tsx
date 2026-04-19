@@ -1,1 +1,263 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUNhbGxiYWNrIH0gZnJvbSAncmVhY3QnCgpjb25zdCBxdWVzdGlvbnMgPSBbCiAgewogICAgZGlmZmljdWx0eTogJ0lOVEVSTUVESUFURScsCiAgICBjYXRlZ29yeTogJ0FJIEZ1bmRhbWVudGFscycsCiAgICB0ZXh0OiAnV2hpY2ggdGVjaG5pcXVlIGFsbG93cyBhIGxhcmdlIGxhbmd1YWdlIG1vZGVsIHRvIGdlbmVyYXRlIG1vcmUgYWNjdXJhdGUgcmVzcG9uc2VzIGJ5IGZpcnN0IHByb2R1Y2luZyBhIHN0ZXAtYnktc3RlcCByZWFzb25pbmcgcHJvY2Vzcz8nLAogICAgb3B0aW9uczogWwogICAgICB7IGlkOiAnQScsIHRleHQ6ICdGaW5lLXR1bmluZycgfSwKICAgICAgeyBpZDogJ0InLCB0ZXh0OiAnQ2hhaW4tb2YtdGhvdWdodCBwcm9tcHRpbmcnIH0sCiAgICAgIHsgaWQ6ICdDJywgdGV4dDogJ1Rva2VuaXphdGlvbicgfSwKICAgICAgeyBpZDogJ0QnLCB0ZXh0OiAnR3JhZGllbnQgZGVzY2VudCcgfSwKICAgIF0sCiAgICBjb3JyZWN0SWQ6ICdCJywKICB9LAogIHsKICAgIGRpZmZpY3VsdHk6ICdBRFZBTkNFRCcsCiAgICBjYXRlZ29yeTogJ1JBRyBBcmNoaXRlY3R1cmUnLAogICAgdGV4dDogJ0luIGEgUmV0cmlldmFsLUF1Z21lbnRlZCBHZW5lcmF0aW9uIHBpcGVsaW5lLCB3aGF0IGlzIHRoZSBwcmltYXJ5IHB1cnBvc2Ugb2YgdGhlIGVtYmVkZGluZyBtb2RlbD8nLAogICAgb3B0aW9uczogWwogICAgICB7IGlkOiAnQScsIHRleHQ6ICdHZW5lcmF0ZSB0aGUgZmluYWwgcmVzcG9uc2UgdGV4dCcgfSwKICAgICAgeyBpZDogJ0InLCB0ZXh0OiAnUmFuayBkb2N1bWVudHMgYnkgcHVibGljYXRpb24gZGF0ZScgfSwKICAgICAgeyBpZDogJ0MnLCB0ZXh0OiAnQ29udmVydCB0ZXh0IGludG8gdmVjdG9yIHJlcHJlc2VudGF0aW9ucyBmb3Igc2ltaWxhcml0eSBzZWFyY2gnIH0sCiAgICAgIHsgaWQ6ICdEJywgdGV4dDogJ0NvbXByZXNzIHRoZSBjb250ZXh0IHdpbmRvdyBzaXplJyB9LAogICAgXSwKICAgIGNvcnJlY3RJZDogJ0MnLAogIH0sCiAgewogICAgZGlmZmljdWx0eTogJ0JFR0lOTkVSJywKICAgIGNhdGVnb3J5OiAnUHJvbXB0IEVuZ2luZWVyaW5nJywKICAgIHRleHQ6ICdXaGF0IGlzICJmZXctc2hvdCBwcm9tcHRpbmciPycsCiAgICBvcHRpb25zOiBbCiAgICAgIHsgaWQ6ICdBJywgdGV4dDogJ1RyYWluaW5nIGEgbW9kZWwgb24gYSBzbWFsbCBkYXRhc2V0JyB9LAogICAgICB7IGlkOiAnQicsIHRleHQ6ICdQcm92aWRpbmcgZXhhbXBsZXMgaW4gdGhlIHByb21wdCB0byBndWlkZSB0aGUgbW9kZWxcJ3MgcmVzcG9uc2UnIH0sCiAgICAgIHsgaWQ6ICdDJywgdGV4dDogJ1VzaW5nIG11bHRpcGxlIG1vZGVscyBzaW11bHRhbmVvdXNseScgfSwKICAgICAgeyBpZDogJ0QnLCB0ZXh0OiAnTGltaXRpbmcgdGhlIG91dHB1dCB0b2tlbiBjb3VudCcgfSwKICAgIF0sCiAgICBjb3JyZWN0SWQ6ICdCJywKICB9LAogIHsKICAgIGRpZmZpY3VsdHk6ICdJTlRFUk1FRElBVEUnLAogICAgY2F0ZWdvcnk6ICdBSSBTYWZldHknLAogICAgdGV4dDogJ1doaWNoIGFwcHJvYWNoIGhlbHBzIHByZXZlbnQgYW4gTExNIGZyb20gZ2VuZXJhdGluZyBoYXJtZnVsIG9yIGJpYXNlZCBvdXRwdXRzPycsCiAgICBvcHRpb25zOiBbCiAgICAgIHsgaWQ6ICdBJywgdGV4dDogJ0luY3JlYXNpbmcgdGVtcGVyYXR1cmUgdG8gbWF4aW11bScgfSwKICAgICAgeyBpZDogJ0InLCB0ZXh0OiAnUmVtb3ZpbmcgYWxsIHRyYWluaW5nIGRhdGEgZmlsdGVycycgfSwKICAgICAgeyBpZDogJ0MnLCB0ZXh0OiAnUkxIRiAoUmVpbmZvcmNlbWVudCBMZWFybmluZyBmcm9tIEh1bWFuIEZlZWRiYWNrKScgfSwKICAgICAgeyBpZDogJ0QnLCB0ZXh0OiAnVXNpbmcgYSBsYXJnZXIgY29udGV4dCB3aW5kb3cnIH0sCiAgICBdLAogICAgY29ycmVjdElkOiAnQycsCiAgfSwKXQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSGVybygpIHsKICBjb25zdCBbY3VycmVudFEsIHNldEN1cnJlbnRRXSA9IHVzZVN0YXRlKDApCiAgY29uc3QgW3NlbGVjdGVkLCBzZXRTZWxlY3RlZF0gPSB1c2VTdGF0ZTxzdHJpbmcgfCBudWxsPihudWxsKQogIGNvbnN0IFtzdWJtaXR0ZWQsIHNldFN1Ym1pdHRlZF0gPSB1c2VTdGF0ZShmYWxzZSkKICBjb25zdCBbY29tcGxldGVkQ291bnQsIHNldENvbXBsZXRlZENvdW50XSA9IHVzZVN0YXRlKDApCgogIGNvbnN0IHF1ZXN0aW9uID0gcXVlc3Rpb25zW2N1cnJlbnRRXQogIGNvbnN0IHRvdGFsUXVlc3Rpb25zID0gcXVlc3Rpb25zLmxlbmd0aAogIGNvbnN0IHByb2dyZXNzUGVyY2VudCA9IE1hdGgucm91bmQoKGNvbXBsZXRlZENvdW50IC8gdG90YWxRdWVzdGlvbnMpICogMTAwKQoKICBjb25zdCBoYW5kbGVTdWJtaXQgPSB1c2VDYWxsYmFjaygoKSA9PiB7CiAgICBpZiAoIXNlbGVjdGVkIHx8IHN1Ym1pdHRlZCkgcmV0dXJuCiAgICBzZXRTdWJtaXR0ZWQodHJ1ZSkKICAgIHNldENvbXBsZXRlZENvdW50KChjKSA9PiBjICsgMSkKCiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgc2V0Q3VycmVudFEoKHEpID0+IChxICsgMSkgJSB0b3RhbFF1ZXN0aW9ucykKICAgICAgc2V0U2VsZWN0ZWQobnVsbCkKICAgICAgc2V0U3VibWl0dGVkKGZhbHNlKQogICAgfSwgMTUwMCkKICB9LCBbc2VsZWN0ZWQsIHN1Ym1pdHRlZCwgdG90YWxRdWVzdGlvbnNdKQoKICByZXR1cm4gKAogICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJyZWxhdGl2ZSBtaW4taC1zY3JlZW4gZmxleCBpdGVtcy1jZW50ZXIgb3ZlcmZsb3ctaGlkZGVuIj4KICAgICAgey8qIEJhY2tncm91bmQgVmlkZW8gKi99CiAgICAgIDx2aWRlbwogICAgICAgIGF1dG9QbGF5CiAgICAgICAgbXV0ZWQKICAgICAgICBsb29wCiAgICAgICAgcGxheXNJbmxpbmUKICAgICAgICBwcmVsb2FkPSJhdXRvIgogICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCB3LWZ1bGwgaC1mdWxsIG9iamVjdC1jb3ZlciBwb2ludGVyLWV2ZW50cy1ub25lIgogICAgICA+CiAgICAgICAgPHNvdXJjZQogICAgICAgICAgc3JjPSJodHRwczovL2Q4ajBudGxjbTkxejQuY2xvdWRmcm9udC5uZXQvdXNlcl8zQ1ZqcFU1TXFMMjhrdDFNNlB5T0FYaE5jeVgvaGZfMjAyNjA0MThfMDg1NTI4X2UzMmEwYjFlLWNhMjItNDI0Ny05YjI4LTIyYzRmN2Q1ZmVkNi5tcDQiCiAgICAgICAgICB0eXBlPSJ2aWRlby9tcDQiCiAgICAgICAgLz4KICAgICAgPC92aWRlbz4KCiAgICAgIHsvKiBEYXJrIG92ZXJsYXkgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGJnLWdyYWRpZW50LXRvLWIgZnJvbS1bIzBhMGEwZl0vNzAgdmlhLVsjMGEwYTBmXS84MCB0by1bIzBhMGEwZl0iIC8+CgogICAgICB7LyogRG90IHBhdHRlcm4gb3ZlcmxheSAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgZG90LXBhdHRlcm4gb3BhY2l0eS00MCIgLz4KCiAgICAgIHsvKiBDb250ZW50ICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgei0xMCBtYXgtdy03eGwgbXgtYXV0byBweC02IHB0LTI0IHBiLTE2IHctZnVsbCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgbGc6Z3JpZC1jb2xzLTIgZ2FwLTEyIGxnOmdhcC0xNiBpdGVtcy1jZW50ZXIiPgogICAgICAgICAgey8qIExlZnQg4oCUIENvcHkgKi99CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXcteGwiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmV2ZWFsIj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNlY3Rpb24tbGFiZWwiPlsgQUkgQXNzZXNzbWVudCBQbGF0Zm9ybSBdPC9zcGFuPgogICAgICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtNHhsIHNtOnRleHQtNXhsIGxnOnRleHQtNnhsIGZvbnQtYm9sZCBsZWFkaW5nLVsxLjFdIHRyYWNraW5nLXRpZ2h0IG10LTQgdGV4dC13aGl0ZSI+CiAgICAgICAgICAgICAgICBBSS1Qb3dlcmVkeycgJ30KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZ3JhZGllbnQtdGV4dCI+UHJvZmljaWVuY3kgQXNzZXNzbWVudDwvc3Bhbj4KICAgICAgICAgICAgICA8L2gxPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtNiB0ZXh0LWxnIHRleHQtZ3JheS00MDAgbGVhZGluZy1yZWxheGVkIj4KICAgICAgICAgICAgICAgIElucHJvbXB0aUZ5IGlzIHRoZSBpbnRlbGxpZ2VudCBhc3Nlc3NtZW50IHBsYXRmb3JtIHRoYXQgbWVhc3VyZXMsCiAgICAgICAgICAgICAgICB2YWxpZGF0ZXMsIGFuZCBjZXJ0aWZpZXMgQUkgcHJvZmljaWVuY3kuIFJlYWwtdGltZSBzY29yaW5nLAogICAgICAgICAgICAgICAgYWRhcHRpdmUgZGlmZmljdWx0eSwgYW5kIGNvbXByZWhlbnNpdmUgc2tpbGwgbWFwcGluZy4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJldmVhbCBzdGFnZ2VyLTIgbXQtOCBmbGV4IGZsZXgtd3JhcCBnYXAtNCI+CiAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9Imdsb3ctYnRuIHB4LTggcHktMy41IHRleHQtYmFzZSI+CiAgICAgICAgICAgICAgICBTdGFydCBBc3Nlc3NtZW50CiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9Imdob3N0LWJ0biBweC04IHB5LTMuNSB0ZXh0LWJhc2UiPgogICAgICAgICAgICAgICAgVmlldyBEZW1vCiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJyZXZlYWwgc3RhZ2dlci0zIG10LTQgdGV4dC14cyB0ZXh0LXdoaXRlLzMwIj4KICAgICAgICAgICAgICBObyBjcmVkaXQgY2FyZCByZXF1aXJlZAogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7LyogUmlnaHQg4oCUIEludGVyYWN0aXZlIERlbW8gQ2FyZCAqL30KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZXZlYWwgc3RhZ2dlci0yIGhpZGRlbiBsZzpibG9jayI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJnbGFzcy1zdHJvbmcgcm91bmRlZC0yeGwgb3ZlcmZsb3ctaGlkZGVuIj4KICAgICAgICAgICAgICB7LyogQ2FyZCBoZWFkZXIgKi99CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHB4LTUgcHktMy41IGJvcmRlci1iIGJvcmRlci13aGl0ZS9bMC4wNl0iPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTEuNSI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTMgaC0zIHJvdW5kZWQtZnVsbCBiZy13aGl0ZS8xMCIgLz4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctMyBoLTMgcm91bmRlZC1mdWxsIGJnLXdoaXRlLzEwIiAvPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0zIGgtMyByb3VuZGVkLWZ1bGwgYmctd2hpdGUvMTAiIC8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWwtMyB0ZXh0LXhzIHRleHQtd2hpdGUvMzAgZm9udC1tb25vIj4KICAgICAgICAgICAgICAgICAgYXNzZXNzbWVudC5pbnByb21wdGlmeS5jb20KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgey8qIENhcmQgYm9keSAqL30KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icC02Ij4KICAgICAgICAgICAgICAgIHsvKiBQcm9ncmVzcyBiYXIgKi99CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIG1iLTQiPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgdGV4dC13aGl0ZS80MCBmb250LW1vbm8iPgogICAgICAgICAgICAgICAgICAgIFF1ZXN0aW9uIHtjdXJyZW50USArIDF9IG9mIHt0b3RhbFF1ZXN0aW9uc30KICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgdGV4dC1vcmFuZ2UtNDAwIGZvbnQtbW9ubyI+CiAgICAgICAgICAgICAgICAgICAge3Byb2dyZXNzUGVyY2VudH0lIGNvbXBsZXRlCiAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctZnVsbCBoLTEuNSBiZy13aGl0ZS9bMC4wNl0gcm91bmRlZC1mdWxsIG1iLTYiPgogICAgICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJoLWZ1bGwgYmctZ3JhZGllbnQtdG8tciBmcm9tLW9yYW5nZS01MDAgdG8tYW1iZXItNTAwIHJvdW5kZWQtZnVsbCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi01MDAiCiAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgd2lkdGg6IGAke3Byb2dyZXNzUGVyY2VudH0lYCB9fQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgey8qIERpZmZpY3VsdHkgYmFkZ2UgKi99CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgbWItNCI+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icHgtMi41IHB5LTEgcm91bmRlZC1tZCBiZy1vcmFuZ2UtNTAwLzEwIHRleHQtb3JhbmdlLTQwMCB0ZXh0LVsxMXB4XSBmb250LW1vbm8iPgogICAgICAgICAgICAgICAgICAgIHtxdWVzdGlvbi5kaWZmaWN1bHR5fQogICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icHgtMi41IHB5LTEgcm91bmRlZC1tZCBiZy13aGl0ZS9bMC4wNF0gdGV4dC13aGl0ZS80MCB0ZXh0LVsxMXB4XSBmb250LW1vbm8iPgogICAgICAgICAgICAgICAgICAgIHtxdWVzdGlvbi5jYXRlZ29yeX0KICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgey8qIFF1ZXN0aW9uICovfQogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtd2hpdGUvODAgbGVhZGluZy1yZWxheGVkIG1iLTUiPgogICAgICAgICAgICAgICAgICB7cXVlc3Rpb24udGV4dH0KICAgICAgICAgICAgICAgIDwvcD4KCiAgICAgICAgICAgICAgICB7LyogT3B0aW9ucyAqL30KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIuNSI+CiAgICAgICAgICAgICAgICAgIHtxdWVzdGlvbi5vcHRpb25zLm1hcCgob3B0KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgaXNTZWxlY3RlZCA9IHNlbGVjdGVkID09PSBvcHQuaWQKICAgICAgICAgICAgICAgICAgICBjb25zdCBpc0NvcnJlY3QgPSBvcHQuaWQgPT09IHF1ZXN0aW9uLmNvcnJlY3RJZAogICAgICAgICAgICAgICAgICAgIGxldCBib3JkZXJDbGFzcyA9ICdib3JkZXItd2hpdGUvWzAuMDZdIGJnLXdoaXRlL1swLjAyXScKICAgICAgICAgICAgICAgICAgICBsZXQgaWRDbGFzcyA9ICdiZy13aGl0ZS9bMC4wNF0gdGV4dC13aGl0ZS8zMCcKICAgICAgICAgICAgICAgICAgICBsZXQgdGV4dENsYXNzID0gJ3RleHQtd2hpdGUvNTAnCgogICAgICAgICAgICAgICAgICAgIGlmIChzdWJtaXR0ZWQgJiYgaXNDb3JyZWN0KSB7CiAgICAgICAgICAgICAgICAgICAgICBib3JkZXJDbGFzcyA9ICdib3JkZXItZW1lcmFsZC01MDAvNDAgYmctZW1lcmFsZC01MDAvWzAuMDhdJwogICAgICAgICAgICAgICAgICAgICAgaWRDbGFzcyA9ICdiZy1lbWVyYWxkLTUwMC8yMCB0ZXh0LWVtZXJhbGQtNDAwJwogICAgICAgICAgICAgICAgICAgICAgdGV4dENsYXNzID0gJ3RleHQtd2hpdGUvOTAnCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChzdWJtaXR0ZWQgJiYgaXNTZWxlY3RlZCAmJiAhaXNDb3JyZWN0KSB7CiAgICAgICAgICAgICAgICAgICAgICBib3JkZXJDbGFzcyA9ICdib3JkZXItcmVkLTUwMC80MCBiZy1yZWQtNTAwL1swLjA4XScKICAgICAgICAgICAgICAgICAgICAgIGlkQ2xhc3MgPSAnYmctcmVkLTUwMC8yMCB0ZXh0LXJlZC00MDAnCiAgICAgICAgICAgICAgICAgICAgICB0ZXh0Q2xhc3MgPSAndGV4dC13aGl0ZS85MCcKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGlzU2VsZWN0ZWQpIHsKICAgICAgICAgICAgICAgICAgICAgIGJvcmRlckNsYXNzID0gJ2JvcmRlci1vcmFuZ2UtNTAwLzQwIGJnLW9yYW5nZS01MDAvWzAuMDhdJwogICAgICAgICAgICAgICAgICAgICAgaWRDbGFzcyA9ICdiZy1vcmFuZ2UtNTAwLzIwIHRleHQtb3JhbmdlLTQwMCcKICAgICAgICAgICAgICAgICAgICAgIHRleHRDbGFzcyA9ICd0ZXh0LXdoaXRlLzkwJwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgICAga2V5PXtvcHQuaWR9CiAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+ICFzdWJtaXR0ZWQgJiYgc2V0U2VsZWN0ZWQob3B0LmlkKX0KICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgcHgtNCBweS0zIHJvdW5kZWQtbGcgYm9yZGVyIHRyYW5zaXRpb24tYWxsIHctZnVsbCB0ZXh0LWxlZnQgJHtib3JkZXJDbGFzc30gJHsKICAgICAgICAgICAgICAgICAgICAgICAgICAhc3VibWl0dGVkID8gJ2hvdmVyOmJvcmRlci13aGl0ZS9bMC4xMl0gY3Vyc29yLXBvaW50ZXInIDogJ2N1cnNvci1kZWZhdWx0JwogICAgICAgICAgICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2BmbGV4LXNocmluay0wIHctNiBoLTYgcm91bmRlZC1tZCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciB0ZXh0LXhzIGZvbnQtbW9ubyAke2lkQ2xhc3N9YH0KICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgIHtvcHQuaWR9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtgdGV4dC1zbSAke3RleHRDbGFzc31gfT4KICAgICAgICAgICAgICAgICAgICAgICAgICB7b3B0LnRleHR9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAge3N1Ym1pdHRlZCAmJiBpc0NvcnJlY3QgJiYgKAogICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWwtYXV0byB0ZXh0LWVtZXJhbGQtNDAwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdmcgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTMuMyA0LjNMNiAxMS42IDIuNyA4LjMiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMS41IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgICAgICB7c3VibWl0dGVkICYmIGlzU2VsZWN0ZWQgJiYgIWlzQ29ycmVjdCAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJtbC1hdXRvIHRleHQtcmVkLTQwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3ZnIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJub25lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTQgNGw4IDhNMTIgNGwtOCA4IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjEuNSIgc3Ryb2tlTGluZWNhcD0icm91bmQiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgICAgIHshc3VibWl0dGVkICYmIGlzU2VsZWN0ZWQgJiYgKAogICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWwtYXV0byB0ZXh0LW9yYW5nZS00MDAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMy4zIDQuM0w2IDExLjYgMi43IDguMyIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgIH0pfQogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgey8qIFN1Ym1pdCBidXR0b24gKi99CiAgICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZVN1Ym1pdH0KICAgICAgICAgICAgICAgICAgZGlzYWJsZWQ9eyFzZWxlY3RlZCB8fCBzdWJtaXR0ZWR9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YG10LTUgdy1mdWxsIHB5LTIuNSByb3VuZGVkLWxnIHRleHQtc20gZm9udC1tZWRpdW0gdHJhbnNpdGlvbi1hbGwgJHsKICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZCAmJiAhc3VibWl0dGVkCiAgICAgICAgICAgICAgICAgICAgICA/ICdiZy1ncmFkaWVudC10by1yIGZyb20tb3JhbmdlLTUwMCB0by1hbWJlci01MDAgdGV4dC13aGl0ZSBjdXJzb3ItcG9pbnRlciBob3ZlcjpzaGFkb3ctbGcgaG92ZXI6c2hhZG93LW9yYW5nZS01MDAvMjAnCiAgICAgICAgICAgICAgICAgICAgICA6ICdiZy13aGl0ZS9bMC4wNl0gdGV4dC13aGl0ZS8zMCBjdXJzb3Itbm90LWFsbG93ZWQnCiAgICAgICAgICAgICAgICAgIH1gfQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICB7c3VibWl0dGVkID8gKHNlbGVjdGVkID09PSBxdWVzdGlvbi5jb3JyZWN0SWQgPyAnQ29ycmVjdCEnIDogJ0luY29ycmVjdCDigJQgc2VlIGFuc3dlciBhYm92ZScpIDogJ1N1Ym1pdCBBbnN3ZXInfQogICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9zZWN0aW9uPgogICkKfQo="}
+import { useState, useCallback } from 'react'
+
+const questions = [
+  {
+    difficulty: 'INTERMEDIATE',
+    category: 'AI Fundamentals',
+    text: 'Which technique allows a large language model to generate more accurate responses by first producing a step-by-step reasoning process?',
+    options: [
+      { id: 'A', text: 'Fine-tuning' },
+      { id: 'B', text: 'Chain-of-thought prompting' },
+      { id: 'C', text: 'Tokenization' },
+      { id: 'D', text: 'Gradient descent' },
+    ],
+    correctId: 'B',
+  },
+  {
+    difficulty: 'ADVANCED',
+    category: 'RAG Architecture',
+    text: 'In a Retrieval-Augmented Generation pipeline, what is the primary purpose of the embedding model?',
+    options: [
+      { id: 'A', text: 'Generate the final response text' },
+      { id: 'B', text: 'Rank documents by publication date' },
+      { id: 'C', text: 'Convert text into vector representations for similarity search' },
+      { id: 'D', text: 'Compress the context window size' },
+    ],
+    correctId: 'C',
+  },
+  {
+    difficulty: 'BEGINNER',
+    category: 'Prompt Engineering',
+    text: 'What is "few-shot prompting"?',
+    options: [
+      { id: 'A', text: 'Training a model on a small dataset' },
+      { id: 'B', text: 'Providing examples in the prompt to guide the model\'s response' },
+      { id: 'C', text: 'Using multiple models simultaneously' },
+      { id: 'D', text: 'Limiting the output token count' },
+    ],
+    correctId: 'B',
+  },
+  {
+    difficulty: 'INTERMEDIATE',
+    category: 'AI Safety',
+    text: 'Which approach helps prevent an LLM from generating harmful or biased outputs?',
+    options: [
+      { id: 'A', text: 'Increasing temperature to maximum' },
+      { id: 'B', text: 'Removing all training data filters' },
+      { id: 'C', text: 'RLHF (Reinforcement Learning from Human Feedback)' },
+      { id: 'D', text: 'Using a larger context window' },
+    ],
+    correctId: 'C',
+  },
+]
+
+export default function Hero() {
+  const [currentQ, setCurrentQ] = useState(0)
+  const [selected, setSelected] = useState<string | null>(null)
+  const [submitted, setSubmitted] = useState(false)
+  const [completedCount, setCompletedCount] = useState(0)
+
+  const question = questions[currentQ]
+  const totalQuestions = questions.length
+  const progressPercent = Math.round((completedCount / totalQuestions) * 100)
+
+  const handleSubmit = useCallback(() => {
+    if (!selected || submitted) return
+    setSubmitted(true)
+    setCompletedCount((c) => c + 1)
+
+    setTimeout(() => {
+      setCurrentQ((q) => (q + 1) % totalQuestions)
+      setSelected(null)
+      setSubmitted(false)
+    }, 1500)
+  }, [selected, submitted, totalQuestions])
+
+  return (
+    <section className="relative min-h-screen flex items-center overflow-hidden">
+      {/* Background Video */}
+      <video
+        autoPlay
+        muted
+        loop
+        playsInline
+        preload="auto"
+        className="absolute inset-0 w-full h-full object-cover pointer-events-none"
+      >
+        <source
+          src="https://d8j0ntlcm91z4.cloudfront.net/user_3CVjpU5MqL28kt1M6PyOAXhNcyX/hf_20260418_085528_e32a0b1e-ca22-4247-9b28-22c4f7d5fed6.mp4"
+          type="video/mp4"
+        />
+      </video>
+
+      {/* Dark overlay */}
+      <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0f]/70 via-[#0a0a0f]/80 to-[#0a0a0f]" />
+
+      {/* Dot pattern overlay */}
+      <div className="absolute inset-0 dot-pattern opacity-40" />
+
+      {/* Content */}
+      <div className="relative z-10 max-w-7xl mx-auto px-6 pt-24 pb-16 w-full">
+        <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          {/* Left — Copy */}
+          <div className="max-w-xl">
+            <div className="reveal">
+              <span className="section-label">[ AI Assessment Platform ]</span>
+              <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-[1.1] tracking-tight mt-4 text-white">
+                AI-Powered{' '}
+                <span className="gradient-text">Proficiency Assessment</span>
+              </h1>
+              <p className="mt-6 text-lg text-gray-400 leading-relaxed">
+                InpromptiFy is the intelligent assessment platform that measures,
+                validates, and certifies AI proficiency. Real-time scoring,
+                adaptive difficulty, and comprehensive skill mapping.
+              </p>
+            </div>
+
+            <div className="reveal stagger-2 mt-8 flex flex-wrap gap-4">
+              <button className="glow-btn px-8 py-3.5 text-base">
+                Start Assessment
+              </button>
+              <button className="ghost-btn px-8 py-3.5 text-base">
+                View Demo
+              </button>
+            </div>
+
+            <p className="reveal stagger-3 mt-4 text-xs text-white/30">
+              No credit card required
+            </p>
+          </div>
+
+          {/* Right — Interactive Demo Card */}
+          <div className="reveal stagger-2 hidden lg:block">
+            <div className="glass-strong rounded-2xl overflow-hidden">
+              {/* Card header */}
+              <div className="flex items-center gap-2 px-5 py-3.5 border-b border-white/[0.06]">
+                <div className="flex gap-1.5">
+                  <div className="w-3 h-3 rounded-full bg-white/10" />
+                  <div className="w-3 h-3 rounded-full bg-white/10" />
+                  <div className="w-3 h-3 rounded-full bg-white/10" />
+                </div>
+                <span className="ml-3 text-xs text-white/30 font-mono">
+                  assessment.inpromptify.com
+                </span>
+              </div>
+
+              {/* Card body */}
+              <div className="p-6">
+                {/* Progress bar */}
+                <div className="flex items-center justify-between mb-4">
+                  <span className="text-xs text-white/40 font-mono">
+                    Question {currentQ + 1} of {totalQuestions}
+                  </span>
+                  <span className="text-xs text-orange-400 font-mono">
+                    {progressPercent}% complete
+                  </span>
+                </div>
+                <div className="w-full h-1.5 bg-white/[0.06] rounded-full mb-6">
+                  <div
+                    className="h-full bg-gradient-to-r from-orange-500 to-amber-500 rounded-full transition-all duration-500"
+                    style={{ width: `${progressPercent}%` }}
+                  />
+                </div>
+
+                {/* Difficulty badge */}
+                <div className="flex items-center gap-2 mb-4">
+                  <span className="px-2.5 py-1 rounded-md bg-orange-500/10 text-orange-400 text-[11px] font-mono">
+                    {question.difficulty}
+                  </span>
+                  <span className="px-2.5 py-1 rounded-md bg-white/[0.04] text-white/40 text-[11px] font-mono">
+                    {question.category}
+                  </span>
+                </div>
+
+                {/* Question */}
+                <p className="text-sm text-white/80 leading-relaxed mb-5">
+                  {question.text}
+                </p>
+
+                {/* Options */}
+                <div className="space-y-2.5">
+                  {question.options.map((opt) => {
+                    const isSelected = selected === opt.id
+                    const isCorrect = opt.id === question.correctId
+                    let borderClass = 'border-white/[0.06] bg-white/[0.02]'
+                    let idClass = 'bg-white/[0.04] text-white/30'
+                    let textClass = 'text-white/50'
+
+                    if (submitted && isCorrect) {
+                      borderClass = 'border-emerald-500/40 bg-emerald-500/[0.08]'
+                      idClass = 'bg-emerald-500/20 text-emerald-400'
+                      textClass = 'text-white/90'
+                    } else if (submitted && isSelected && !isCorrect) {
+                      borderClass = 'border-red-500/40 bg-red-500/[0.08]'
+                      idClass = 'bg-red-500/20 text-red-400'
+                      textClass = 'text-white/90'
+                    } else if (isSelected) {
+                      borderClass = 'border-orange-500/40 bg-orange-500/[0.08]'
+                      idClass = 'bg-orange-500/20 text-orange-400'
+                      textClass = 'text-white/90'
+                    }
+
+                    return (
+                      <button
+                        key={opt.id}
+                        onClick={() => !submitted && setSelected(opt.id)}
+                        className={`flex items-center gap-3 px-4 py-3 rounded-lg border transition-all w-full text-left ${borderClass} ${
+                          !submitted ? 'hover:border-white/[0.12] cursor-pointer' : 'cursor-default'
+                        }`}
+                      >
+                        <span
+                          className={`flex-shrink-0 w-6 h-6 rounded-md flex items-center justify-center text-xs font-mono ${idClass}`}
+                        >
+                          {opt.id}
+                        </span>
+                        <span className={`text-sm ${textClass}`}>
+                          {opt.text}
+                        </span>
+                        {submitted && isCorrect && (
+                          <span className="ml-auto text-emerald-400">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                              <path d="M13.3 4.3L6 11.6 2.7 8.3" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                            </svg>
+                          </span>
+                        )}
+                        {submitted && isSelected && !isCorrect && (
+                          <span className="ml-auto text-red-400">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                              <path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+                            </svg>
+                          </span>
+                        )}
+                        {!submitted && isSelected && (
+                          <span className="ml-auto text-orange-400">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                              <path d="M13.3 4.3L6 11.6 2.7 8.3" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                            </svg>
+                          </span>
+                        )}
+                      </button>
+                    )
+                  })}
+                </div>
+
+                {/* Submit button */}
+                <button
+                  onClick={handleSubmit}
+                  disabled={!selected || submitted}
+                  className={`mt-5 w-full py-2.5 rounded-lg text-sm font-medium transition-all ${
+                    selected && !submitted
+                      ? 'bg-gradient-to-r from-orange-500 to-amber-500 text-white cursor-pointer hover:shadow-lg hover:shadow-orange-500/20'
+                      : 'bg-white/[0.06] text-white/30 cursor-not-allowed'
+                  }`}
+                >
+                  {submitted ? (selected === question.correctId ? 'Correct!' : 'Incorrect — see answer above') : 'Submit Answer'}
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  )
+}

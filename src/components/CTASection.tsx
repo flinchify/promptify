@@ -1,1 +1,88 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCcKCmNvbnN0IGNvZGVUYWJzID0gWwogIHsKICAgIGxhYmVsOiAnUHl0aG9uJywKICAgIGNvZGU6IGBmcm9tIGlucHJvbXB0aWZ5IGltcG9ydCBJbnByb21wdGlGeQoKY2xpZW50ID0gSW5wcm9tcHRpRnkoKQoKYXNzZXNzbWVudCA9IGNsaWVudC5hc3Nlc3NtZW50cy5jcmVhdGUoCiAgICB0aXRsZT0iQUkgRnVuZGFtZW50YWxzIiwKICAgIGRpZmZpY3VsdHk9ImFkYXB0aXZlIgopYCwKICB9LAogIHsKICAgIGxhYmVsOiAnVHlwZVNjcmlwdCcsCiAgICBjb2RlOiBgaW1wb3J0IHsgSW5wcm9tcHRpRnkgfSBmcm9tICdpbnByb21wdGlmeSc7Cgpjb25zdCBjbGllbnQgPSBuZXcgSW5wcm9tcHRpRnkoKTsKCmNvbnN0IGFzc2Vzc21lbnQgPSBhd2FpdCBjbGllbnQuYXNzZXNzbWVudHMuY3JlYXRlKHsKICB0aXRsZTogJ0FJIEZ1bmRhbWVudGFscycsCiAgZGlmZmljdWx0eTogJ2FkYXB0aXZlJywKfSk7YCwKICB9LAogIHsKICAgIGxhYmVsOiAnY1VSTCcsCiAgICBjb2RlOiBgY3VybCAtWCBQT1NUIGh0dHBzOi8vYXBpLmlucHJvbXB0aWZ5LmNvbS92MS9hc3Nlc3NtZW50cyBcXAogIC1IICJBdXRob3JpemF0aW9uOiBCZWFyZXIgWU9VUl9BUElfS0VZIiBcXAogIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIFxcCiAgLWQgJ3sKICAgICJ0aXRsZSI6ICJBSSBGdW5kYW1lbnRhbHMiLAogICAgImRpZmZpY3VsdHkiOiAiYWRhcHRpdmUiCiAgfSdgLAogIH0sCl0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIENUQVNlY3Rpb24oKSB7CiAgY29uc3QgW2FjdGl2ZVRhYiwgc2V0QWN0aXZlVGFiXSA9IHVzZVN0YXRlKDApCgogIHJldHVybiAoCiAgICA8c2VjdGlvbiBjbGFzc05hbWU9InJlbGF0aXZlIHB5LTI0IHNlY3Rpb24tZnJhbWUiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBkb3QtcGF0dGVybiBvcGFjaXR5LTIwIiAvPgogICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgbWF4LXctNXhsIG14LWF1dG8gcHgtNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InJldmVhbCB0ZXh0LWNlbnRlciBtYi0xMiI+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBzbTp0ZXh0LTR4bCBmb250LWJvbGQgdHJhY2tpbmctdGlnaHQgdGV4dC13aGl0ZSI+CiAgICAgICAgICAgIEdldCBzdGFydGVkIGluIHNlY29uZHMKICAgICAgICAgIDwvaDI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtZ3JheS00MDAgbXQtMyI+CiAgICAgICAgICAgIENyZWF0ZSB5b3VyIGZpcnN0IGFzc2Vzc21lbnQgaW4gbWludXRlcwogICAgICAgICAgPC9wPgogICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9Imdsb3ctYnRuIHB4LTggcHktMy41IHRleHQtYmFzZSBtdC02Ij4KICAgICAgICAgICAgU3RhcnQgZm9yIGZyZWUKICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogQ29kZSBibG9jayAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmV2ZWFsIHN0YWdnZXItMSBnbGFzcy1zdHJvbmcgcm91bmRlZC0yeGwgb3ZlcmZsb3ctaGlkZGVuIG1heC13LTJ4bCBteC1hdXRvIj4KICAgICAgICAgIHsvKiBUYWIgYmFyICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0wIGJvcmRlci1iIGJvcmRlci13aGl0ZS9bMC4wNl0iPgogICAgICAgICAgICB7Y29kZVRhYnMubWFwKCh0YWIsIGkpID0+ICgKICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICBrZXk9e3RhYi5sYWJlbH0KICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldEFjdGl2ZVRhYihpKX0KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YHB4LTUgcHktMyB0ZXh0LXhzIGZvbnQtbW9ubyB0cmFuc2l0aW9uLWNvbG9ycyAkewogICAgICAgICAgICAgICAgICBpID09PSBhY3RpdmVUYWIKICAgICAgICAgICAgICAgICAgICA/ICd0ZXh0LXdoaXRlIGJnLXdoaXRlL1swLjA0XSBib3JkZXItYi0yIGJvcmRlci1vcmFuZ2UtNTAwJwogICAgICAgICAgICAgICAgICAgIDogJ3RleHQtd2hpdGUvMzAgaG92ZXI6dGV4dC13aGl0ZS81MCcKICAgICAgICAgICAgICAgIH1gfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIHt0YWIubGFiZWx9CiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgey8qIENvZGUgKi99CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icC01Ij4KICAgICAgICAgICAgPHByZSBjbGFzc05hbWU9InRleHQtc20gZm9udC1tb25vIGxlYWRpbmctcmVsYXhlZCBvdmVyZmxvdy14LWF1dG8iPgogICAgICAgICAgICAgIDxjb2RlIGNsYXNzTmFtZT0idGV4dC1ncmF5LTMwMCI+CiAgICAgICAgICAgICAgICB7Y29kZVRhYnNbYWN0aXZlVGFiXS5jb2RlfQogICAgICAgICAgICAgIDwvY29kZT4KICAgICAgICAgICAgPC9wcmU+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L3NlY3Rpb24+CiAgKQp9Cg=="}
+import { useState } from 'react'
+
+const codeTabs = [
+  {
+    label: 'Python',
+    code: `from inpromptify import InpromptiFy
+
+client = InpromptiFy()
+
+assessment = client.assessments.create(
+    title="AI Fundamentals",
+    difficulty="adaptive"
+)`,
+  },
+  {
+    label: 'TypeScript',
+    code: `import { InpromptiFy } from 'inpromptify';
+
+const client = new InpromptiFy();
+
+const assessment = await client.assessments.create({
+  title: 'AI Fundamentals',
+  difficulty: 'adaptive',
+});`,
+  },
+  {
+    label: 'cURL',
+    code: `curl -X POST https://api.inpromptify.com/v1/assessments \\
+  -H "Authorization: Bearer YOUR_API_KEY" \\
+  -H "Content-Type: application/json" \\
+  -d '{
+    "title": "AI Fundamentals",
+    "difficulty": "adaptive"
+  }'`,
+  },
+]
+
+export default function CTASection() {
+  const [activeTab, setActiveTab] = useState(0)
+
+  return (
+    <section className="relative py-24 section-frame">
+      <div className="absolute inset-0 dot-pattern opacity-20" />
+      <div className="relative max-w-5xl mx-auto px-6">
+        <div className="reveal text-center mb-12">
+          <h2 className="text-3xl sm:text-4xl font-bold tracking-tight text-white">
+            Get started in seconds
+          </h2>
+          <p className="text-gray-400 mt-3">
+            Create your first assessment in minutes
+          </p>
+          <button className="glow-btn px-8 py-3.5 text-base mt-6">
+            Start for free
+          </button>
+        </div>
+
+        {/* Code block */}
+        <div className="reveal stagger-1 glass-strong rounded-2xl overflow-hidden max-w-2xl mx-auto">
+          {/* Tab bar */}
+          <div className="flex items-center gap-0 border-b border-white/[0.06]">
+            {codeTabs.map((tab, i) => (
+              <button
+                key={tab.label}
+                onClick={() => setActiveTab(i)}
+                className={`px-5 py-3 text-xs font-mono transition-colors ${
+                  i === activeTab
+                    ? 'text-white bg-white/[0.04] border-b-2 border-orange-500'
+                    : 'text-white/30 hover:text-white/50'
+                }`}
+              >
+                {tab.label}
+              </button>
+            ))}
+          </div>
+
+          {/* Code */}
+          <div className="p-5">
+            <pre className="text-sm font-mono leading-relaxed overflow-x-auto">
+              <code className="text-gray-300">
+                {codeTabs[activeTab].code}
+              </code>
+            </pre>
+          </div>
+        </div>
+      </div>
+    </section>
+  )
+}

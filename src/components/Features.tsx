@@ -1,1 +1,350 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCcKCmNvbnN0IHRhYnMgPSBbCiAgewogICAgbGFiZWw6ICdBZGFwdGl2ZSBUZXN0aW5nJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnT3VyIEFJIGVuZ2luZSBhZGp1c3RzIHF1ZXN0aW9uIGRpZmZpY3VsdHkgaW4gcmVhbC10aW1lIGJhc2VkIG9uIHlvdXIgcmVzcG9uc2VzLiBObyBtb3JlIHdhc3RpbmcgdGltZSBvbiBxdWVzdGlvbnMgdGhhdCBhcmUgdG9vIGVhc3kgb3IgdG9vIGhhcmQg4oCUIGV2ZXJ5IGFzc2Vzc21lbnQgaXMgY2FsaWJyYXRlZCB0byB5b3VyIGV4YWN0IHNraWxsIGxldmVsLicsCiAgICBmZWF0dXJlczogWwogICAgICAnRHluYW1pYyBkaWZmaWN1bHR5IGFkanVzdG1lbnQnLAogICAgICAnUmVzcG9uc2UgcGF0dGVybiBhbmFseXNpcycsCiAgICAgICdDb25maWRlbmNlLXdlaWdodGVkIHNjb3JpbmcnLAogICAgICAnQnJhbmNoaW5nIHF1ZXN0aW9uIHBhdGhzJywKICAgIF0sCiAgfSwKICB7CiAgICBsYWJlbDogJ1NraWxsIE1hcHBpbmcnLAogICAgZGVzY3JpcHRpb246CiAgICAgICdWaXN1YWxpemUgcHJvZmljaWVuY3kgYWNyb3NzIGRpbWVuc2lvbnMgd2l0aCBpbnRlcmFjdGl2ZSByYWRhciBjaGFydHMuIElkZW50aWZ5IGdhcHMsIHRyYWNrIGdyb3d0aCBvdmVyIHRpbWUsIGFuZCBnZXQgcGVyc29uYWxpemVkIHJlY29tbWVuZGF0aW9ucyBmb3IgaW1wcm92ZW1lbnQuJywKICAgIGZlYXR1cmVzOiBbCiAgICAgICdNdWx0aS1kaW1lbnNpb25hbCByYWRhciBjaGFydHMnLAogICAgICAnR2FwIGFuYWx5c2lzIHJlcG9ydHMnLAogICAgICAnR3Jvd3RoIHRyYWNraW5nIG92ZXIgdGltZScsCiAgICAgICdQZXJzb25hbGl6ZWQgbGVhcm5pbmcgcGF0aHMnLAogICAgXSwKICB9LAogIHsKICAgIGxhYmVsOiAnUmVhbC10aW1lIFNjb3JpbmcnLAogICAgZGVzY3JpcHRpb246CiAgICAgICdHZXQgaW5zdGFudCByZXN1bHRzIHRoZSBtb21lbnQgeW91IGZpbmlzaC4gT3VyIEFJIHNjb3JpbmcgZW5naW5lIHByb3ZpZGVzIGRldGFpbGVkIGJyZWFrZG93bnMsIGNvbXBhcmF0aXZlIGFuYWx5c2lzLCBhbmQgYWN0aW9uYWJsZSBpbnNpZ2h0cyBpbiBzZWNvbmRzIOKAlCBub3QgZGF5cy4nLAogICAgZmVhdHVyZXM6IFsKICAgICAgJ0luc3RhbnQgc2NvcmUgY29tcHV0YXRpb24nLAogICAgICAnRGV0YWlsZWQgc2VjdGlvbiBicmVha2Rvd25zJywKICAgICAgJ1BlcmNlbnRpbGUgY29tcGFyaXNvbnMnLAogICAgICAnQWN0aW9uYWJsZSBpbXByb3ZlbWVudCB0aXBzJywKICAgIF0sCiAgfSwKICB7CiAgICBsYWJlbDogJ0N1c3RvbSBBc3Nlc3NtZW50cycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ0J1aWxkIGFzc2Vzc21lbnRzIGZvciBhbnkgQUkgdG9vbCwgZnJhbWV3b3JrLCBvciBtZXRob2RvbG9neS4gVXNlIG91ciBxdWVzdGlvbiBiYW5rIG9yIGNyZWF0ZSB5b3VyIG93biB3aXRoIG91ciBpbnR1aXRpdmUgZWRpdG9yIGFuZCBBSS1hc3Npc3RlZCBxdWVzdGlvbiBnZW5lcmF0aW9uLicsCiAgICBmZWF0dXJlczogWwogICAgICAnRHJhZy1hbmQtZHJvcCBidWlsZGVyJywKICAgICAgJ0FJIHF1ZXN0aW9uIGdlbmVyYXRpb24nLAogICAgICAnMTAsMDAwKyBxdWVzdGlvbiBiYW5rJywKICAgICAgJ0N1c3RvbSBicmFuZGluZyBvcHRpb25zJywKICAgIF0sCiAgfSwKICB7CiAgICBsYWJlbDogJ1RlYW0gQW5hbHl0aWNzJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnT3JnYW5pemF0aW9uLXdpZGUgcHJvZmljaWVuY3kgZGFzaGJvYXJkcyBnaXZlIHlvdSBmdWxsIHZpc2liaWxpdHkgaW50byB0ZWFtIGNhcGFiaWxpdGllcy4gVHJhY2sgdHJhaW5pbmcgUk9JLCBpZGVudGlmeSBza2lsbCBnYXBzLCBhbmQgbWFrZSBkYXRhLWRyaXZlbiBoaXJpbmcgZGVjaXNpb25zLicsCiAgICBmZWF0dXJlczogWwogICAgICAnVGVhbSBwcm9maWNpZW5jeSBoZWF0bWFwcycsCiAgICAgICdEZXBhcnRtZW50IGNvbXBhcmlzb25zJywKICAgICAgJ1RyYWluaW5nIFJPSSBtZXRyaWNzJywKICAgICAgJ0V4cG9ydC1yZWFkeSByZXBvcnRzJywKICAgIF0sCiAgfSwKICB7CiAgICBsYWJlbDogJ0NlcnRpZmljYXRpb25zJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnSXNzdWUgdmVyaWZpYWJsZSBkaWdpdGFsIGNlcnRpZmljYXRlcyBhbmQgYmFkZ2VzLiBFYWNoIGNlcnRpZmljYXRlIGluY2x1ZGVzIGEgdW5pcXVlIHZlcmlmaWNhdGlvbiBVUkwsIGJsb2NrY2hhaW4tYmFja2VkIHZhbGlkYXRpb24sIGFuZCBpbnRlZ3JhdGlvbnMgd2l0aCBMaW5rZWRJbiBhbmQgb3RoZXIgcGxhdGZvcm1zLicsCiAgICBmZWF0dXJlczogWwogICAgICAnVmVyaWZpYWJsZSBkaWdpdGFsIGJhZGdlcycsCiAgICAgICdVbmlxdWUgY2VydGlmaWNhdGUgVVJMcycsCiAgICAgICdMaW5rZWRJbiBpbnRlZ3JhdGlvbicsCiAgICAgICdDdXN0b20gY2VydGlmaWNhdGUgdGVtcGxhdGVzJywKICAgIF0sCiAgfSwKXQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gRmVhdHVyZXMoKSB7CiAgY29uc3QgW2FjdGl2ZSwgc2V0QWN0aXZlXSA9IHVzZVN0YXRlKDApCiAgY29uc3QgdGFiID0gdGFic1thY3RpdmVdCgogIHJldHVybiAoCiAgICA8c2VjdGlvbiBjbGFzc05hbWU9InJlbGF0aXZlIHB5LTI0IG92ZXJmbG93LWhpZGRlbiBzZWN0aW9uLWZyYW1lIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgZ3JpZC1wYXR0ZXJuIiAvPgogICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgbWF4LXctN3hsIG14LWF1dG8gcHgtNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InJldmVhbCB0ZXh0LWNlbnRlciBtYi0xMiI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNlY3Rpb24tbGFiZWwiPlsgV2hhdCB3ZSBvZmZlciBdPC9zcGFuPgogICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC0zeGwgc206dGV4dC00eGwgZm9udC1ib2xkIHRyYWNraW5nLXRpZ2h0IG10LTIgdGV4dC13aGl0ZSI+CiAgICAgICAgICAgIE5vdCBqdXN0IGFub3RoZXIgcXVpeiBwbGF0Zm9ybS4KICAgICAgICAgICAgPGJyIC8+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZ3JhZGllbnQtdGV4dCI+QSBjb21wbGV0ZSBhc3Nlc3NtZW50IGVuZ2luZS48L3NwYW4+CiAgICAgICAgICA8L2gyPgogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogVGFicyAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmV2ZWFsIHN0YWdnZXItMSBmbGV4IGZsZXgtd3JhcCBqdXN0aWZ5LWNlbnRlciBnYXAtMSBtYi0xMiI+CiAgICAgICAgICB7dGFicy5tYXAoKHQsIGkpID0+ICgKICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgIGtleT17dC5sYWJlbH0KICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRBY3RpdmUoaSl9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcmVsYXRpdmUgcHgtNCBweS0yLjUgdGV4dC1zbSByb3VuZGVkLWxnIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTIwMCAkewogICAgICAgICAgICAgICAgaSA9PT0gYWN0aXZlCiAgICAgICAgICAgICAgICAgID8gJ3RleHQtd2hpdGUgYmctb3JhbmdlLTUwMC8xMCBib3JkZXIgYm9yZGVyLW9yYW5nZS01MDAvMjAnCiAgICAgICAgICAgICAgICAgIDogJ3RleHQtd2hpdGUvNDAgaG92ZXI6dGV4dC13aGl0ZS82MCBob3ZlcjpiZy13aGl0ZS9bMC4wM10nCiAgICAgICAgICAgICAgfWB9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7dC5sYWJlbH0KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KCiAgICAgICAgey8qIENvbnRlbnQgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InJldmVhbCBzdGFnZ2VyLTIgZ3JpZCBsZzpncmlkLWNvbHMtMiBnYXAtMTIgaXRlbXMtY2VudGVyIj4KICAgICAgICAgIHsvKiBMZWZ0IOKAlCBEZXRhaWxzICovfQogICAgICAgICAgPGRpdiBrZXk9e2FjdGl2ZX0gY2xhc3NOYW1lPSJhbmltYXRlLWZhZGUtaW4iPgogICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBmb250LXNlbWlib2xkIG1iLTQgdGV4dC13aGl0ZSI+e3RhYi5sYWJlbH08L2gzPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtZ3JheS00MDAgbGVhZGluZy1yZWxheGVkIG1iLTYiPgogICAgICAgICAgICAgIHt0YWIuZGVzY3JpcHRpb259CiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ic3BhY2UteS0zIj4KICAgICAgICAgICAgICB7dGFiLmZlYXR1cmVzLm1hcCgoZikgPT4gKAogICAgICAgICAgICAgICAgPGxpIGtleT17Zn0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyB0ZXh0LXNtIHRleHQtZ3JheS0zMDAiPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZsZXgtc2hyaW5rLTAgdy01IGgtNSByb3VuZGVkLW1kIGJnLW9yYW5nZS01MDAvMTAgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgIDxzdmcKICAgICAgICAgICAgICAgICAgICAgIHdpZHRoPSIxMiIKICAgICAgICAgICAgICAgICAgICAgIGhlaWdodD0iMTIiCiAgICAgICAgICAgICAgICAgICAgICB2aWV3Qm94PSIwIDAgMTIgMTIiCiAgICAgICAgICAgICAgICAgICAgICBmaWxsPSJub25lIgogICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LW9yYW5nZS00MDAiCiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgPHBhdGgKICAgICAgICAgICAgICAgICAgICAgICAgZD0iTTEwIDNMNC41IDguNSAyIDYiCiAgICAgICAgICAgICAgICAgICAgICAgIHN0cm9rZT0iY3VycmVudENvbG9yIgogICAgICAgICAgICAgICAgICAgICAgICBzdHJva2VXaWR0aD0iMS41IgogICAgICAgICAgICAgICAgICAgICAgICBzdHJva2VMaW5lY2FwPSJyb3VuZCIKICAgICAgICAgICAgICAgICAgICAgICAgc3Ryb2tlTGluZWpvaW49InJvdW5kIgogICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICB7Zn0KICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7LyogUmlnaHQg4oCUIElsbHVzdHJhdGlvbiBtb2NrdXAgKi99CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ2xhc3Mtc3Ryb25nIHAtOCByb3VuZGVkLTJ4bCBtaW4taC1bMzQwcHhdIGZsZXggZmxleC1jb2wganVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgICA8RmVhdHVyZUlsbHVzdHJhdGlvbiBpbmRleD17YWN0aXZlfSAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9zZWN0aW9uPgogICkKfQoKZnVuY3Rpb24gRmVhdHVyZUlsbHVzdHJhdGlvbih7IGluZGV4IH06IHsgaW5kZXg6IG51bWJlciB9KSB7CiAgc3dpdGNoIChpbmRleCkgewogICAgY2FzZSAwOgogICAgICByZXR1cm4gPEFkYXB0aXZlVGVzdGluZ1ZpeiAvPgogICAgY2FzZSAxOgogICAgICByZXR1cm4gPFNraWxsTWFwVml6IC8+CiAgICBjYXNlIDI6CiAgICAgIHJldHVybiA8UmVhbFRpbWVTY29yaW5nVml6IC8+CiAgICBjYXNlIDM6CiAgICAgIHJldHVybiA8Q3VzdG9tQXNzZXNzbWVudHNWaXogLz4KICAgIGNhc2UgNDoKICAgICAgcmV0dXJuIDxUZWFtQW5hbHl0aWNzVml6IC8+CiAgICBjYXNlIDU6CiAgICAgIHJldHVybiA8Q2VydGlmaWNhdGlvbnNWaXogLz4KICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBudWxsCiAgfQp9CgpmdW5jdGlvbiBBZGFwdGl2ZVRlc3RpbmdWaXooKSB7CiAgY29uc3QgbGV2ZWxzID0gWwogICAgeyBsYWJlbDogJ1ExJywgZGlmZmljdWx0eTogNDAgfSwKICAgIHsgbGFiZWw6ICdRMicsIGRpZmZpY3VsdHk6IDU1IH0sCiAgICB7IGxhYmVsOiAnUTMnLCBkaWZmaWN1bHR5OiA0NSB9LAogICAgeyBsYWJlbDogJ1E0JywgZGlmZmljdWx0eTogNzAgfSwKICAgIHsgbGFiZWw6ICdRNScsIGRpZmZpY3VsdHk6IDY1IH0sCiAgICB7IGxhYmVsOiAnUTYnLCBkaWZmaWN1bHR5OiA4MCB9LAogICAgeyBsYWJlbDogJ1E3JywgZGlmZmljdWx0eTogNzUgfSwKICAgIHsgbGFiZWw6ICdROCcsIGRpZmZpY3VsdHk6IDkwIH0sCiAgXQogIHJldHVybiAoCiAgICA8ZGl2PgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIG1iLTMiPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1vbm8gdGV4dC13aGl0ZS80MCI+RGlmZmljdWx0eSBDdXJ2ZTwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgZm9udC1tb25vIHRleHQtb3JhbmdlLTQwMCI+QWRhcHRpdmUgTW9kZTwvc3Bhbj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWVuZCBnYXAtMiBoLTQwIj4KICAgICAgICB7bGV2ZWxzLm1hcCgobCkgPT4gKAogICAgICAgICAgPGRpdiBrZXk9e2wubGFiZWx9IGNsYXNzTmFtZT0iZmxleC0xIGZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIGdhcC0xIj4KICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIHJvdW5kZWQtdCBiZy1ncmFkaWVudC10by10IGZyb20tb3JhbmdlLTYwMC80MCB0by1vcmFuZ2UtNDAwLzYwIHRyYW5zaXRpb24tYWxsIgogICAgICAgICAgICAgIHN0eWxlPXt7IGhlaWdodDogYCR7bC5kaWZmaWN1bHR5fSVgIH19CiAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTBweF0gdGV4dC13aGl0ZS8zMCBmb250LW1vbm8iPntsLmxhYmVsfTwvc3Bhbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICkpfQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICkKfQoKZnVuY3Rpb24gU2tpbGxNYXBWaXooKSB7CiAgY29uc3Qgc2tpbGxzID0gWydQcm9tcHRpbmcnLCAnRmluZS10dW5pbmcnLCAnUkFHJywgJ0FnZW50cycsICdFdmFsdWF0aW9uJywgJ1NhZmV0eSddCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciI+CiAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1vbm8gdGV4dC13aGl0ZS80MCBtYi02Ij5Ta2lsbCBSYWRhcjwvc3Bhbj4KICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIHctNDggaC00OCI+CiAgICAgICAge1sxLCAwLjY2LCAwLjMzXS5tYXAoKHMpID0+ICgKICAgICAgICAgIDxkaXYKICAgICAgICAgICAga2V5PXtzfQogICAgICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYm9yZGVyIGJvcmRlci13aGl0ZS9bMC4wNl0gcm91bmRlZC1mdWxsIgogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIHRyYW5zZm9ybTogYHNjYWxlKCR7c30pYCwKICAgICAgICAgICAgICB0b3A6IGAkeygxIC0gcykgKiA1MH0lYCwKICAgICAgICAgICAgICBsZWZ0OiBgJHsoMSAtIHMpICogNTB9JWAsCiAgICAgICAgICAgICAgd2lkdGg6IGAke3MgKiAxMDB9JWAsCiAgICAgICAgICAgICAgaGVpZ2h0OiBgJHtzICogMTAwfSVgLAogICAgICAgICAgICB9fQogICAgICAgICAgLz4KICAgICAgICApKX0KICAgICAgICB7c2tpbGxzLm1hcCgoc2tpbGwsIGkpID0+IHsKICAgICAgICAgIGNvbnN0IGFuZ2xlID0gKGkgLyBza2lsbHMubGVuZ3RoKSAqIDM2MCAtIDkwCiAgICAgICAgICBjb25zdCByYWQgPSAoYW5nbGUgKiBNYXRoLlBJKSAvIDE4MAogICAgICAgICAgY29uc3QgeCA9IDUwICsgNTYgKiBNYXRoLmNvcyhyYWQpCiAgICAgICAgICBjb25zdCB5ID0gNTAgKyA1NiAqIE1hdGguc2luKHJhZCkKICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgICAga2V5PXtza2lsbH0KICAgICAgICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIHRleHQtWzEwcHhdIHRleHQtd2hpdGUvNDAgZm9udC1tb25vIC10cmFuc2xhdGUteC0xLzIgLXRyYW5zbGF0ZS15LTEvMiIKICAgICAgICAgICAgICBzdHlsZT17eyBsZWZ0OiBgJHt4fSVgLCB0b3A6IGAke3l9JWAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHtza2lsbH0KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgKQogICAgICAgIH0pfQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICkKfQoKZnVuY3Rpb24gUmVhbFRpbWVTY29yaW5nVml6KCkgewogIGNvbnN0IHNlY3Rpb25zID0gWwogICAgeyBsYWJlbDogJ0Z1bmRhbWVudGFscycsIHNjb3JlOiA5MiB9LAogICAgeyBsYWJlbDogJ1Byb21wdGluZycsIHNjb3JlOiA4NyB9LAogICAgeyBsYWJlbDogJ0FyY2hpdGVjdHVyZScsIHNjb3JlOiA3NCB9LAogICAgeyBsYWJlbDogJ0RlcGxveW1lbnQnLCBzY29yZTogODEgfSwKICBdCiAgcmV0dXJuICgKICAgIDxkaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gbWItNCI+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIGZvbnQtbW9ubyB0ZXh0LXdoaXRlLzQwIj5TY29yZSBCcmVha2Rvd248L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBmb250LWJvbGQgZ3JhZGllbnQtdGV4dCI+ODQlPC9zcGFuPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAge3NlY3Rpb25zLm1hcCgocykgPT4gKAogICAgICAgICAgPGRpdiBrZXk9e3MubGFiZWx9PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBqdXN0aWZ5LWJldHdlZW4gbWItMSI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtd2hpdGUvNTAiPntzLmxhYmVsfTwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgdGV4dC13aGl0ZS82MCBmb250LW1vbm8iPntzLnNjb3JlfSU8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaC0xLjUgYmctd2hpdGUvWzAuMDZdIHJvdW5kZWQtZnVsbCI+CiAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJoLWZ1bGwgYmctZ3JhZGllbnQtdG8tciBmcm9tLW9yYW5nZS01MDAgdG8tYW1iZXItNTAwIHJvdW5kZWQtZnVsbCIKICAgICAgICAgICAgICAgIHN0eWxlPXt7IHdpZHRoOiBgJHtzLnNjb3JlfSVgIH19CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApCn0KCmZ1bmN0aW9uIEN1c3RvbUFzc2Vzc21lbnRzVml6KCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0zIj4KICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIGZvbnQtbW9ubyB0ZXh0LXdoaXRlLzQwIj5Bc3Nlc3NtZW50IEJ1aWxkZXI8L3NwYW4+CiAgICAgIHtbJ011bHRpcGxlIENob2ljZScsICdDb2RlIENoYWxsZW5nZScsICdGcmVlIFJlc3BvbnNlJywgJ1NjZW5hcmlvIEJhc2VkJ10ubWFwKAogICAgICAgICh0eXBlLCBpKSA9PiAoCiAgICAgICAgICA8ZGl2CiAgICAgICAgICAgIGtleT17dHlwZX0KICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBweC00IHB5LTMgcm91bmRlZC1sZyBib3JkZXIgYm9yZGVyLXdoaXRlL1swLjA2XSBiZy13aGl0ZS9bMC4wMl0iCiAgICAgICAgICA+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idy04IGgtOCByb3VuZGVkLW1kIGJnLW9yYW5nZS01MDAvMTAgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgdGV4dC14cyB0ZXh0LW9yYW5nZS00MDAgZm9udC1tb25vIj4KICAgICAgICAgICAgICB7aSArIDF9CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtd2hpdGUvNjAiPnt0eXBlfTwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJtbC1hdXRvIHRleHQtWzEwcHhdIHRleHQtd2hpdGUvMjAgZm9udC1tb25vIj5kcmFnPC9zcGFuPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKQogICAgICApfQogICAgPC9kaXY+CiAgKQp9CgpmdW5jdGlvbiBUZWFtQW5hbHl0aWNzVml6KCkgewogIGNvbnN0IHRlYW1zID0gWwogICAgeyBuYW1lOiAnRW5naW5lZXJpbmcnLCBzY29yZTogODggfSwKICAgIHsgbmFtZTogJ1Byb2R1Y3QnLCBzY29yZTogNzIgfSwKICAgIHsgbmFtZTogJ0Rlc2lnbicsIHNjb3JlOiA2NSB9LAogICAgeyBuYW1lOiAnTWFya2V0aW5nJywgc2NvcmU6IDU4IH0sCiAgXQogIHJldHVybiAoCiAgICA8ZGl2PgogICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgZm9udC1tb25vIHRleHQtd2hpdGUvNDAiPlRlYW0gUHJvZmljaWVuY3k8L3NwYW4+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00IHNwYWNlLXktMyI+CiAgICAgICAge3RlYW1zLm1hcCgodCkgPT4gKAogICAgICAgICAgPGRpdiBrZXk9e3QubmFtZX0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtNCI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LXdoaXRlLzUwIHctMjAiPnt0Lm5hbWV9PC9zcGFuPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleC0xIGgtMiBiZy13aGl0ZS9bMC4wNl0gcm91bmRlZC1mdWxsIj4KICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImgtZnVsbCBiZy1ncmFkaWVudC10by1yIGZyb20tb3JhbmdlLTUwMCB0by1hbWJlci01MDAgcm91bmRlZC1mdWxsIgogICAgICAgICAgICAgICAgc3R5bGU9e3sgd2lkdGg6IGAke3Quc2NvcmV9JWAgfX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtd2hpdGUvNDAgZm9udC1tb25vIHctOCB0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICB7dC5zY29yZX0KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKSl9CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKQp9CgpmdW5jdGlvbiBDZXJ0aWZpY2F0aW9uc1ZpeigpIHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIHRleHQtY2VudGVyIj4KICAgICAgPGRpdiBjbGFzc05hbWU9InctNDggcm91bmRlZC14bCBib3JkZXIgYm9yZGVyLXdoaXRlL1swLjA4XSBiZy13aGl0ZS9bMC4wM10gcC01IG1iLTQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTEyIGgtMTIgbXgtYXV0byBtYi0zIHJvdW5kZWQtZnVsbCBiZy1ncmFkaWVudC10by1iciBmcm9tLW9yYW5nZS01MDAgdG8tYW1iZXItNTAwIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgIDxzdmcgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiPgogICAgICAgICAgICA8cGF0aAogICAgICAgICAgICAgIGQ9Ik0xMCAxbDIuMzkgNC44NEwxOCA2LjcxbC00IDMuOS45NCA1LjVMMTAgMTMuNzdsLTQuOTQgMi4zNC45NC01LjUtNC0zLjkgNS42MS0uODdMMTAgMXoiCiAgICAgICAgICAgICAgc3Ryb2tlPSJ3aGl0ZSIKICAgICAgICAgICAgICBzdHJva2VXaWR0aD0iMS41IgogICAgICAgICAgICAgIHN0cm9rZUxpbmVqb2luPSJyb3VuZCIKICAgICAgICAgICAgLz4KICAgICAgICAgIDwvc3ZnPgogICAgICAgIDwvZGl2PgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1lZGl1bSB0ZXh0LXdoaXRlLzcwIj5BSSBGdW5kYW1lbnRhbHM8L3A+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSB0ZXh0LXdoaXRlLzMwIG10LTEiPkNlcnRpZmllZCBQcm9maWNpZW50PC9wPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0zIHB0LTMgYm9yZGVyLXQgYm9yZGVyLXdoaXRlL1swLjA2XSI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtWzlweF0gdGV4dC13aGl0ZS8yMCBmb250LW1vbm8iPgogICAgICAgICAgICB2ZXJpZnkuaW5wcm9tcHRpZnkuY29tL2MvYTFiMmMzCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgdGV4dC13aGl0ZS80MCI+VmVyaWZpYWJsZSBkaWdpdGFsIGNlcnRpZmljYXRlPC9zcGFuPgogICAgPC9kaXY+CiAgKQp9Cg=="}
+import { useState } from 'react'
+
+const tabs = [
+  {
+    label: 'Adaptive Testing',
+    description:
+      'Our AI engine adjusts question difficulty in real-time based on your responses. No more wasting time on questions that are too easy or too hard — every assessment is calibrated to your exact skill level.',
+    features: [
+      'Dynamic difficulty adjustment',
+      'Response pattern analysis',
+      'Confidence-weighted scoring',
+      'Branching question paths',
+    ],
+  },
+  {
+    label: 'Skill Mapping',
+    description:
+      'Visualize proficiency across dimensions with interactive radar charts. Identify gaps, track growth over time, and get personalized recommendations for improvement.',
+    features: [
+      'Multi-dimensional radar charts',
+      'Gap analysis reports',
+      'Growth tracking over time',
+      'Personalized learning paths',
+    ],
+  },
+  {
+    label: 'Real-time Scoring',
+    description:
+      'Get instant results the moment you finish. Our AI scoring engine provides detailed breakdowns, comparative analysis, and actionable insights in seconds — not days.',
+    features: [
+      'Instant score computation',
+      'Detailed section breakdowns',
+      'Percentile comparisons',
+      'Actionable improvement tips',
+    ],
+  },
+  {
+    label: 'Custom Assessments',
+    description:
+      'Build assessments for any AI tool, framework, or methodology. Use our question bank or create your own with our intuitive editor and AI-assisted question generation.',
+    features: [
+      'Drag-and-drop builder',
+      'AI question generation',
+      '10,000+ question bank',
+      'Custom branding options',
+    ],
+  },
+  {
+    label: 'Team Analytics',
+    description:
+      'Organization-wide proficiency dashboards give you full visibility into team capabilities. Track training ROI, identify skill gaps, and make data-driven hiring decisions.',
+    features: [
+      'Team proficiency heatmaps',
+      'Department comparisons',
+      'Training ROI metrics',
+      'Export-ready reports',
+    ],
+  },
+  {
+    label: 'Certifications',
+    description:
+      'Issue verifiable digital certificates and badges. Each certificate includes a unique verification URL, blockchain-backed validation, and integrations with LinkedIn and other platforms.',
+    features: [
+      'Verifiable digital badges',
+      'Unique certificate URLs',
+      'LinkedIn integration',
+      'Custom certificate templates',
+    ],
+  },
+]
+
+export default function Features() {
+  const [active, setActive] = useState(0)
+  const tab = tabs[active]
+
+  return (
+    <section className="relative py-24 overflow-hidden section-frame">
+      <div className="absolute inset-0 grid-pattern" />
+      <div className="relative max-w-7xl mx-auto px-6">
+        <div className="reveal text-center mb-12">
+          <span className="section-label">[ What we offer ]</span>
+          <h2 className="text-3xl sm:text-4xl font-bold tracking-tight mt-2 text-white">
+            Not just another quiz platform.
+            <br />
+            <span className="gradient-text">A complete assessment engine.</span>
+          </h2>
+        </div>
+
+        {/* Tabs */}
+        <div className="reveal stagger-1 flex flex-wrap justify-center gap-1 mb-12">
+          {tabs.map((t, i) => (
+            <button
+              key={t.label}
+              onClick={() => setActive(i)}
+              className={`relative px-4 py-2.5 text-sm rounded-lg transition-all duration-200 ${
+                i === active
+                  ? 'text-white bg-orange-500/10 border border-orange-500/20'
+                  : 'text-white/40 hover:text-white/60 hover:bg-white/[0.03]'
+              }`}
+            >
+              {t.label}
+            </button>
+          ))}
+        </div>
+
+        {/* Content */}
+        <div className="reveal stagger-2 grid lg:grid-cols-2 gap-12 items-center">
+          {/* Left — Details */}
+          <div key={active} className="animate-fade-in">
+            <h3 className="text-2xl font-semibold mb-4 text-white">{tab.label}</h3>
+            <p className="text-gray-400 leading-relaxed mb-6">
+              {tab.description}
+            </p>
+            <ul className="space-y-3">
+              {tab.features.map((f) => (
+                <li key={f} className="flex items-center gap-3 text-sm text-gray-300">
+                  <span className="flex-shrink-0 w-5 h-5 rounded-md bg-orange-500/10 flex items-center justify-center">
+                    <svg
+                      width="12"
+                      height="12"
+                      viewBox="0 0 12 12"
+                      fill="none"
+                      className="text-orange-400"
+                    >
+                      <path
+                        d="M10 3L4.5 8.5 2 6"
+                        stroke="currentColor"
+                        strokeWidth="1.5"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                    </svg>
+                  </span>
+                  {f}
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Right — Illustration mockup */}
+          <div className="glass-strong p-8 rounded-2xl min-h-[340px] flex flex-col justify-center">
+            <FeatureIllustration index={active} />
+          </div>
+        </div>
+      </div>
+    </section>
+  )
+}
+
+function FeatureIllustration({ index }: { index: number }) {
+  switch (index) {
+    case 0:
+      return <AdaptiveTestingViz />
+    case 1:
+      return <SkillMapViz />
+    case 2:
+      return <RealTimeScoringViz />
+    case 3:
+      return <CustomAssessmentsViz />
+    case 4:
+      return <TeamAnalyticsViz />
+    case 5:
+      return <CertificationsViz />
+    default:
+      return null
+  }
+}
+
+function AdaptiveTestingViz() {
+  const levels = [
+    { label: 'Q1', difficulty: 40 },
+    { label: 'Q2', difficulty: 55 },
+    { label: 'Q3', difficulty: 45 },
+    { label: 'Q4', difficulty: 70 },
+    { label: 'Q5', difficulty: 65 },
+    { label: 'Q6', difficulty: 80 },
+    { label: 'Q7', difficulty: 75 },
+    { label: 'Q8', difficulty: 90 },
+  ]
+  return (
+    <div>
+      <div className="flex items-center justify-between mb-3">
+        <span className="text-xs font-mono text-white/40">Difficulty Curve</span>
+        <span className="text-xs font-mono text-orange-400">Adaptive Mode</span>
+      </div>
+      <div className="flex items-end gap-2 h-40">
+        {levels.map((l) => (
+          <div key={l.label} className="flex-1 flex flex-col items-center gap-1">
+            <div
+              className="w-full rounded-t bg-gradient-to-t from-orange-600/40 to-orange-400/60 transition-all"
+              style={{ height: `${l.difficulty}%` }}
+            />
+            <span className="text-[10px] text-white/30 font-mono">{l.label}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+function SkillMapViz() {
+  const skills = ['Prompting', 'Fine-tuning', 'RAG', 'Agents', 'Evaluation', 'Safety']
+  return (
+    <div className="flex flex-col items-center">
+      <span className="text-xs font-mono text-white/40 mb-6">Skill Radar</span>
+      <div className="relative w-48 h-48">
+        {[1, 0.66, 0.33].map((s) => (
+          <div
+            key={s}
+            className="absolute inset-0 border border-white/[0.06] rounded-full"
+            style={{
+              transform: `scale(${s})`,
+              top: `${(1 - s) * 50}%`,
+              left: `${(1 - s) * 50}%`,
+              width: `${s * 100}%`,
+              height: `${s * 100}%`,
+            }}
+          />
+        ))}
+        {skills.map((skill, i) => {
+          const angle = (i / skills.length) * 360 - 90
+          const rad = (angle * Math.PI) / 180
+          const x = 50 + 56 * Math.cos(rad)
+          const y = 50 + 56 * Math.sin(rad)
+          return (
+            <span
+              key={skill}
+              className="absolute text-[10px] text-white/40 font-mono -translate-x-1/2 -translate-y-1/2"
+              style={{ left: `${x}%`, top: `${y}%` }}
+            >
+              {skill}
+            </span>
+          )
+        })}
+      </div>
+    </div>
+  )
+}
+
+function RealTimeScoringViz() {
+  const sections = [
+    { label: 'Fundamentals', score: 92 },
+    { label: 'Prompting', score: 87 },
+    { label: 'Architecture', score: 74 },
+    { label: 'Deployment', score: 81 },
+  ]
+  return (
+    <div>
+      <div className="flex items-center justify-between mb-4">
+        <span className="text-xs font-mono text-white/40">Score Breakdown</span>
+        <span className="text-2xl font-bold gradient-text">84%</span>
+      </div>
+      <div className="space-y-3">
+        {sections.map((s) => (
+          <div key={s.label}>
+            <div className="flex justify-between mb-1">
+              <span className="text-xs text-white/50">{s.label}</span>
+              <span className="text-xs text-white/60 font-mono">{s.score}%</span>
+            </div>
+            <div className="h-1.5 bg-white/[0.06] rounded-full">
+              <div
+                className="h-full bg-gradient-to-r from-orange-500 to-amber-500 rounded-full"
+                style={{ width: `${s.score}%` }}
+              />
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+function CustomAssessmentsViz() {
+  return (
+    <div className="space-y-3">
+      <span className="text-xs font-mono text-white/40">Assessment Builder</span>
+      {['Multiple Choice', 'Code Challenge', 'Free Response', 'Scenario Based'].map(
+        (type, i) => (
+          <div
+            key={type}
+            className="flex items-center gap-3 px-4 py-3 rounded-lg border border-white/[0.06] bg-white/[0.02]"
+          >
+            <span className="w-8 h-8 rounded-md bg-orange-500/10 flex items-center justify-center text-xs text-orange-400 font-mono">
+              {i + 1}
+            </span>
+            <span className="text-sm text-white/60">{type}</span>
+            <span className="ml-auto text-[10px] text-white/20 font-mono">drag</span>
+          </div>
+        )
+      )}
+    </div>
+  )
+}
+
+function TeamAnalyticsViz() {
+  const teams = [
+    { name: 'Engineering', score: 88 },
+    { name: 'Product', score: 72 },
+    { name: 'Design', score: 65 },
+    { name: 'Marketing', score: 58 },
+  ]
+  return (
+    <div>
+      <span className="text-xs font-mono text-white/40">Team Proficiency</span>
+      <div className="mt-4 space-y-3">
+        {teams.map((t) => (
+          <div key={t.name} className="flex items-center gap-4">
+            <span className="text-xs text-white/50 w-20">{t.name}</span>
+            <div className="flex-1 h-2 bg-white/[0.06] rounded-full">
+              <div
+                className="h-full bg-gradient-to-r from-orange-500 to-amber-500 rounded-full"
+                style={{ width: `${t.score}%` }}
+              />
+            </div>
+            <span className="text-xs text-white/40 font-mono w-8 text-right">
+              {t.score}
+            </span>
+          </div>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+function CertificationsViz() {
+  return (
+    <div className="flex flex-col items-center text-center">
+      <div className="w-48 rounded-xl border border-white/[0.08] bg-white/[0.03] p-5 mb-4">
+        <div className="w-12 h-12 mx-auto mb-3 rounded-full bg-gradient-to-br from-orange-500 to-amber-500 flex items-center justify-center">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+            <path
+              d="M10 1l2.39 4.84L18 6.71l-4 3.9.94 5.5L10 13.77l-4.94 2.34.94-5.5-4-3.9 5.61-.87L10 1z"
+              stroke="white"
+              strokeWidth="1.5"
+              strokeLinejoin="round"
+            />
+          </svg>
+        </div>
+        <p className="text-xs font-medium text-white/70">AI Fundamentals</p>
+        <p className="text-[10px] text-white/30 mt-1">Certified Proficient</p>
+        <div className="mt-3 pt-3 border-t border-white/[0.06]">
+          <p className="text-[9px] text-white/20 font-mono">
+            verify.inpromptify.com/c/a1b2c3
+          </p>
+        </div>
+      </div>
+      <span className="text-xs text-white/40">Verifiable digital certificate</span>
+    </div>
+  )
+}

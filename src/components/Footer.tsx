@@ -1,1 +1,88 @@
-{"data":"aW1wb3J0IHsgTGluayB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCgpjb25zdCBmb290ZXJMaW5rcyA9IHsKICBQcm9kdWN0OiBbCiAgICB7IGxhYmVsOiAnRmVhdHVyZXMnLCBocmVmOiAnL2ZlYXR1cmVzJyB9LAogICAgeyBsYWJlbDogJ1ByaWNpbmcnLCBocmVmOiAnL3ByaWNpbmcnIH0sCiAgICB7IGxhYmVsOiAnQVBJIFJlZmVyZW5jZScsIGhyZWY6ICcjJyB9LAogICAgeyBsYWJlbDogJ0ludGVncmF0aW9ucycsIGhyZWY6ICcjJyB9LAogICAgeyBsYWJlbDogJ0NoYW5nZWxvZycsIGhyZWY6ICcjJyB9LAogIF0sCiAgQ29tcGFueTogWwogICAgeyBsYWJlbDogJ0Fib3V0JywgaHJlZjogJy9hYm91dCcgfSwKICAgIHsgbGFiZWw6ICdCbG9nJywgaHJlZjogJy9ibG9nJyB9LAogICAgeyBsYWJlbDogJ0NhcmVlcnMnLCBocmVmOiAnIycgfSwKICAgIHsgbGFiZWw6ICdDb250YWN0JywgaHJlZjogJyMnIH0sCiAgXSwKICBSZXNvdXJjZXM6IFsKICAgIHsgbGFiZWw6ICdEb2N1bWVudGF0aW9uJywgaHJlZjogJyMnIH0sCiAgICB7IGxhYmVsOiAnR3VpZGVzJywgaHJlZjogJyMnIH0sCiAgICB7IGxhYmVsOiAnQ29tbXVuaXR5JywgaHJlZjogJyMnIH0sCiAgICB7IGxhYmVsOiAnU3VwcG9ydCcsIGhyZWY6ICcjJyB9LAogIF0sCiAgTGVnYWw6IFsKICAgIHsgbGFiZWw6ICdQcml2YWN5JywgaHJlZjogJyMnIH0sCiAgICB7IGxhYmVsOiAnVGVybXMnLCBocmVmOiAnIycgfSwKICAgIHsgbGFiZWw6ICdTZWN1cml0eScsIGhyZWY6ICcjJyB9LAogIF0sCn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEZvb3RlcigpIHsKICByZXR1cm4gKAogICAgPGZvb3RlciBjbGFzc05hbWU9ImJvcmRlci10IGJvcmRlci13aGl0ZS9bMC4wNl0iPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctN3hsIG14LWF1dG8gcHgtNiBweS0xNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTIgbWQ6Z3JpZC1jb2xzLTUgZ2FwLTgiPgogICAgICAgICAgey8qIEJyYW5kIOKAlCB0ZXh0IG9ubHkgKi99CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sLXNwYW4tMiBtZDpjb2wtc3Bhbi0xIj4KICAgICAgICAgICAgPExpbmsgdG89Ii8iIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgbWItNCI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LWJhc2UgZm9udC1ib2xkIHRyYWNraW5nLXRpZ2h0IHRleHQtd2hpdGUiPgogICAgICAgICAgICAgICAgSW5wcm9tcHRpPHNwYW4gY2xhc3NOYW1lPSJncmFkaWVudC10ZXh0Ij5GeTwvc3Bhbj4KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtd2hpdGUvNDAgbGVhZGluZy1yZWxheGVkIj4KICAgICAgICAgICAgICBBSS1wb3dlcmVkIHByb2ZpY2llbmN5IGFzc2Vzc21lbnQgcGxhdGZvcm0gZm9yIG1vZGVybiB0ZWFtcy4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgey8qIExpbmsgY29sdW1ucyAqL30KICAgICAgICAgIHtPYmplY3QuZW50cmllcyhmb290ZXJMaW5rcykubWFwKChbY2F0ZWdvcnksIGxpbmtzXSkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17Y2F0ZWdvcnl9PgogICAgICAgICAgICAgIDxoNCBjbGFzc05hbWU9InRleHQteHMgZm9udC1tZWRpdW0gdXBwZXJjYXNlIHRyYWNraW5nLXdpZGVyIHRleHQtd2hpdGUvMzAgbWItNCI+CiAgICAgICAgICAgICAgICB7Y2F0ZWdvcnl9CiAgICAgICAgICAgICAgPC9oND4KICAgICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJzcGFjZS15LTIuNSI+CiAgICAgICAgICAgICAgICB7bGlua3MubWFwKChsaW5rKSA9PiAoCiAgICAgICAgICAgICAgICAgIDxsaSBrZXk9e2xpbmsubGFiZWx9PgogICAgICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgICAgICB0bz17bGluay5ocmVmfQogICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtd2hpdGUvNTAgaG92ZXI6dGV4dC13aGl0ZSB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICB7bGluay5sYWJlbH0KICAgICAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogQm90dG9tIGJhciAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtMTYgcHQtOCBib3JkZXItdCBib3JkZXItd2hpdGUvWzAuMDZdIGZsZXggZmxleC1jb2wgbWQ6ZmxleC1yb3cgaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBnYXAtNCI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC13aGl0ZS8zMCI+CiAgICAgICAgICAgICZjb3B5OyB7bmV3IERhdGUoKS5nZXRGdWxsWWVhcigpfSBJbnByb21wdGlGeS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KICAgICAgICAgIDwvcD4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtNSI+CiAgICAgICAgICAgIHsvKiBTb2NpYWwgbGlua3MgKi99CiAgICAgICAgICAgIHtbJ1R3aXR0ZXInLCAnR2l0SHViJywgJ0Rpc2NvcmQnXS5tYXAoKG5hbWUpID0+ICgKICAgICAgICAgICAgICA8YQogICAgICAgICAgICAgICAga2V5PXtuYW1lfQogICAgICAgICAgICAgICAgaHJlZj0iIyIKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LXdoaXRlLzMwIGhvdmVyOnRleHQtd2hpdGUvNjAgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAge25hbWV9CiAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZm9vdGVyPgogICkKfQo="}
+import { Link } from 'react-router-dom'
+
+const footerLinks = {
+  Product: [
+    { label: 'Features', href: '/features' },
+    { label: 'Pricing', href: '/pricing' },
+    { label: 'API Reference', href: '#' },
+    { label: 'Integrations', href: '#' },
+    { label: 'Changelog', href: '#' },
+  ],
+  Company: [
+    { label: 'About', href: '/about' },
+    { label: 'Blog', href: '/blog' },
+    { label: 'Careers', href: '#' },
+    { label: 'Contact', href: '#' },
+  ],
+  Resources: [
+    { label: 'Documentation', href: '#' },
+    { label: 'Guides', href: '#' },
+    { label: 'Community', href: '#' },
+    { label: 'Support', href: '#' },
+  ],
+  Legal: [
+    { label: 'Privacy', href: '#' },
+    { label: 'Terms', href: '#' },
+    { label: 'Security', href: '#' },
+  ],
+}
+
+export default function Footer() {
+  return (
+    <footer className="border-t border-white/[0.06]">
+      <div className="max-w-7xl mx-auto px-6 py-16">
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-8">
+          {/* Brand */}
+          <div className="col-span-2 md:col-span-1">
+            <Link to="/" className="flex items-center mb-4">
+              <img src="/logo.png" alt="InpromptiFy" className="h-6 w-auto" />
+            </Link>
+            <p className="text-sm text-white/40 leading-relaxed">
+              AI-powered proficiency assessment platform for modern teams.
+            </p>
+          </div>
+
+          {/* Link columns */}
+          {Object.entries(footerLinks).map(([category, links]) => (
+            <div key={category}>
+              <h4 className="text-xs font-medium uppercase tracking-wider text-white/30 mb-4">
+                {category}
+              </h4>
+              <ul className="space-y-2.5">
+                {links.map((link) => (
+                  <li key={link.label}>
+                    <Link
+                      to={link.href}
+                      className="text-sm text-white/50 hover:text-white transition-colors"
+                    >
+                      {link.label}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+
+        {/* Bottom bar */}
+        <div className="mt-16 pt-8 border-t border-white/[0.06] flex flex-col md:flex-row items-center justify-between gap-4">
+          <p className="text-xs text-white/30">
+            &copy; {new Date().getFullYear()} InpromptiFy. All rights reserved.
+          </p>
+          <div className="flex items-center gap-5">
+            {/* Social links */}
+            {['Twitter', 'GitHub', 'Discord'].map((name) => (
+              <a
+                key={name}
+                href="#"
+                className="text-xs text-white/30 hover:text-white/60 transition-colors"
+              >
+                {name}
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </footer>
+  )
+}

@@ -1,1 +1,23 @@
-{"data":"aW1wb3J0IEhlcm8gZnJvbSAnLi4vY29tcG9uZW50cy9IZXJvJwppbXBvcnQgU29jaWFsUHJvb2YgZnJvbSAnLi4vY29tcG9uZW50cy9Tb2NpYWxQcm9vZicKaW1wb3J0IEZlYXR1cmVzIGZyb20gJy4uL2NvbXBvbmVudHMvRmVhdHVyZXMnCmltcG9ydCBTdGF0cyBmcm9tICcuLi9jb21wb25lbnRzL1N0YXRzJwppbXBvcnQgVXNlQ2FzZXMgZnJvbSAnLi4vY29tcG9uZW50cy9Vc2VDYXNlcycKaW1wb3J0IFRlc3RpbW9uaWFscyBmcm9tICcuLi9jb21wb25lbnRzL1Rlc3RpbW9uaWFscycKaW1wb3J0IEZBUSBmcm9tICcuLi9jb21wb25lbnRzL0ZBUScKaW1wb3J0IENUQVNlY3Rpb24gZnJvbSAnLi4vY29tcG9uZW50cy9DVEFTZWN0aW9uJwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSG9tZSgpIHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPEhlcm8gLz4KICAgICAgPFNvY2lhbFByb29mIC8+CiAgICAgIDxGZWF0dXJlcyAvPgogICAgICA8U3RhdHMgLz4KICAgICAgPFVzZUNhc2VzIC8+CiAgICAgIDxUZXN0aW1vbmlhbHMgLz4KICAgICAgPEZBUSAvPgogICAgICA8Q1RBU2VjdGlvbiAvPgogICAgPC8+CiAgKQp9Cg=="}
+import Hero from '../components/Hero'
+import SocialProof from '../components/SocialProof'
+import Features from '../components/Features'
+import Stats from '../components/Stats'
+import UseCases from '../components/UseCases'
+import Testimonials from '../components/Testimonials'
+import FAQ from '../components/FAQ'
+import CTASection from '../components/CTASection'
+
+export default function Home() {
+  return (
+    <>
+      <Hero />
+      <SocialProof />
+      <Features />
+      <Stats />
+      <UseCases />
+      <Testimonials />
+      <FAQ />
+      <CTASection />
+    </>
+  )
+}

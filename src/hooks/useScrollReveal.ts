@@ -1,1 +1,25 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSAncmVhY3QnCgpleHBvcnQgZnVuY3Rpb24gdXNlU2Nyb2xsUmV2ZWFsKCkgewogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCBwcmVmZXJzUmVkdWNlZCA9IHdpbmRvdy5tYXRjaE1lZGlhKCcocHJlZmVycy1yZWR1Y2VkLW1vdGlvbjogcmVkdWNlKScpLm1hdGNoZXMKICAgIGlmIChwcmVmZXJzUmVkdWNlZCkgcmV0dXJuCgogICAgY29uc3Qgb2JzZXJ2ZXIgPSBuZXcgSW50ZXJzZWN0aW9uT2JzZXJ2ZXIoCiAgICAgIChlbnRyaWVzKSA9PiB7CiAgICAgICAgZW50cmllcy5mb3JFYWNoKChlbnRyeSkgPT4gewogICAgICAgICAgaWYgKGVudHJ5LmlzSW50ZXJzZWN0aW5nKSB7CiAgICAgICAgICAgIGVudHJ5LnRhcmdldC5jbGFzc0xpc3QuYWRkKCd2aXNpYmxlJykKICAgICAgICAgICAgb2JzZXJ2ZXIudW5vYnNlcnZlKGVudHJ5LnRhcmdldCkKICAgICAgICAgIH0KICAgICAgICB9KQogICAgICB9LAogICAgICB7IHRocmVzaG9sZDogMC4xLCByb290TWFyZ2luOiAnMHB4IDBweCAtNTBweCAwcHgnIH0KICAgICkKCiAgICBjb25zdCBlbGVtZW50cyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJy5yZXZlYWwsIC5yZXZlYWwtc2NhbGUnKQogICAgZWxlbWVudHMuZm9yRWFjaCgoZWwpID0+IG9ic2VydmVyLm9ic2VydmUoZWwpKQoKICAgIHJldHVybiAoKSA9PiBvYnNlcnZlci5kaXNjb25uZWN0KCkKICB9LCBbXSkKfQo="}
+import { useEffect } from 'react'
+
+export function useScrollReveal() {
+  useEffect(() => {
+    const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+    if (prefersReduced) return
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible')
+            observer.unobserve(entry.target)
+          }
+        })
+      },
+      { threshold: 0.1, rootMargin: '0px 0px -50px 0px' }
+    )
+
+    const elements = document.querySelectorAll('.reveal, .reveal-scale')
+    elements.forEach((el) => observer.observe(el))
+
+    return () => observer.disconnect()
+  }, [])
+}

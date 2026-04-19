@@ -1,1 +1,194 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCcKCmNvbnN0IHVzZUNhc2VzID0gWwogIHsKICAgIGxhYmVsOiAnSGlyaW5nJywKICAgIHRpdGxlOiAnSGlyZSBBSS1yZWFkeSB0YWxlbnQgd2l0aCBjb25maWRlbmNlJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnUHJlLXNjcmVlbiBjYW5kaWRhdGVzIHdpdGggdmFsaWRhdGVkIEFJIHByb2ZpY2llbmN5IGFzc2Vzc21lbnRzLiBGaWx0ZXIgZm9yIHJlYWwgc2tpbGxzLCBub3QgYnV6endvcmRzLiBSZWR1Y2UgaW50ZXJ2aWV3IGN5Y2xlcyBhbmQgbWFrZSBkYXRhLWRyaXZlbiBoaXJpbmcgZGVjaXNpb25zLicsCiAgfSwKICB7CiAgICBsYWJlbDogJ1RyYWluaW5nJywKICAgIHRpdGxlOiAnTWVhc3VyZSB0cmFpbmluZyBlZmZlY3RpdmVuZXNzIGluIHJlYWwtdGltZScsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ0RlcGxveSBwcmUtIGFuZCBwb3N0LXRyYWluaW5nIGFzc2Vzc21lbnRzIHRvIHF1YW50aWZ5IGxlYXJuaW5nIG91dGNvbWVzLiBUcmFjayBza2lsbCBwcm9ncmVzc2lvbiBhY3Jvc3MgeW91ciBvcmdhbml6YXRpb24gYW5kIG9wdGltaXplIHRyYWluaW5nIGludmVzdG1lbnRzLicsCiAgfSwKICB7CiAgICBsYWJlbDogJ0NlcnRpZmljYXRpb24nLAogICAgdGl0bGU6ICdJc3N1ZSBpbmR1c3RyeS1yZWNvZ25pemVkIEFJIGNlcnRpZmljYXRpb25zJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnQ3JlYXRlIGNlcnRpZmljYXRpb24gcHJvZ3JhbXMgdGhhdCB2YWxpZGF0ZSByZWFsLXdvcmxkIEFJIHNraWxscy4gT3VyIHByb2N0b3JpbmcsIGFudGktY2hlYXQsIGFuZCB2ZXJpZmljYXRpb24gc3lzdGVtcyBlbnN1cmUgY2VydGlmaWNhdGUgaW50ZWdyaXR5LicsCiAgfSwKICB7CiAgICBsYWJlbDogJ0VkdWNhdGlvbicsCiAgICB0aXRsZTogJ0ludGVncmF0ZSBBSSBhc3Nlc3NtZW50cyBpbnRvIHlvdXIgY3VycmljdWx1bScsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ1VuaXZlcnNpdGllcyBhbmQgYm9vdGNhbXBzIHVzZSBJbnByb21wdGlGeSB0byBiZW5jaG1hcmsgc3R1ZGVudCBBSSBsaXRlcmFjeS4gTE1TIGludGVncmF0aW9ucywgY29ob3J0IGFuYWx5dGljcywgYW5kIGF1dG9tYXRlZCBncmFkaW5nIGluY2x1ZGVkLicsCiAgfSwKXQoKZnVuY3Rpb24gSGlyaW5nTW9ja3VwKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0zIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBtYi0yIj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgZm9udC1tb25vIHRleHQtd2hpdGUvNDAiPkNhbmRpZGF0ZSBQaXBlbGluZTwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgdGV4dC1vcmFuZ2UtNDAwIGZvbnQtbW9ubyI+MTIgY2FuZGlkYXRlczwvc3Bhbj4KICAgICAgPC9kaXY+CiAgICAgIHtbCiAgICAgICAgeyBuYW1lOiAnU2FyYWggQ2hlbicsIHNjb3JlOiA5NCwgc3RhdHVzOiAnUGFzcycgfSwKICAgICAgICB7IG5hbWU6ICdKYW1lcyBXaWxzb24nLCBzY29yZTogNzgsIHN0YXR1czogJ1Bhc3MnIH0sCiAgICAgICAgeyBuYW1lOiAnTWF5YSBQYXRlbCcsIHNjb3JlOiA2Miwgc3RhdHVzOiAnUmV2aWV3JyB9LAogICAgICAgIHsgbmFtZTogJ1RvbSBCYWtlcicsIHNjb3JlOiA0NSwgc3RhdHVzOiAnRmFpbCcgfSwKICAgICAgXS5tYXAoKGMpID0+ICgKICAgICAgICA8ZGl2CiAgICAgICAgICBrZXk9e2MubmFtZX0KICAgICAgICAgIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgcHgtNCBweS0zIHJvdW5kZWQtbGcgYm9yZGVyIGJvcmRlci13aGl0ZS9bMC4wNl0gYmctd2hpdGUvWzAuMDJdIgogICAgICAgID4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTggaC04IHJvdW5kZWQtZnVsbCBiZy1ncmFkaWVudC10by1iciBmcm9tLW9yYW5nZS01MDAvMjAgdG8tYW1iZXItNTAwLzIwIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHRleHQtWzEwcHhdIGZvbnQtbW9ubyB0ZXh0LXdoaXRlLzUwIj4KICAgICAgICAgICAge2MubmFtZS5zcGxpdCgnICcpLm1hcCgobikgPT4gblswXSkuam9pbignJyl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LXdoaXRlLzYwIGZsZXgtMSI+e2MubmFtZX08L3NwYW4+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgZm9udC1tb25vIHRleHQtd2hpdGUvNDAiPntjLnNjb3JlfSU8L3NwYW4+CiAgICAgICAgICA8c3BhbgogICAgICAgICAgICBjbGFzc05hbWU9e2B0ZXh0LVsxMHB4XSBweC0yIHB5LTAuNSByb3VuZGVkIGZvbnQtbW9ubyAkewogICAgICAgICAgICAgIGMuc3RhdHVzID09PSAnUGFzcycKICAgICAgICAgICAgICAgID8gJ2JnLWVtZXJhbGQtNTAwLzEwIHRleHQtZW1lcmFsZC00MDAnCiAgICAgICAgICAgICAgICA6IGMuc3RhdHVzID09PSAnUmV2aWV3JwogICAgICAgICAgICAgICAgPyAnYmctYW1iZXItNTAwLzEwIHRleHQtYW1iZXItNDAwJwogICAgICAgICAgICAgICAgOiAnYmctcmVkLTUwMC8xMCB0ZXh0LXJlZC00MDAnCiAgICAgICAgICAgIH1gfQogICAgICAgICAgPgogICAgICAgICAgICB7Yy5zdGF0dXN9CiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgICkpfQogICAgPC9kaXY+CiAgKQp9CgpmdW5jdGlvbiBUcmFpbmluZ01vY2t1cCgpIHsKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIGZvbnQtbW9ubyB0ZXh0LXdoaXRlLzQwIj5UcmFpbmluZyBQcm9ncmVzczwvc3Bhbj4KICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTQgc3BhY2UteS00Ij4KICAgICAgICB7WwogICAgICAgICAgeyBsYWJlbDogJ1ByZS10cmFpbmluZycsIHNjb3JlOiA0MiwgY29sb3I6ICdmcm9tLXdoaXRlLzEwIHRvLXdoaXRlLzIwJyB9LAogICAgICAgICAgeyBsYWJlbDogJ1Bvc3QtdHJhaW5pbmcnLCBzY29yZTogNzgsIGNvbG9yOiAnZnJvbS1vcmFuZ2UtNTAwIHRvLWFtYmVyLTUwMCcgfSwKICAgICAgICBdLm1hcCgoaXRlbSkgPT4gKAogICAgICAgICAgPGRpdiBrZXk9e2l0ZW0ubGFiZWx9PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBqdXN0aWZ5LWJldHdlZW4gbWItMSI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtd2hpdGUvNTAiPntpdGVtLmxhYmVsfTwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgZm9udC1tb25vIHRleHQtd2hpdGUvNDAiPntpdGVtLnNjb3JlfSU8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaC0zIGJnLXdoaXRlL1swLjA0XSByb3VuZGVkLWZ1bGwiPgogICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YGgtZnVsbCBiZy1ncmFkaWVudC10by1yICR7aXRlbS5jb2xvcn0gcm91bmRlZC1mdWxsYH0KICAgICAgICAgICAgICAgIHN0eWxlPXt7IHdpZHRoOiBgJHtpdGVtLnNjb3JlfSVgIH19CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtMiBweC0zIHB5LTIgcm91bmRlZC1sZyBiZy1lbWVyYWxkLTUwMC9bMC4wNl0gYm9yZGVyIGJvcmRlci1lbWVyYWxkLTUwMC8xMCI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgdGV4dC1lbWVyYWxkLTQwMCBmb250LW1vbm8iPis4NS43JSBpbXByb3ZlbWVudDwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApCn0KCmZ1bmN0aW9uIENlcnRpZmljYXRpb25Nb2NrdXAoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTU2IHJvdW5kZWQteGwgYm9yZGVyIGJvcmRlci13aGl0ZS9bMC4wOF0gYmctd2hpdGUvWzAuMDNdIHAtNiB0ZXh0LWNlbnRlciI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InctMTQgaC0xNCBteC1hdXRvIG1iLTMgcm91bmRlZC1mdWxsIGJnLWdyYWRpZW50LXRvLWJyIGZyb20tb3JhbmdlLTUwMCB0by1hbWJlci01MDAgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik05IDEybDIgMiA0LTQiIHN0cm9rZT0id2hpdGUiIHN0cm9rZVdpZHRoPSIyIiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiAvPgogICAgICAgICAgICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5IiBzdHJva2U9IndoaXRlIiBzdHJva2VXaWR0aD0iMS41IiAvPgogICAgICAgICAgPC9zdmc+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtd2hpdGUvODAiPkNlcnRpZmllZCBBSSBQcmFjdGl0aW9uZXI8L3A+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVsxMXB4XSB0ZXh0LXdoaXRlLzMwIG10LTEiPkxldmVsIDMg4oCUIEFkdmFuY2VkPC9wPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00IHB0LTMgYm9yZGVyLXQgYm9yZGVyLXdoaXRlL1swLjA2XSBzcGFjZS15LTEiPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSB0ZXh0LXdoaXRlLzIwIGZvbnQtbW9ubyI+SUQ6IENFUlQtMjAyNi1BMUIyQzM8L3A+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtWzEwcHhdIHRleHQtd2hpdGUvMjAgZm9udC1tb25vIj5Jc3N1ZWQ6IEFwciAyMDI2PC9wPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICkKfQoKZnVuY3Rpb24gRWR1Y2F0aW9uTW9ja3VwKCkgewogIHJldHVybiAoCiAgICA8ZGl2PgogICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgZm9udC1tb25vIHRleHQtd2hpdGUvNDAiPkNvaG9ydCBEYXNoYm9hcmQ8L3NwYW4+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00IGdyaWQgZ3JpZC1jb2xzLTIgZ2FwLTMiPgogICAgICAgIHtbCiAgICAgICAgICB7IGxhYmVsOiAnU3R1ZGVudHMnLCB2YWx1ZTogJzI0OCcgfSwKICAgICAgICAgIHsgbGFiZWw6ICdBdmcgU2NvcmUnLCB2YWx1ZTogJzczJScgfSwKICAgICAgICAgIHsgbGFiZWw6ICdDb21wbGV0aW9uJywgdmFsdWU6ICc5MSUnIH0sCiAgICAgICAgICB7IGxhYmVsOiAnUGFzcyBSYXRlJywgdmFsdWU6ICc4MiUnIH0sCiAgICAgICAgXS5tYXAoKHN0YXQpID0+ICgKICAgICAgICAgIDxkaXYKICAgICAgICAgICAga2V5PXtzdGF0LmxhYmVsfQogICAgICAgICAgICBjbGFzc05hbWU9InB4LTQgcHktMyByb3VuZGVkLWxnIGJvcmRlciBib3JkZXItd2hpdGUvWzAuMDZdIGJnLXdoaXRlL1swLjAyXSIKICAgICAgICAgID4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtc2VtaWJvbGQgZ3JhZGllbnQtdGV4dCI+e3N0YXQudmFsdWV9PC9wPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtWzEwcHhdIHRleHQtd2hpdGUvMzAgbXQtMC41Ij57c3RhdC5sYWJlbH08L3A+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApCn0KCmNvbnN0IG1vY2t1cHMgPSBbSGlyaW5nTW9ja3VwLCBUcmFpbmluZ01vY2t1cCwgQ2VydGlmaWNhdGlvbk1vY2t1cCwgRWR1Y2F0aW9uTW9ja3VwXQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gVXNlQ2FzZXMoKSB7CiAgY29uc3QgW2FjdGl2ZSwgc2V0QWN0aXZlXSA9IHVzZVN0YXRlKDApCiAgY29uc3QgdWMgPSB1c2VDYXNlc1thY3RpdmVdCiAgY29uc3QgTW9ja3VwID0gbW9ja3Vwc1thY3RpdmVdCgogIHJldHVybiAoCiAgICA8c2VjdGlvbiBjbGFzc05hbWU9InJlbGF0aXZlIHB5LTI0IHNlY3Rpb24tZnJhbWUiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctN3hsIG14LWF1dG8gcHgtNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InJldmVhbCB0ZXh0LWNlbnRlciBtYi0xMiI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNlY3Rpb24tbGFiZWwiPlsgVXNlIENhc2VzIF08L3NwYW4+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBzbTp0ZXh0LTR4bCBmb250LWJvbGQgdHJhY2tpbmctdGlnaHQgbXQtMiB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgVXNlIENhc2VzCiAgICAgICAgICA8L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWdyYXktNDAwIG10LTMgbWF4LXctbGcgbXgtYXV0byI+CiAgICAgICAgICAgIEZyb20gaW5kaXZpZHVhbCBza2lsbCBjaGVja3MgdG8gZW50ZXJwcmlzZS13aWRlIHByb2ZpY2llbmN5IHByb2dyYW1zCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBUYWJzICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZXZlYWwgc3RhZ2dlci0xIGZsZXgganVzdGlmeS1jZW50ZXIgZ2FwLTEgbWItMTIiPgogICAgICAgICAge3VzZUNhc2VzLm1hcCgodWMsIGkpID0+ICgKICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgIGtleT17dWMubGFiZWx9CiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0QWN0aXZlKGkpfQogICAgICAgICAgICAgIGNsYXNzTmFtZT17YHB4LTUgcHktMi41IHRleHQtc20gcm91bmRlZC1sZyB0cmFuc2l0aW9uLWFsbCAkewogICAgICAgICAgICAgICAgaSA9PT0gYWN0aXZlCiAgICAgICAgICAgICAgICAgID8gJ3RleHQtd2hpdGUgYmctb3JhbmdlLTUwMC8xMCBib3JkZXIgYm9yZGVyLW9yYW5nZS01MDAvMjAnCiAgICAgICAgICAgICAgICAgIDogJ3RleHQtd2hpdGUvNDAgaG92ZXI6dGV4dC13aGl0ZS82MCBob3ZlcjpiZy13aGl0ZS9bMC4wM10nCiAgICAgICAgICAgICAgfWB9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7dWMubGFiZWx9CiAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBDb250ZW50ICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZXZlYWwgc3RhZ2dlci0yIGdyaWQgbGc6Z3JpZC1jb2xzLTIgZ2FwLTEyIGl0ZW1zLWNlbnRlciI+CiAgICAgICAgICA8ZGl2IGtleT17YWN0aXZlfSBjbGFzc05hbWU9ImFuaW1hdGUtZmFkZS1pbiI+CiAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtc2VtaWJvbGQgbWItNCB0ZXh0LXdoaXRlIj57dWMudGl0bGV9PC9oMz4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWdyYXktNDAwIGxlYWRpbmctcmVsYXhlZCI+e3VjLmRlc2NyaXB0aW9ufTwvcD4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdsYXNzLXN0cm9uZyBwLTggcm91bmRlZC0yeGwgbWluLWgtWzI4MHB4XSBmbGV4IGZsZXgtY29sIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgPE1vY2t1cCAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9zZWN0aW9uPgogICkKfQo="}
+import { useState } from 'react'
+
+const useCases = [
+  {
+    label: 'Hiring',
+    title: 'Hire AI-ready talent with confidence',
+    description:
+      'Pre-screen candidates with validated AI proficiency assessments. Filter for real skills, not buzzwords. Reduce interview cycles and make data-driven hiring decisions.',
+  },
+  {
+    label: 'Training',
+    title: 'Measure training effectiveness in real-time',
+    description:
+      'Deploy pre- and post-training assessments to quantify learning outcomes. Track skill progression across your organization and optimize training investments.',
+  },
+  {
+    label: 'Certification',
+    title: 'Issue industry-recognized AI certifications',
+    description:
+      'Create certification programs that validate real-world AI skills. Our proctoring, anti-cheat, and verification systems ensure certificate integrity.',
+  },
+  {
+    label: 'Education',
+    title: 'Integrate AI assessments into your curriculum',
+    description:
+      'Universities and bootcamps use InpromptiFy to benchmark student AI literacy. LMS integrations, cohort analytics, and automated grading included.',
+  },
+]
+
+function HiringMockup() {
+  return (
+    <div className="space-y-3">
+      <div className="flex items-center justify-between mb-2">
+        <span className="text-xs font-mono text-white/40">Candidate Pipeline</span>
+        <span className="text-xs text-orange-400 font-mono">12 candidates</span>
+      </div>
+      {[
+        { name: 'Sarah Chen', score: 94, status: 'Pass' },
+        { name: 'James Wilson', score: 78, status: 'Pass' },
+        { name: 'Maya Patel', score: 62, status: 'Review' },
+        { name: 'Tom Baker', score: 45, status: 'Fail' },
+      ].map((c) => (
+        <div
+          key={c.name}
+          className="flex items-center gap-3 px-4 py-3 rounded-lg border border-white/[0.06] bg-white/[0.02]"
+        >
+          <div className="w-8 h-8 rounded-full bg-gradient-to-br from-orange-500/20 to-amber-500/20 flex items-center justify-center text-[10px] font-mono text-white/50">
+            {c.name.split(' ').map((n) => n[0]).join('')}
+          </div>
+          <span className="text-sm text-white/60 flex-1">{c.name}</span>
+          <span className="text-xs font-mono text-white/40">{c.score}%</span>
+          <span
+            className={`text-[10px] px-2 py-0.5 rounded font-mono ${
+              c.status === 'Pass'
+                ? 'bg-emerald-500/10 text-emerald-400'
+                : c.status === 'Review'
+                ? 'bg-amber-500/10 text-amber-400'
+                : 'bg-red-500/10 text-red-400'
+            }`}
+          >
+            {c.status}
+          </span>
+        </div>
+      ))}
+    </div>
+  )
+}
+
+function TrainingMockup() {
+  return (
+    <div>
+      <span className="text-xs font-mono text-white/40">Training Progress</span>
+      <div className="mt-4 space-y-4">
+        {[
+          { label: 'Pre-training', score: 42, color: 'from-white/10 to-white/20' },
+          { label: 'Post-training', score: 78, color: 'from-orange-500 to-amber-500' },
+        ].map((item) => (
+          <div key={item.label}>
+            <div className="flex justify-between mb-1">
+              <span className="text-xs text-white/50">{item.label}</span>
+              <span className="text-xs font-mono text-white/40">{item.score}%</span>
+            </div>
+            <div className="h-3 bg-white/[0.04] rounded-full">
+              <div
+                className={`h-full bg-gradient-to-r ${item.color} rounded-full`}
+                style={{ width: `${item.score}%` }}
+              />
+            </div>
+          </div>
+        ))}
+        <div className="mt-2 px-3 py-2 rounded-lg bg-emerald-500/[0.06] border border-emerald-500/10">
+          <span className="text-xs text-emerald-400 font-mono">+85.7% improvement</span>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+function CertificationMockup() {
+  return (
+    <div className="flex flex-col items-center">
+      <div className="w-56 rounded-xl border border-white/[0.08] bg-white/[0.03] p-6 text-center">
+        <div className="w-14 h-14 mx-auto mb-3 rounded-full bg-gradient-to-br from-orange-500 to-amber-500 flex items-center justify-center">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+            <path d="M9 12l2 2 4-4" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+            <circle cx="12" cy="12" r="9" stroke="white" strokeWidth="1.5" />
+          </svg>
+        </div>
+        <p className="text-sm font-medium text-white/80">Certified AI Practitioner</p>
+        <p className="text-[11px] text-white/30 mt-1">Level 3 — Advanced</p>
+        <div className="mt-4 pt-3 border-t border-white/[0.06] space-y-1">
+          <p className="text-[10px] text-white/20 font-mono">ID: CERT-2026-A1B2C3</p>
+          <p className="text-[10px] text-white/20 font-mono">Issued: Apr 2026</p>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+function EducationMockup() {
+  return (
+    <div>
+      <span className="text-xs font-mono text-white/40">Cohort Dashboard</span>
+      <div className="mt-4 grid grid-cols-2 gap-3">
+        {[
+          { label: 'Students', value: '248' },
+          { label: 'Avg Score', value: '73%' },
+          { label: 'Completion', value: '91%' },
+          { label: 'Pass Rate', value: '82%' },
+        ].map((stat) => (
+          <div
+            key={stat.label}
+            className="px-4 py-3 rounded-lg border border-white/[0.06] bg-white/[0.02]"
+          >
+            <p className="text-lg font-semibold gradient-text">{stat.value}</p>
+            <p className="text-[10px] text-white/30 mt-0.5">{stat.label}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+const mockups = [HiringMockup, TrainingMockup, CertificationMockup, EducationMockup]
+
+export default function UseCases() {
+  const [active, setActive] = useState(0)
+  const uc = useCases[active]
+  const Mockup = mockups[active]
+
+  return (
+    <section className="relative py-24 section-frame">
+      <div className="max-w-7xl mx-auto px-6">
+        <div className="reveal text-center mb-12">
+          <span className="section-label">[ Use Cases ]</span>
+          <h2 className="text-3xl sm:text-4xl font-bold tracking-tight mt-2 text-white">
+            Use Cases
+          </h2>
+          <p className="text-gray-400 mt-3 max-w-lg mx-auto">
+            From individual skill checks to enterprise-wide proficiency programs
+          </p>
+        </div>
+
+        {/* Tabs */}
+        <div className="reveal stagger-1 flex justify-center gap-1 mb-12">
+          {useCases.map((uc, i) => (
+            <button
+              key={uc.label}
+              onClick={() => setActive(i)}
+              className={`px-5 py-2.5 text-sm rounded-lg transition-all ${
+                i === active
+                  ? 'text-white bg-orange-500/10 border border-orange-500/20'
+                  : 'text-white/40 hover:text-white/60 hover:bg-white/[0.03]'
+              }`}
+            >
+              {uc.label}
+            </button>
+          ))}
+        </div>
+
+        {/* Content */}
+        <div className="reveal stagger-2 grid lg:grid-cols-2 gap-12 items-center">
+          <div key={active} className="animate-fade-in">
+            <h3 className="text-2xl font-semibold mb-4 text-white">{uc.title}</h3>
+            <p className="text-gray-400 leading-relaxed">{uc.description}</p>
+          </div>
+          <div className="glass-strong p-8 rounded-2xl min-h-[280px] flex flex-col justify-center">
+            <Mockup />
+          </div>
+        </div>
+      </div>
+    </section>
+  )
+}

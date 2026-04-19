@@ -1,1 +1,32 @@
-{"data":"Y29uc3QgY29tcGFuaWVzID0gWwogICdBbnRocm9waWMnLAogICdPcGVuQUknLAogICdHb29nbGUnLAogICdNZXRhJywKICAnTWljcm9zb2Z0JywKICAnU3RyaXBlJywKICAnVmVyY2VsJywKICAnTm90aW9uJywKXQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gU29jaWFsUHJvb2YoKSB7CiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0icmVsYXRpdmUgcHktMjAgc2VjdGlvbi1mcmFtZSI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy03eGwgbXgtYXV0byBweC02Ij4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtY2VudGVyIHRleHQteHMgdXBwZXJjYXNlIHRyYWNraW5nLVswLjJlbV0gdGV4dC13aGl0ZS8zMCBtYi0xMCI+CiAgICAgICAgICBUcnVzdGVkIGJ5IGxlYWRpbmcgb3JnYW5pemF0aW9ucwogICAgICAgIDwvcD4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC14LTEyIGdhcC15LTYiPgogICAgICAgICAge2NvbXBhbmllcy5tYXAoKG5hbWUpID0+ICgKICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICBrZXk9e25hbWV9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZS9bMC4xMl0gdHJhY2tpbmctd2lkZSBzZWxlY3Qtbm9uZSIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIHtuYW1lfQogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L3NlY3Rpb24+CiAgKQp9Cg=="}
+const companies = [
+  'Anthropic',
+  'OpenAI',
+  'Google',
+  'Meta',
+  'Microsoft',
+  'Stripe',
+  'Vercel',
+  'Notion',
+]
+
+export default function SocialProof() {
+  return (
+    <section className="relative py-20 section-frame">
+      <div className="max-w-7xl mx-auto px-6">
+        <p className="text-center text-xs uppercase tracking-[0.2em] text-white/30 mb-10">
+          Trusted by leading organizations
+        </p>
+        <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-6">
+          {companies.map((name) => (
+            <span
+              key={name}
+              className="text-lg font-semibold text-white/[0.12] tracking-wide select-none"
+            >
+              {name}
+            </span>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}

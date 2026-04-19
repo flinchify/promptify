@@ -1,1 +1,121 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JwppbXBvcnQgeyBMaW5rLCB1c2VMb2NhdGlvbiB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCgpjb25zdCBuYXZMaW5rcyA9IFsKICB7IGxhYmVsOiAnRmVhdHVyZXMnLCBocmVmOiAnL2ZlYXR1cmVzJyB9LAogIHsgbGFiZWw6ICdQcmljaW5nJywgaHJlZjogJy9wcmljaW5nJyB9LAogIHsgbGFiZWw6ICdCbG9nJywgaHJlZjogJy9ibG9nJyB9LAogIHsgbGFiZWw6ICdBYm91dCcsIGhyZWY6ICcvYWJvdXQnIH0sCl0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEhlYWRlcigpIHsKICBjb25zdCBbc2Nyb2xsZWQsIHNldFNjcm9sbGVkXSA9IHVzZVN0YXRlKGZhbHNlKQogIGNvbnN0IFttb2JpbGVPcGVuLCBzZXRNb2JpbGVPcGVuXSA9IHVzZVN0YXRlKGZhbHNlKQogIGNvbnN0IGxvY2F0aW9uID0gdXNlTG9jYXRpb24oKQoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3Qgb25TY3JvbGwgPSAoKSA9PiBzZXRTY3JvbGxlZCh3aW5kb3cuc2Nyb2xsWSA+IDIwKQogICAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ3Njcm9sbCcsIG9uU2Nyb2xsLCB7IHBhc3NpdmU6IHRydWUgfSkKICAgIHJldHVybiAoKSA9PiB3aW5kb3cucmVtb3ZlRXZlbnRMaXN0ZW5lcignc2Nyb2xsJywgb25TY3JvbGwpCiAgfSwgW10pCgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBzZXRNb2JpbGVPcGVuKGZhbHNlKQogIH0sIFtsb2NhdGlvbl0pCgogIHJldHVybiAoCiAgICA8aGVhZGVyCiAgICAgIGNsYXNzTmFtZT17YGZpeGVkIHRvcC0wIGxlZnQtMCByaWdodC0wIHotNTAgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwICR7CiAgICAgICAgc2Nyb2xsZWQKICAgICAgICAgID8gJ2JnLVsjMGEwYTBmXS84MCBiYWNrZHJvcC1ibHVyLXhsIGJvcmRlci1iIGJvcmRlci13aGl0ZS9bMC4wNl0nCiAgICAgICAgICA6ICdiZy10cmFuc3BhcmVudCcKICAgICAgfWB9CiAgICA+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy03eGwgbXgtYXV0byBweC02IGgtMTYgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICB7LyogTG9nbyDigJQgdGV4dCBvbmx5ICovfQogICAgICAgIDxMaW5rIHRvPSIvIiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdyb3VwIj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LWJvbGQgdHJhY2tpbmctdGlnaHQgdGV4dC13aGl0ZSI+CiAgICAgICAgICAgIElucHJvbXB0aTxzcGFuIGNsYXNzTmFtZT0iZ3JhZGllbnQtdGV4dCI+Rnk8L3NwYW4+CiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgPC9MaW5rPgoKICAgICAgICB7LyogRGVza3RvcCBOYXYgKi99CiAgICAgICAgPG5hdiBjbGFzc05hbWU9ImhpZGRlbiBtZDpmbGV4IGl0ZW1zLWNlbnRlciBnYXAtOCI+CiAgICAgICAgICB7bmF2TGlua3MubWFwKChsaW5rKSA9PiAoCiAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAga2V5PXtsaW5rLmhyZWZ9CiAgICAgICAgICAgICAgdG89e2xpbmsuaHJlZn0KICAgICAgICAgICAgICBjbGFzc05hbWU9e2B0ZXh0LXNtIHRyYW5zaXRpb24tY29sb3JzIGR1cmF0aW9uLTIwMCAkewogICAgICAgICAgICAgICAgbG9jYXRpb24ucGF0aG5hbWUgPT09IGxpbmsuaHJlZgogICAgICAgICAgICAgICAgICA/ICd0ZXh0LXdoaXRlJwogICAgICAgICAgICAgICAgICA6ICd0ZXh0LXdoaXRlLzUwIGhvdmVyOnRleHQtd2hpdGUvODAnCiAgICAgICAgICAgICAgfWB9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7bGluay5sYWJlbH0KICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgKSl9CiAgICAgICAgPC9uYXY+CgogICAgICAgIHsvKiBEZXNrdG9wIEFjdGlvbnMgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImhpZGRlbiBtZDpmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyI+CiAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LXdoaXRlLzYwIGhvdmVyOnRleHQtd2hpdGUgdHJhbnNpdGlvbi1jb2xvcnMgcHgtNCBweS0yIj4KICAgICAgICAgICAgU2lnbiBJbgogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iZ2xvdy1idG4gdGV4dC1zbSBweC01IHB5LTIiPgogICAgICAgICAgICBHZXQgU3RhcnRlZAogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBNb2JpbGUgVG9nZ2xlICovfQogICAgICAgIDxidXR0b24KICAgICAgICAgIGNsYXNzTmFtZT0ibWQ6aGlkZGVuIHJlbGF0aXZlIHctNiBoLTUgZmxleCBmbGV4LWNvbCBqdXN0aWZ5LWJldHdlZW4iCiAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRNb2JpbGVPcGVuKCFtb2JpbGVPcGVuKX0KICAgICAgICAgIGFyaWEtbGFiZWw9IlRvZ2dsZSBtZW51IgogICAgICAgID4KICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgIGNsYXNzTmFtZT17YGJsb2NrIGgtcHggdy1mdWxsIGJnLXdoaXRlIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMCAkewogICAgICAgICAgICAgIG1vYmlsZU9wZW4gPyAncm90YXRlLTQ1IHRyYW5zbGF0ZS15LTInIDogJycKICAgICAgICAgICAgfWB9CiAgICAgICAgICAvPgogICAgICAgICAgPHNwYW4KICAgICAgICAgICAgY2xhc3NOYW1lPXtgYmxvY2sgaC1weCB3LWZ1bGwgYmctd2hpdGUgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwICR7CiAgICAgICAgICAgICAgbW9iaWxlT3BlbiA/ICdvcGFjaXR5LTAnIDogJycKICAgICAgICAgICAgfWB9CiAgICAgICAgICAvPgogICAgICAgICAgPHNwYW4KICAgICAgICAgICAgY2xhc3NOYW1lPXtgYmxvY2sgaC1weCB3LWZ1bGwgYmctd2hpdGUgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwICR7CiAgICAgICAgICAgICAgbW9iaWxlT3BlbiA/ICctcm90YXRlLTQ1IC10cmFuc2xhdGUteS0yJyA6ICcnCiAgICAgICAgICAgIH1gfQogICAgICAgICAgLz4KICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9kaXY+CgogICAgICB7LyogTW9iaWxlIE1lbnUgKi99CiAgICAgIHttb2JpbGVPcGVuICYmICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWQ6aGlkZGVuIGJnLVsjMGEwYTBmXS85NSBiYWNrZHJvcC1ibHVyLXhsIGJvcmRlci10IGJvcmRlci13aGl0ZS9bMC4wNl0iPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InB4LTYgcHktNiBzcGFjZS15LTQiPgogICAgICAgICAgICB7bmF2TGlua3MubWFwKChsaW5rKSA9PiAoCiAgICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICAgIGtleT17bGluay5ocmVmfQogICAgICAgICAgICAgICAgdG89e2xpbmsuaHJlZn0KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC1zbSB0ZXh0LXdoaXRlLzYwIGhvdmVyOnRleHQtd2hpdGUgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAge2xpbmsubGFiZWx9CiAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICApKX0KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InB0LTQgYm9yZGVyLXQgYm9yZGVyLXdoaXRlL1swLjA2XSBzcGFjZS15LTMiPgogICAgICAgICAgICAgIDxidXR0b24gY2xhc3NOYW1lPSJibG9jayB0ZXh0LXNtIHRleHQtd2hpdGUvNjAgaG92ZXI6dGV4dC13aGl0ZSI+CiAgICAgICAgICAgICAgICBTaWduIEluCiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9Imdsb3ctYnRuIHRleHQtc20gdy1mdWxsIHB5LTIuNSI+CiAgICAgICAgICAgICAgICBHZXQgU3RhcnRlZAogICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICApfQogICAgPC9oZWFkZXI+CiAgKQp9Cg=="}
+import { useState, useEffect } from 'react'
+import { Link, useLocation } from 'react-router-dom'
+
+const navLinks = [
+  { label: 'Features', href: '/features' },
+  { label: 'Pricing', href: '/pricing' },
+  { label: 'Blog', href: '/blog' },
+  { label: 'About', href: '/about' },
+]
+
+export default function Header() {
+  const [scrolled, setScrolled] = useState(false)
+  const [mobileOpen, setMobileOpen] = useState(false)
+  const location = useLocation()
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 20)
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
+  useEffect(() => {
+    setMobileOpen(false)
+  }, [location])
+
+  return (
+    <header
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
+        scrolled
+          ? 'bg-[#0a0a0f]/80 backdrop-blur-xl'
+          : 'bg-transparent'
+      }`}
+    >
+      <div className="max-w-7xl mx-auto px-6 h-12 flex items-center justify-between">
+        {/* Logo — image only, no text */}
+        <Link to="/" className="flex items-center">
+          <img
+            src="/logo.png"
+            alt="InpromptiFy"
+            className="h-7 w-auto"
+          />
+        </Link>
+
+        {/* Desktop Nav */}
+        <nav className="hidden md:flex items-center gap-8">
+          {navLinks.map((link) => (
+            <Link
+              key={link.href}
+              to={link.href}
+              className={`text-xs tracking-wide transition-colors duration-200 ${
+                location.pathname === link.href
+                  ? 'text-white'
+                  : 'text-white/50 hover:text-white/80'
+              }`}
+            >
+              {link.label}
+            </Link>
+          ))}
+        </nav>
+
+        {/* Desktop Actions */}
+        <div className="hidden md:flex items-center gap-3">
+          <button className="text-xs text-white/60 hover:text-white transition-colors px-3 py-1.5">
+            Sign In
+          </button>
+          <button className="glow-btn text-xs px-4 py-1.5">
+            Get Started
+          </button>
+        </div>
+
+        {/* Mobile Toggle */}
+        <button
+          className="md:hidden relative w-5 h-4 flex flex-col justify-between"
+          onClick={() => setMobileOpen(!mobileOpen)}
+          aria-label="Toggle menu"
+        >
+          <span
+            className={`block h-px w-full bg-white transition-all duration-300 ${
+              mobileOpen ? 'rotate-45 translate-y-1.5' : ''
+            }`}
+          />
+          <span
+            className={`block h-px w-full bg-white transition-all duration-300 ${
+              mobileOpen ? 'opacity-0' : ''
+            }`}
+          />
+          <span
+            className={`block h-px w-full bg-white transition-all duration-300 ${
+              mobileOpen ? '-rotate-45 -translate-y-1.5' : ''
+            }`}
+          />
+        </button>
+      </div>
+
+      {/* Mobile Menu */}
+      {mobileOpen && (
+        <div className="md:hidden bg-[#0a0a0f]/95 backdrop-blur-xl">
+          <div className="px-6 py-6 space-y-4">
+            {navLinks.map((link) => (
+              <Link
+                key={link.href}
+                to={link.href}
+                className="block text-sm text-white/60 hover:text-white transition-colors"
+              >
+                {link.label}
+              </Link>
+            ))}
+            <div className="pt-4 border-t border-white/[0.06] space-y-3">
+              <button className="block text-sm text-white/60 hover:text-white">
+                Sign In
+              </button>
+              <button className="glow-btn text-sm w-full py-2.5">
+                Get Started
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+    </header>
+  )
+}

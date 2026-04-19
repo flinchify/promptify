@@ -1,1 +1,65 @@
-{"data":"ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gRmVhdHVyZXMoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gcHQtMjQgcGItMTYiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctN3hsIG14LWF1dG8gcHgtNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTJ4bCI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNlY3Rpb24tbGFiZWwiPlsgRmVhdHVyZXMgXTwvc3Bhbj4KICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtNHhsIHNtOnRleHQtNXhsIGZvbnQtYm9sZCB0cmFja2luZy10aWdodCBtdC0yIj4KICAgICAgICAgICAgRXZlcnl0aGluZyB5b3UgbmVlZCB0b3snICd9CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZ3JhZGllbnQtdGV4dCI+YXNzZXNzIEFJIHByb2ZpY2llbmN5PC9zcGFuPgogICAgICAgICAgPC9oMT4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1sZyB0ZXh0LXdoaXRlLzQwIG10LTYgbGVhZGluZy1yZWxheGVkIj4KICAgICAgICAgICAgRnJvbSBhZGFwdGl2ZSB0ZXN0aW5nIHRvIHZlcmlmaWFibGUgY2VydGlmaWNhdGlvbnMsIElucHJvbXB0aUZ5IHByb3ZpZGVzCiAgICAgICAgICAgIHRoZSBjb21wbGV0ZSB0b29sa2l0IGZvciBtZWFzdXJpbmcgYW5kIHZhbGlkYXRpbmcgQUkgc2tpbGxzIGF0IGFueSBzY2FsZS4KICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgbWQ6Z3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTMgZ2FwLTQgbXQtMTYiPgogICAgICAgICAge1sKICAgICAgICAgICAgewogICAgICAgICAgICAgIHRpdGxlOiAnQWRhcHRpdmUgVGVzdGluZyBFbmdpbmUnLAogICAgICAgICAgICAgIGRlc2M6ICdBSS1wb3dlcmVkIGRpZmZpY3VsdHkgYWRqdXN0bWVudCB0aGF0IGZpbmRzIHlvdXIgZXhhY3Qgc2tpbGwgbGV2ZWwgaW4gaGFsZiB0aGUgdGltZS4nLAogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgdGl0bGU6ICdTa2lsbCBSYWRhciBDaGFydHMnLAogICAgICAgICAgICAgIGRlc2M6ICdNdWx0aS1kaW1lbnNpb25hbCBwcm9maWNpZW5jeSB2aXN1YWxpemF0aW9uIGFjcm9zcyBBSSBjb21wZXRlbmN5IGFyZWFzLicsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0aXRsZTogJ1JlYWwtdGltZSBTY29yaW5nJywKICAgICAgICAgICAgICBkZXNjOiAnSW5zdGFudCByZXN1bHRzIHdpdGggZGV0YWlsZWQgYnJlYWtkb3ducywgcGVyY2VudGlsZXMsIGFuZCBpbXByb3ZlbWVudCBzdWdnZXN0aW9ucy4nLAogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgdGl0bGU6ICdBc3Nlc3NtZW50IEJ1aWxkZXInLAogICAgICAgICAgICAgIGRlc2M6ICdEcmFnLWFuZC1kcm9wIGVkaXRvciB3aXRoIEFJLWFzc2lzdGVkIHF1ZXN0aW9uIGdlbmVyYXRpb24gYW5kIDEwSysgcXVlc3Rpb24gYmFuay4nLAogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgdGl0bGU6ICdUZWFtIERhc2hib2FyZHMnLAogICAgICAgICAgICAgIGRlc2M6ICdPcmdhbml6YXRpb24td2lkZSBhbmFseXRpY3MsIGRlcGFydG1lbnQgY29tcGFyaXNvbnMsIGFuZCB0cmFpbmluZyBST0kgdHJhY2tpbmcuJywKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIHRpdGxlOiAnRGlnaXRhbCBDZXJ0aWZpY2F0aW9ucycsCiAgICAgICAgICAgICAgZGVzYzogJ1ZlcmlmaWFibGUgYmFkZ2VzIHdpdGggdW5pcXVlIFVSTHMsIExpbmtlZEluIGludGVncmF0aW9uLCBhbmQgY3VzdG9tIGJyYW5kaW5nLicsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0aXRsZTogJ0FQSSAmIFdlYmhvb2tzJywKICAgICAgICAgICAgICBkZXNjOiAnUkVTVGZ1bCBBUEksIHJlYWwtdGltZSB3ZWJob29rcywgYW5kIFNES3MgaW4gUHl0aG9uLCBUeXBlU2NyaXB0LCBhbmQgR28uJywKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIHRpdGxlOiAnTE1TIEludGVncmF0aW9ucycsCiAgICAgICAgICAgICAgZGVzYzogJ05hdGl2ZSBpbnRlZ3JhdGlvbnMgd2l0aCBDYW52YXMsIE1vb2RsZSwgQmxhY2tib2FyZCwgYW5kIGN1c3RvbSBMVEkgc3VwcG9ydC4nLAogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgdGl0bGU6ICdBbnRpLUNoZWF0ICYgUHJvY3RvcmluZycsCiAgICAgICAgICAgICAgZGVzYzogJ0Jyb3dzZXIgbG9ja2Rvd24sIGNvcHktcGFzdGUgZGV0ZWN0aW9uLCBhbmQgb3B0aW9uYWwgQUktcG93ZXJlZCBwcm9jdG9yaW5nLicsCiAgICAgICAgICAgIH0sCiAgICAgICAgICBdLm1hcCgoZikgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17Zi50aXRsZX0gY2xhc3NOYW1lPSJnbGFzcy1zdHJvbmcgcC02IHJvdW5kZWQtMnhsIj4KICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LWJhc2UgZm9udC1zZW1pYm9sZCBtYi0yIj57Zi50aXRsZX08L2gzPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LXdoaXRlLzQwIGxlYWRpbmctcmVsYXhlZCI+e2YuZGVzY308L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKQp9Cg=="}
+export default function Features() {
+  return (
+    <div className="min-h-screen pt-24 pb-16">
+      <div className="max-w-7xl mx-auto px-6">
+        <div className="max-w-2xl">
+          <span className="section-label">[ Features ]</span>
+          <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mt-2">
+            Everything you need to{' '}
+            <span className="gradient-text">assess AI proficiency</span>
+          </h1>
+          <p className="text-lg text-white/40 mt-6 leading-relaxed">
+            From adaptive testing to verifiable certifications, InpromptiFy provides
+            the complete toolkit for measuring and validating AI skills at any scale.
+          </p>
+        </div>
+
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 mt-16">
+          {[
+            {
+              title: 'Adaptive Testing Engine',
+              desc: 'AI-powered difficulty adjustment that finds your exact skill level in half the time.',
+            },
+            {
+              title: 'Skill Radar Charts',
+              desc: 'Multi-dimensional proficiency visualization across AI competency areas.',
+            },
+            {
+              title: 'Real-time Scoring',
+              desc: 'Instant results with detailed breakdowns, percentiles, and improvement suggestions.',
+            },
+            {
+              title: 'Assessment Builder',
+              desc: 'Drag-and-drop editor with AI-assisted question generation and 10K+ question bank.',
+            },
+            {
+              title: 'Team Dashboards',
+              desc: 'Organization-wide analytics, department comparisons, and training ROI tracking.',
+            },
+            {
+              title: 'Digital Certifications',
+              desc: 'Verifiable badges with unique URLs, LinkedIn integration, and custom branding.',
+            },
+            {
+              title: 'API & Webhooks',
+              desc: 'RESTful API, real-time webhooks, and SDKs in Python, TypeScript, and Go.',
+            },
+            {
+              title: 'LMS Integrations',
+              desc: 'Native integrations with Canvas, Moodle, Blackboard, and custom LTI support.',
+            },
+            {
+              title: 'Anti-Cheat & Proctoring',
+              desc: 'Browser lockdown, copy-paste detection, and optional AI-powered proctoring.',
+            },
+          ].map((f) => (
+            <div key={f.title} className="glass-strong p-6 rounded-2xl">
+              <h3 className="text-base font-semibold mb-2">{f.title}</h3>
+              <p className="text-sm text-white/40 leading-relaxed">{f.desc}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  )
+}

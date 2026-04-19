@@ -1,1 +1,101 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCwgdXNlUmVmIH0gZnJvbSAncmVhY3QnCgpmdW5jdGlvbiBDb3VudFVwU3RhdCh7IHZhbHVlLCBsYWJlbCB9OiB7IHZhbHVlOiBzdHJpbmc7IGxhYmVsOiBzdHJpbmcgfSkgewogIGNvbnN0IHJlZiA9IHVzZVJlZjxIVE1MRGl2RWxlbWVudD4obnVsbCkKICBjb25zdCBbZGlzcGxheSwgc2V0RGlzcGxheV0gPSB1c2VTdGF0ZSh2YWx1ZSkKICBjb25zdCBoYXNBbmltYXRlZCA9IHVzZVJlZihmYWxzZSkKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnN0IGVsID0gcmVmLmN1cnJlbnQKICAgIGlmICghZWwpIHJldHVybgoKICAgIGNvbnN0IG51bWVyaWNNYXRjaCA9IHZhbHVlLm1hdGNoKC9eKFtcZC5dKykoLiopJC8pCiAgICBpZiAoIW51bWVyaWNNYXRjaCkgcmV0dXJuCgogICAgY29uc3QgdGFyZ2V0ID0gcGFyc2VGbG9hdChudW1lcmljTWF0Y2hbMV0pCiAgICBjb25zdCBzdWZmaXggPSBudW1lcmljTWF0Y2hbMl0KICAgIGNvbnN0IGlzRmxvYXQgPSB2YWx1ZS5pbmNsdWRlcygnLicpCgogICAgY29uc3Qgb2JzZXJ2ZXIgPSBuZXcgSW50ZXJzZWN0aW9uT2JzZXJ2ZXIoCiAgICAgIChbZW50cnldKSA9PiB7CiAgICAgICAgaWYgKGVudHJ5LmlzSW50ZXJzZWN0aW5nICYmICFoYXNBbmltYXRlZC5jdXJyZW50KSB7CiAgICAgICAgICBoYXNBbmltYXRlZC5jdXJyZW50ID0gdHJ1ZQogICAgICAgICAgc2V0RGlzcGxheSgnMCcgKyBzdWZmaXgpCiAgICAgICAgICBjb25zdCBzdGFydCA9IHBlcmZvcm1hbmNlLm5vdygpCiAgICAgICAgICBjb25zdCBkdXJhdGlvbiA9IDIwMDAKICAgICAgICAgIGNvbnN0IHN0ZXAgPSAobm93OiBudW1iZXIpID0+IHsKICAgICAgICAgICAgY29uc3QgcHJvZ3Jlc3MgPSBNYXRoLm1pbigobm93IC0gc3RhcnQpIC8gZHVyYXRpb24sIDEpCiAgICAgICAgICAgIGNvbnN0IGVhc2VkID0gMSAtIE1hdGgucG93KDEgLSBwcm9ncmVzcywgMykKICAgICAgICAgICAgY29uc3QgY3VycmVudCA9IGVhc2VkICogdGFyZ2V0CiAgICAgICAgICAgIHNldERpc3BsYXkoKGlzRmxvYXQgPyBjdXJyZW50LnRvRml4ZWQoMSkgOiBNYXRoLnJvdW5kKGN1cnJlbnQpLnRvTG9jYWxlU3RyaW5nKCkpICsgc3VmZml4KQogICAgICAgICAgICBpZiAocHJvZ3Jlc3MgPCAxKSByZXF1ZXN0QW5pbWF0aW9uRnJhbWUoc3RlcCkKICAgICAgICAgIH0KICAgICAgICAgIHJlcXVlc3RBbmltYXRpb25GcmFtZShzdGVwKQogICAgICAgIH0KICAgICAgfSwKICAgICAgeyB0aHJlc2hvbGQ6IDAuMyB9CiAgICApCiAgICBvYnNlcnZlci5vYnNlcnZlKGVsKQogICAgcmV0dXJuICgpID0+IG9ic2VydmVyLmRpc2Nvbm5lY3QoKQogIH0sIFt2YWx1ZV0pCgogIHJldHVybiAoCiAgICA8ZGl2IHJlZj17cmVmfSBjbGFzc05hbWU9InJldmVhbCI+CiAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIGdyYWRpZW50LXRleHQiPntkaXNwbGF5fTwvcD4KICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtd2hpdGUvMzAgbXQtMSI+e2xhYmVsfTwvcD4KICAgIDwvZGl2PgogICkKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQWJvdXQoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gcHQtMjQgcGItMTYiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctN3hsIG14LWF1dG8gcHgtNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTJ4bCI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNlY3Rpb24tbGFiZWwiPlsgQWJvdXQgXTwvc3Bhbj4KICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtNHhsIHNtOnRleHQtNXhsIGZvbnQtYm9sZCB0cmFja2luZy10aWdodCBtdC0yIHRleHQtd2hpdGUiPgogICAgICAgICAgICBNZWFzdXJpbmcgQUkgcHJvZmljaWVuY3kseycgJ30KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJncmFkaWVudC10ZXh0Ij5hY2N1cmF0ZWx5PC9zcGFuPgogICAgICAgICAgPC9oMT4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1sZyB0ZXh0LWdyYXktNDAwIG10LTYgbGVhZGluZy1yZWxheGVkIj4KICAgICAgICAgICAgSW5wcm9tcHRpRnkgd2FzIGJ1aWx0IG9uIGEgc2ltcGxlIG9ic2VydmF0aW9uOiBhcyBBSSB0cmFuc2Zvcm1zIGV2ZXJ5CiAgICAgICAgICAgIGluZHVzdHJ5LCB0aGVyZSZhcG9zO3Mgbm8gcmVsaWFibGUgd2F5IHRvIG1lYXN1cmUgaG93IHdlbGwgcGVvcGxlIGFjdHVhbGx5CiAgICAgICAgICAgIHVzZSB0aGVzZSB0b29scy4gV2UmYXBvcztyZSBjaGFuZ2luZyB0aGF0LgogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBtZDpncmlkLWNvbHMtMyBnYXAtNCBtdC0xNiI+CiAgICAgICAgICB7WwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgdGl0bGU6ICdPdXIgTWlzc2lvbicsCiAgICAgICAgICAgICAgdGV4dDogJ1RvIGNyZWF0ZSB0aGUgZ2xvYmFsIHN0YW5kYXJkIGZvciBBSSBwcm9maWNpZW5jeSBtZWFzdXJlbWVudC4gV2UgYmVsaWV2ZSB0aGF0IGFjY3VyYXRlIGFzc2Vzc21lbnQgZHJpdmVzIGJldHRlciBsZWFybmluZywgc21hcnRlciBoaXJpbmcsIGFuZCBtb3JlIGVmZmVjdGl2ZSB0ZWFtcy4nLAogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgdGl0bGU6ICdPdXIgQXBwcm9hY2gnLAogICAgICAgICAgICAgIHRleHQ6ICdXZSBjb21iaW5lIHBzeWNob21ldHJpYyBzY2llbmNlIHdpdGggbW9kZXJuIEFJIHRvIGJ1aWxkIGFzc2Vzc21lbnRzIHRoYXQgYXJlIGFkYXB0aXZlLCBmYWlyLCBhbmQgZ2VudWluZWx5IHVzZWZ1bC4gTm8gdHJpdmlhIHF1ZXN0aW9ucyDigJQgb25seSByZWFsLXdvcmxkIHNraWxsIHZhbGlkYXRpb24uJywKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIHRpdGxlOiAnT3VyIFRlYW0nLAogICAgICAgICAgICAgIHRleHQ6ICJXZSdyZSBhIHRlYW0gb2YgYXNzZXNzbWVudCBzY2llbnRpc3RzLCBBSSBlbmdpbmVlcnMsIGFuZCBwcm9kdWN0IGJ1aWxkZXJzIGZyb20gY29tcGFuaWVzIGxpa2UgR29vZ2xlLCBBbnRocm9waWMsIGFuZCBEdW9saW5nby4gQmFzZWQgaW4gU2FuIEZyYW5jaXNjby4iLAogICAgICAgICAgICB9LAogICAgICAgICAgXS5tYXAoKGNhcmQsIGkpID0+ICgKICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIGtleT17Y2FyZC50aXRsZX0KICAgICAgICAgICAgICBjbGFzc05hbWU9e2ByZXZlYWwgc3RhZ2dlci0ke2kgKyAxfSBnbGFzcy1zdHJvbmcgcC02IHJvdW5kZWQtMnhsIGhvdmVyOmJvcmRlci1vcmFuZ2UtNTAwLzEwIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMGB9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LWJhc2UgZm9udC1zZW1pYm9sZCBtYi0zIHRleHQtd2hpdGUiPntjYXJkLnRpdGxlfTwvaDM+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtZ3JheS00MDAgbGVhZGluZy1yZWxheGVkIj57Y2FyZC50ZXh0fTwvcD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTI0IGdyaWQgbWQ6Z3JpZC1jb2xzLTQgZ2FwLTggdGV4dC1jZW50ZXIiPgogICAgICAgICAgPENvdW50VXBTdGF0IHZhbHVlPSIxNTBLKyIgbGFiZWw9IkFzc2Vzc21lbnRzIiAvPgogICAgICAgICAgPENvdW50VXBTdGF0IHZhbHVlPSI0MCsiIGxhYmVsPSJDb3VudHJpZXMiIC8+CiAgICAgICAgICA8Q291bnRVcFN0YXQgdmFsdWU9IjUwMCsiIGxhYmVsPSJPcmdhbml6YXRpb25zIiAvPgogICAgICAgICAgPENvdW50VXBTdGF0IHZhbHVlPSI5OS45JSIgbGFiZWw9IlVwdGltZSIgLz4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApCn0K"}
+import { useState, useEffect, useRef } from 'react'
+
+function CountUpStat({ value, label }: { value: string; label: string }) {
+  const ref = useRef<HTMLDivElement>(null)
+  const [display, setDisplay] = useState(value)
+  const hasAnimated = useRef(false)
+
+  useEffect(() => {
+    const el = ref.current
+    if (!el) return
+
+    const numericMatch = value.match(/^([\d.]+)(.*)$/)
+    if (!numericMatch) return
+
+    const target = parseFloat(numericMatch[1])
+    const suffix = numericMatch[2]
+    const isFloat = value.includes('.')
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting && !hasAnimated.current) {
+          hasAnimated.current = true
+          setDisplay('0' + suffix)
+          const start = performance.now()
+          const duration = 2000
+          const step = (now: number) => {
+            const progress = Math.min((now - start) / duration, 1)
+            const eased = 1 - Math.pow(1 - progress, 3)
+            const current = eased * target
+            setDisplay((isFloat ? current.toFixed(1) : Math.round(current).toLocaleString()) + suffix)
+            if (progress < 1) requestAnimationFrame(step)
+          }
+          requestAnimationFrame(step)
+        }
+      },
+      { threshold: 0.3 }
+    )
+    observer.observe(el)
+    return () => observer.disconnect()
+  }, [value])
+
+  return (
+    <div ref={ref} className="reveal">
+      <p className="text-3xl font-bold gradient-text">{display}</p>
+      <p className="text-sm text-white/30 mt-1">{label}</p>
+    </div>
+  )
+}
+
+export default function About() {
+  return (
+    <div className="min-h-screen pt-24 pb-16">
+      <div className="max-w-7xl mx-auto px-6">
+        <div className="max-w-2xl">
+          <span className="section-label">[ About ]</span>
+          <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mt-2 text-white">
+            Measuring AI proficiency,{' '}
+            <span className="gradient-text">accurately</span>
+          </h1>
+          <p className="text-lg text-gray-400 mt-6 leading-relaxed">
+            InpromptiFy was built on a simple observation: as AI transforms every
+            industry, there&apos;s no reliable way to measure how well people actually
+            use these tools. We&apos;re changing that.
+          </p>
+        </div>
+
+        <div className="grid md:grid-cols-3 gap-4 mt-16">
+          {[
+            {
+              title: 'Our Mission',
+              text: 'To create the global standard for AI proficiency measurement. We believe that accurate assessment drives better learning, smarter hiring, and more effective teams.',
+            },
+            {
+              title: 'Our Approach',
+              text: 'We combine psychometric science with modern AI to build assessments that are adaptive, fair, and genuinely useful. No trivia questions — only real-world skill validation.',
+            },
+            {
+              title: 'Our Team',
+              text: "We're a team of assessment scientists, AI engineers, and product builders from companies like Google, Anthropic, and Duolingo. Based in San Francisco.",
+            },
+          ].map((card, i) => (
+            <div
+              key={card.title}
+              className={`reveal stagger-${i + 1} glass-strong p-6 rounded-2xl hover:border-orange-500/10 transition-all duration-300`}
+            >
+              <h3 className="text-base font-semibold mb-3 text-white">{card.title}</h3>
+              <p className="text-sm text-gray-400 leading-relaxed">{card.text}</p>
+            </div>
+          ))}
+        </div>
+
+        <div className="mt-24 grid md:grid-cols-4 gap-8 text-center">
+          <CountUpStat value="150K+" label="Assessments" />
+          <CountUpStat value="40+" label="Countries" />
+          <CountUpStat value="500+" label="Organizations" />
+          <CountUpStat value="99.9%" label="Uptime" />
+        </div>
+      </div>
+    </div>
+  )
+}

@@ -1,1 +1,64 @@
-{"data":"LyoqIEB0eXBlIHtpbXBvcnQoJ3RhaWx3aW5kY3NzJykuQ29uZmlnfSAqLwpleHBvcnQgZGVmYXVsdCB7CiAgY29udGVudDogWwogICAgIi4vaW5kZXguaHRtbCIsCiAgICAiLi9zcmMvKiovKi57anMsdHMsanN4LHRzeH0iLAogIF0sCiAgdGhlbWU6IHsKICAgIGV4dGVuZDogewogICAgICBmb250RmFtaWx5OiB7CiAgICAgICAgc2FuczogWydJbnRlcicsICdzYW5zLXNlcmlmJ10sCiAgICAgIH0sCiAgICAgIGNvbG9yczogewogICAgICAgIGJyYW5kOiB7CiAgICAgICAgICA1MDogJyNmZmY3ZWQnLAogICAgICAgICAgMTAwOiAnI2ZmZWRkNScsCiAgICAgICAgICAyMDA6ICcjZmVkN2FhJywKICAgICAgICAgIDMwMDogJyNmZGJhNzQnLAogICAgICAgICAgNDAwOiAnI2ZiOTIzYycsCiAgICAgICAgICA1MDA6ICcjZjk3MzE2JywKICAgICAgICAgIDYwMDogJyNlYTU4MGMnLAogICAgICAgICAgNzAwOiAnI2MyNDEwYycsCiAgICAgICAgICA4MDA6ICcjOWEzNDEyJywKICAgICAgICAgIDkwMDogJyM3YzJkMTInLAogICAgICAgIH0sCiAgICAgIH0sCiAgICAgIGFuaW1hdGlvbjogewogICAgICAgICdmYWRlLWluLXVwJzogJ2ZhZGVJblVwIDAuNnMgZWFzZS1vdXQgZm9yd2FyZHMnLAogICAgICAgICdmYWRlLWluJzogJ2ZhZGVJbiAwLjZzIGVhc2Utb3V0IGZvcndhcmRzJywKICAgICAgICAnc2NhbGUtaW4nOiAnc2NhbGVJbiAwLjVzIGVhc2Utb3V0IGZvcndhcmRzJywKICAgICAgICAnc2xpZGUtaW4tbGVmdCc6ICdzbGlkZUluTGVmdCAwLjZzIGVhc2Utb3V0IGZvcndhcmRzJywKICAgICAgICAnc2xpZGUtaW4tcmlnaHQnOiAnc2xpZGVJblJpZ2h0IDAuNnMgZWFzZS1vdXQgZm9yd2FyZHMnLAogICAgICAgICdwdWxzZS1nbG93JzogJ3B1bHNlR2xvdyAzcyBlYXNlLWluLW91dCBpbmZpbml0ZScsCiAgICAgICAgJ2NvdW50ZXInOiAnY291bnRlciAycyBlYXNlLW91dCBmb3J3YXJkcycsCiAgICAgIH0sCiAgICAgIGtleWZyYW1lczogewogICAgICAgIGZhZGVJblVwOiB7CiAgICAgICAgICAnMCUnOiB7IG9wYWNpdHk6ICcwJywgdHJhbnNmb3JtOiAndHJhbnNsYXRlWSgzMHB4KScgfSwKICAgICAgICAgICcxMDAlJzogeyBvcGFjaXR5OiAnMScsIHRyYW5zZm9ybTogJ3RyYW5zbGF0ZVkoMCknIH0sCiAgICAgICAgfSwKICAgICAgICBmYWRlSW46IHsKICAgICAgICAgICcwJSc6IHsgb3BhY2l0eTogJzAnIH0sCiAgICAgICAgICAnMTAwJSc6IHsgb3BhY2l0eTogJzEnIH0sCiAgICAgICAgfSwKICAgICAgICBzY2FsZUluOiB7CiAgICAgICAgICAnMCUnOiB7IG9wYWNpdHk6ICcwJywgdHJhbnNmb3JtOiAnc2NhbGUoMC45KScgfSwKICAgICAgICAgICcxMDAlJzogeyBvcGFjaXR5OiAnMScsIHRyYW5zZm9ybTogJ3NjYWxlKDEpJyB9LAogICAgICAgIH0sCiAgICAgICAgc2xpZGVJbkxlZnQ6IHsKICAgICAgICAgICcwJSc6IHsgb3BhY2l0eTogJzAnLCB0cmFuc2Zvcm06ICd0cmFuc2xhdGVYKC0zMHB4KScgfSwKICAgICAgICAgICcxMDAlJzogeyBvcGFjaXR5OiAnMScsIHRyYW5zZm9ybTogJ3RyYW5zbGF0ZVgoMCknIH0sCiAgICAgICAgfSwKICAgICAgICBzbGlkZUluUmlnaHQ6IHsKICAgICAgICAgICcwJSc6IHsgb3BhY2l0eTogJzAnLCB0cmFuc2Zvcm06ICd0cmFuc2xhdGVYKDMwcHgpJyB9LAogICAgICAgICAgJzEwMCUnOiB7IG9wYWNpdHk6ICcxJywgdHJhbnNmb3JtOiAndHJhbnNsYXRlWCgwKScgfSwKICAgICAgICB9LAogICAgICAgIHB1bHNlR2xvdzogewogICAgICAgICAgJzAlLCAxMDAlJzogeyBib3hTaGFkb3c6ICcwIDAgMjBweCByZ2JhKDI0OSwgMTE1LCAyMiwgMC4zKScgfSwKICAgICAgICAgICc1MCUnOiB7IGJveFNoYWRvdzogJzAgMCA0MHB4IHJnYmEoMjQ5LCAxMTUsIDIyLCAwLjYpJyB9LAogICAgICAgIH0sCiAgICAgIH0sCiAgICB9LAogIH0sCiAgcGx1Z2luczogW10sCn0K"}
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+      },
+      colors: {
+        brand: {
+          50: '#fff7ed',
+          100: '#ffedd5',
+          200: '#fed7aa',
+          300: '#fdba74',
+          400: '#fb923c',
+          500: '#f97316',
+          600: '#ea580c',
+          700: '#c2410c',
+          800: '#9a3412',
+          900: '#7c2d12',
+        },
+      },
+      animation: {
+        'fade-in-up': 'fadeInUp 0.6s ease-out forwards',
+        'fade-in': 'fadeIn 0.6s ease-out forwards',
+        'scale-in': 'scaleIn 0.5s ease-out forwards',
+        'slide-in-left': 'slideInLeft 0.6s ease-out forwards',
+        'slide-in-right': 'slideInRight 0.6s ease-out forwards',
+        'pulse-glow': 'pulseGlow 3s ease-in-out infinite',
+        'counter': 'counter 2s ease-out forwards',
+      },
+      keyframes: {
+        fadeInUp: {
+          '0%': { opacity: '0', transform: 'translateY(30px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+        fadeIn: {
+          '0%': { opacity: '0' },
+          '100%': { opacity: '1' },
+        },
+        scaleIn: {
+          '0%': { opacity: '0', transform: 'scale(0.9)' },
+          '100%': { opacity: '1', transform: 'scale(1)' },
+        },
+        slideInLeft: {
+          '0%': { opacity: '0', transform: 'translateX(-30px)' },
+          '100%': { opacity: '1', transform: 'translateX(0)' },
+        },
+        slideInRight: {
+          '0%': { opacity: '0', transform: 'translateX(30px)' },
+          '100%': { opacity: '1', transform: 'translateX(0)' },
+        },
+        pulseGlow: {
+          '0%, 100%': { boxShadow: '0 0 20px rgba(249, 115, 22, 0.3)' },
+          '50%': { boxShadow: '0 0 40px rgba(249, 115, 22, 0.6)' },
+        },
+      },
+    },
+  },
+  plugins: [],
+}

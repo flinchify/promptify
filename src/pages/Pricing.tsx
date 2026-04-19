@@ -1,1 +1,160 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCcKCmNvbnN0IHBsYW5zID0gWwogIHsKICAgIG5hbWU6ICdTdGFydGVyJywKICAgIG1vbnRobHk6IDAsCiAgICBhbm51YWw6IDAsCiAgICBwcmljZUxhYmVsOiAnRnJlZScsCiAgICBkZXNjcmlwdGlvbjogJ0ZvciBpbmRpdmlkdWFscyBleHBsb3JpbmcgQUkgYXNzZXNzbWVudCcsCiAgICBmZWF0dXJlczogWwogICAgICAnNSBhc3Nlc3NtZW50cyBwZXIgbW9udGgnLAogICAgICAnQmFzaWMgc2tpbGwgcmVwb3J0cycsCiAgICAgICdDb21tdW5pdHkgcXVlc3Rpb24gYmFuaycsCiAgICAgICdFbWFpbCBzdXBwb3J0JywKICAgIF0sCiAgICBjdGE6ICdHZXQgU3RhcnRlZCcsCiAgICBoaWdobGlnaHRlZDogZmFsc2UsCiAgfSwKICB7CiAgICBuYW1lOiAnUHJvJywKICAgIG1vbnRobHk6IDI5LAogICAgYW5udWFsOiAyMywKICAgIHByaWNlTGFiZWw6ICcnLAogICAgZGVzY3JpcHRpb246ICdGb3IgdGVhbXMgYnVpbGRpbmcgQUktcmVhZHkgd29ya2ZvcmNlJywKICAgIGZlYXR1cmVzOiBbCiAgICAgICdVbmxpbWl0ZWQgYXNzZXNzbWVudHMnLAogICAgICAnQWRhcHRpdmUgdGVzdGluZyBlbmdpbmUnLAogICAgICAnU2tpbGwgcmFkYXIgY2hhcnRzJywKICAgICAgJ1RlYW0gYW5hbHl0aWNzICh1cCB0byA1MCknLAogICAgICAnQ3VzdG9tIGFzc2Vzc21lbnRzJywKICAgICAgJ0FQSSBhY2Nlc3MnLAogICAgICAnUHJpb3JpdHkgc3VwcG9ydCcsCiAgICBdLAogICAgY3RhOiAnU3RhcnQgRnJlZSBUcmlhbCcsCiAgICBoaWdobGlnaHRlZDogdHJ1ZSwKICB9LAogIHsKICAgIG5hbWU6ICdFbnRlcnByaXNlJywKICAgIG1vbnRobHk6IDAsCiAgICBhbm51YWw6IDAsCiAgICBwcmljZUxhYmVsOiAnQ3VzdG9tJywKICAgIGRlc2NyaXB0aW9uOiAnRm9yIG9yZ2FuaXphdGlvbnMgYXQgc2NhbGUnLAogICAgZmVhdHVyZXM6IFsKICAgICAgJ0V2ZXJ5dGhpbmcgaW4gUHJvJywKICAgICAgJ1VubGltaXRlZCB0ZWFtIG1lbWJlcnMnLAogICAgICAnRGlnaXRhbCBjZXJ0aWZpY2F0aW9ucycsCiAgICAgICdTU08gJiBTQ0lNJywKICAgICAgJ0N1c3RvbSBpbnRlZ3JhdGlvbnMnLAogICAgICAnRGVkaWNhdGVkIENTTScsCiAgICAgICdTTEEgZ3VhcmFudGVlJywKICAgICAgJ09uLXByZW1pc2Ugb3B0aW9uJywKICAgIF0sCiAgICBjdGE6ICdDb250YWN0IFNhbGVzJywKICAgIGhpZ2hsaWdodGVkOiBmYWxzZSwKICB9LApdCgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBQcmljaW5nKCkgewogIGNvbnN0IFthbm51YWwsIHNldEFubnVhbF0gPSB1c2VTdGF0ZShmYWxzZSkKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gcHQtMjQgcGItMTYiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctN3hsIG14LWF1dG8gcHgtNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIG1heC13LXhsIG14LWF1dG8iPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJzZWN0aW9uLWxhYmVsIj5bIFByaWNpbmcgXTwvc3Bhbj4KICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtNHhsIHNtOnRleHQtNXhsIGZvbnQtYm9sZCB0cmFja2luZy10aWdodCBtdC0yIHRleHQtd2hpdGUiPgogICAgICAgICAgICBTaW1wbGUsIHRyYW5zcGFyZW50IHByaWNpbmcKICAgICAgICAgIDwvaDE+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbGcgdGV4dC1ncmF5LTQwMCBtdC00Ij4KICAgICAgICAgICAgU3RhcnQgZnJlZS4gU2NhbGUgYXMgeW91IGdyb3cuIE5vIHN1cnByaXNlcy4KICAgICAgICAgIDwvcD4KCiAgICAgICAgICB7LyogTW9udGhseSAvIEFubnVhbCB0b2dnbGUgKi99CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZ2FwLTMgbXQtOCI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17YHRleHQtc20gJHshYW5udWFsID8gJ3RleHQtd2hpdGUnIDogJ3RleHQtd2hpdGUvNDAnfWB9Pk1vbnRobHk8L3NwYW4+CiAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRBbm51YWwoIWFubnVhbCl9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcmVsYXRpdmUgdy0xMiBoLTYgcm91bmRlZC1mdWxsIHRyYW5zaXRpb24tY29sb3JzICR7CiAgICAgICAgICAgICAgICBhbm51YWwgPyAnYmctb3JhbmdlLTUwMCcgOiAnYmctd2hpdGUvMTAnCiAgICAgICAgICAgICAgfWB9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2BhYnNvbHV0ZSB0b3AtMC41IHctNSBoLTUgcm91bmRlZC1mdWxsIGJnLXdoaXRlIHRyYW5zaXRpb24tdHJhbnNmb3JtICR7CiAgICAgICAgICAgICAgICAgIGFubnVhbCA/ICd0cmFuc2xhdGUteC02JyA6ICd0cmFuc2xhdGUteC0wLjUnCiAgICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtgdGV4dC1zbSAke2FubnVhbCA/ICd0ZXh0LXdoaXRlJyA6ICd0ZXh0LXdoaXRlLzQwJ31gfT4KICAgICAgICAgICAgICBBbm51YWwgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LW9yYW5nZS00MDAgdGV4dC14cyBmb250LW1vbm8iPi0yMCU8L3NwYW4+CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBtZDpncmlkLWNvbHMtMyBnYXAtNCBtdC0xMiBtYXgtdy01eGwgbXgtYXV0byI+CiAgICAgICAgICB7cGxhbnMubWFwKChwbGFuKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IHByaWNlID0gcGxhbi5wcmljZUxhYmVsCiAgICAgICAgICAgICAgPyBwbGFuLnByaWNlTGFiZWwKICAgICAgICAgICAgICA6IGFubnVhbAogICAgICAgICAgICAgID8gYCQke3BsYW4uYW5udWFsfWAKICAgICAgICAgICAgICA6IGAkJHtwbGFuLm1vbnRobHl9YAogICAgICAgICAgICBjb25zdCBwZXJpb2QgPSBwbGFuLnByaWNlTGFiZWwgPyAnJyA6IGFubnVhbCA/ICcvbW8gYmlsbGVkIGFubnVhbGx5JyA6ICcvbW9udGgnCgogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgIGtleT17cGxhbi5uYW1lfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcm91bmRlZC0yeGwgcC02IGZsZXggZmxleC1jb2wgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIGhvdmVyOnNjYWxlLVsxLjAyXSBob3ZlcjpzaGFkb3ctbGcgaG92ZXI6c2hhZG93LW9yYW5nZS01MDAvNSAkewogICAgICAgICAgICAgICAgICBwbGFuLmhpZ2hsaWdodGVkCiAgICAgICAgICAgICAgICAgICAgPyAnYmctZ3JhZGllbnQtdG8tYiBmcm9tLW9yYW5nZS01MDAvWzAuMDhdIHRvLXRyYW5zcGFyZW50IGJvcmRlciBib3JkZXItb3JhbmdlLTUwMC8yMCcKICAgICAgICAgICAgICAgICAgICA6ICdnbGFzcy1zdHJvbmcnCiAgICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZSI+e3BsYW4ubmFtZX08L2gzPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTMgZmxleCBpdGVtcy1iYXNlbGluZSBnYXAtMSI+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIHRleHQtd2hpdGUiPntwcmljZX08L3NwYW4+CiAgICAgICAgICAgICAgICAgIHtwZXJpb2QgJiYgKAogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LXdoaXRlLzMwIj57cGVyaW9kfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtZ3JheS00MDAgbXQtMiI+e3BsYW4uZGVzY3JpcHRpb259PC9wPgoKICAgICAgICAgICAgICAgIDx1bCBjbGFzc05hbWU9Im10LTYgc3BhY2UteS0yLjUgZmxleC0xIj4KICAgICAgICAgICAgICAgICAge3BsYW4uZmVhdHVyZXMubWFwKChmKSA9PiAoCiAgICAgICAgICAgICAgICAgICAgPGxpIGtleT17Zn0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXNtIHRleHQtZ3JheS0zMDAiPgogICAgICAgICAgICAgICAgICAgICAgPHN2ZwogICAgICAgICAgICAgICAgICAgICAgICB3aWR0aD0iMTQiCiAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodD0iMTQiCiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdCb3g9IjAgMCAxNCAxNCIKICAgICAgICAgICAgICAgICAgICAgICAgZmlsbD0ibm9uZSIKICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LW9yYW5nZS00MDAgZmxleC1zaHJpbmstMCIKICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGgKICAgICAgICAgICAgICAgICAgICAgICAgICBkPSJNMTEuNSAzLjVMNS4yNSA5Ljc1IDIuNSA3IgogICAgICAgICAgICAgICAgICAgICAgICAgIHN0cm9rZT0iY3VycmVudENvbG9yIgogICAgICAgICAgICAgICAgICAgICAgICAgIHN0cm9rZVdpZHRoPSIxLjUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgc3Ryb2tlTGluZWNhcD0icm91bmQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgc3Ryb2tlTGluZWpvaW49InJvdW5kIgogICAgICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICB7Zn0KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgIDwvdWw+CgogICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2BtdC04IHctZnVsbCBweS0yLjUgcm91bmRlZC1sZyB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRyYW5zaXRpb24tYWxsICR7CiAgICAgICAgICAgICAgICAgICAgcGxhbi5oaWdobGlnaHRlZAogICAgICAgICAgICAgICAgICAgICAgPyAnZ2xvdy1idG4nCiAgICAgICAgICAgICAgICAgICAgICA6ICdnaG9zdC1idG4nCiAgICAgICAgICAgICAgICAgIH1gfQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICB7cGxhbi5jdGF9CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKQogICAgICAgICAgfSl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKQp9Cg=="}
+import { useState } from 'react'
+
+const plans = [
+  {
+    name: 'Starter',
+    monthly: 0,
+    annual: 0,
+    priceLabel: 'Free',
+    description: 'For individuals exploring AI assessment',
+    features: [
+      '5 assessments per month',
+      'Basic skill reports',
+      'Community question bank',
+      'Email support',
+    ],
+    cta: 'Get Started',
+    highlighted: false,
+  },
+  {
+    name: 'Pro',
+    monthly: 29,
+    annual: 23,
+    priceLabel: '',
+    description: 'For teams building AI-ready workforce',
+    features: [
+      'Unlimited assessments',
+      'Adaptive testing engine',
+      'Skill radar charts',
+      'Team analytics (up to 50)',
+      'Custom assessments',
+      'API access',
+      'Priority support',
+    ],
+    cta: 'Start Free Trial',
+    highlighted: true,
+  },
+  {
+    name: 'Enterprise',
+    monthly: 0,
+    annual: 0,
+    priceLabel: 'Custom',
+    description: 'For organizations at scale',
+    features: [
+      'Everything in Pro',
+      'Unlimited team members',
+      'Digital certifications',
+      'SSO & SCIM',
+      'Custom integrations',
+      'Dedicated CSM',
+      'SLA guarantee',
+      'On-premise option',
+    ],
+    cta: 'Contact Sales',
+    highlighted: false,
+  },
+]
+
+export default function Pricing() {
+  const [annual, setAnnual] = useState(false)
+
+  return (
+    <div className="min-h-screen pt-24 pb-16">
+      <div className="max-w-7xl mx-auto px-6">
+        <div className="text-center max-w-xl mx-auto">
+          <span className="section-label">[ Pricing ]</span>
+          <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mt-2 text-white">
+            Simple, transparent pricing
+          </h1>
+          <p className="text-lg text-gray-400 mt-4">
+            Start free. Scale as you grow. No surprises.
+          </p>
+
+          {/* Monthly / Annual toggle */}
+          <div className="flex items-center justify-center gap-3 mt-8">
+            <span className={`text-sm ${!annual ? 'text-white' : 'text-white/40'}`}>Monthly</span>
+            <button
+              onClick={() => setAnnual(!annual)}
+              className={`relative w-12 h-6 rounded-full transition-colors ${
+                annual ? 'bg-orange-500' : 'bg-white/10'
+              }`}
+            >
+              <div
+                className={`absolute top-0.5 w-5 h-5 rounded-full bg-white transition-transform ${
+                  annual ? 'translate-x-6' : 'translate-x-0.5'
+                }`}
+              />
+            </button>
+            <span className={`text-sm ${annual ? 'text-white' : 'text-white/40'}`}>
+              Annual <span className="text-orange-400 text-xs font-mono">-20%</span>
+            </span>
+          </div>
+        </div>
+
+        <div className="grid md:grid-cols-3 gap-4 mt-12 max-w-5xl mx-auto">
+          {plans.map((plan) => {
+            const price = plan.priceLabel
+              ? plan.priceLabel
+              : annual
+              ? `$${plan.annual}`
+              : `$${plan.monthly}`
+            const period = plan.priceLabel ? '' : annual ? '/mo billed annually' : '/month'
+
+            return (
+              <div
+                key={plan.name}
+                className={`rounded-2xl p-6 flex flex-col transition-all duration-300 hover:scale-[1.02] hover:shadow-lg hover:shadow-orange-500/5 ${
+                  plan.highlighted
+                    ? 'bg-gradient-to-b from-orange-500/[0.08] to-transparent border border-orange-500/20'
+                    : 'glass-strong'
+                }`}
+              >
+                <h3 className="text-lg font-semibold text-white">{plan.name}</h3>
+                <div className="mt-3 flex items-baseline gap-1">
+                  <span className="text-3xl font-bold text-white">{price}</span>
+                  {period && (
+                    <span className="text-sm text-white/30">{period}</span>
+                  )}
+                </div>
+                <p className="text-sm text-gray-400 mt-2">{plan.description}</p>
+
+                <ul className="mt-6 space-y-2.5 flex-1">
+                  {plan.features.map((f) => (
+                    <li key={f} className="flex items-center gap-2 text-sm text-gray-300">
+                      <svg
+                        width="14"
+                        height="14"
+                        viewBox="0 0 14 14"
+                        fill="none"
+                        className="text-orange-400 flex-shrink-0"
+                      >
+                        <path
+                          d="M11.5 3.5L5.25 9.75 2.5 7"
+                          stroke="currentColor"
+                          strokeWidth="1.5"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                        />
+                      </svg>
+                      {f}
+                    </li>
+                  ))}
+                </ul>
+
+                <button
+                  className={`mt-8 w-full py-2.5 rounded-lg text-sm font-medium transition-all ${
+                    plan.highlighted
+                      ? 'glow-btn'
+                      : 'ghost-btn'
+                  }`}
+                >
+                  {plan.cta}
+                </button>
+              </div>
+            )
+          })}
+        </div>
+      </div>
+    </div>
+  )
+}
