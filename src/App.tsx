@@ -1,4 +1,5 @@
-import { Routes, Route } from 'react-router-dom'
+import { Routes, Route, useLocation } from 'react-router-dom'
+import { useEffect } from 'react'
 import { useScrollReveal } from './hooks/useScrollReveal'
 import Header from './components/Header'
 import Footer from './components/Footer'
@@ -12,7 +13,12 @@ import Login from './pages/Login'
 import Signup from './pages/Signup'
 
 export default function App() {
+  const { pathname } = useLocation()
   useScrollReveal()
+
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [pathname])
 
   return (
     <div className="min-h-screen bg-[#0a0a0f] text-white font-sans antialiased">
